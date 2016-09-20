@@ -4,7 +4,17 @@ USC IML 404 class code (http://usc.oblong.com)
 this is a repository for storing code we work on in class. the starting point for much of this code is based on examples made by the processing community: please see comments in the code for the credits.
 
 ## week 4
-- https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/Webcam
-- https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/FaceDetection
-- https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/OpticalFlow
 
+week 4 we'll use the webcam in your computers to try out face detection and optical flow.  to start off, download the processing video and OpenCV libraries (`Sketch > Import Library... > Add Library...` search for "video" and install `Video | GStreamer-based...`, then search for OpenCV and install `OpenCV for Processing`).  now you can run the following examples: 
+
+- [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/Webcam)
+- [face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/FaceDetection)
+- [optical flow example](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160913_week4/OpticalFlow)
+
+## week 5
+
+week 5 we'll explore the microsoft kinect as a way to generate 3D point clouds and depth images.  to start off, download shiffman's Open Kinect Library (`Sketch > Import Library... > install Library...` search for "kinect" and add `Open Kinect for Processing`).  now in `File > Examples... > Contributed Libraries > OpenKinect for Processing > Kinect_v1` we'll look at 
+
+- [Point Cloud](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/PointCloud)
+- [Average Point Tracking](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/AveragePointTracking)
+- [Depth Threshold](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/DepthThreshold)
