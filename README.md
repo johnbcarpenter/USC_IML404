@@ -21,3 +21,11 @@ to start off, download shiffman's Open Kinect Library (`Sketch > Import Library.
 - [Average Point Tracking (via shiffman on github)](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/AveragePointTracking)
 - [Depth Threshold (via shiffman on github)](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/DepthThreshold)
 - [Shiffman Depth Filtering + Shimodaira Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160920_week5/DepthThresholdOpticalFlow)
+
+## week 6
+
+week 6 we'll explore using agent-based systems with the RGB camera and the kinect. again, daniel shiffman has a great introduction to agent-based systems here: [http://natureofcode.com/book/chapter-6-autonomous-agents/](http://natureofcode.com/book/chapter-6-autonomous-agents/), so please check it out if you'd like a more in depth look at how agent-based systems work. 
+
+- [Shiffman's flocking example](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160927_week6/NOC_6_09_Flocking)
+- [Shiffman flocking + Shimodaira Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160927_week6/Flocking_OpticalFlow)
+- [shiffman kinect v1 point cloud + an agent based system](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160927_week6/PointCloud_AgentSystem)
