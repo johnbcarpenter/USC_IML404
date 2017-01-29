@@ -1,7 +1,7 @@
 /* OpenCV for Processing 0.5.2 by Greg Borenstein  
-   Computer vision with OpenCV: Face Detection example
-   Install the library using Sketch > Import Library... > Add Library...
-*/
+ Computer vision with OpenCV: Variation on the Background Substraction example
+ Install the library using Sketch > Import Library... > Add Library...
+ */
 
 import gab.opencv.*;
 import processing.video.*;
@@ -14,7 +14,7 @@ void setup() {
   size(960, 540);
   video = new Capture(this, 960, 540);
   opencv = new OpenCV(this, 960, 540);
-  opencv.loadCascade(OpenCV.CASCADE_FRONTALFACE);  
+  opencv.startBackgroundSubtraction(5, 3, 0.5);
 
   video.start();
 }
@@ -22,18 +22,18 @@ void setup() {
 void draw() {
   // scale(2);
   opencv.loadImage(video);
+  opencv.updateBackground();
 
   image(video, 0, 0 );
 
-  noFill();
-  stroke(0, 255, 0);
-  strokeWeight(3);
-  Rectangle[] faces = opencv.detect();
-  // println(faces.length);
+  opencv.dilate();
+  opencv.erode();
 
-  for (int i = 0; i < faces.length; i++) {
-    // println(faces[i].x + "," + faces[i].y);
-    rect(faces[i].x, faces[i].y, faces[i].width, faces[i].height);
+  noFill();
+  stroke(255, 0, 0);
+  strokeWeight(3);
+  for (Contour contour : opencv.findContours()) {
+    contour.draw();
   }
 }
 
