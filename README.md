@@ -28,6 +28,8 @@ to start off, download shiffman's Open Kinect Library (`Sketch > Import Library.
 - [Depth Threshold (via shiffman on github)](https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/DepthThreshold)
 - [Shiffman Depth Filtering + Shimodaira Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160920_week5/DepthThresholdOpticalFlow)
 
+if there's time, we'll run through Casey Reas and Ben Fry's discussion of arrays and classes in [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do) to prep for weeks 6.
+
 ## week 6
 
 week 6 we'll explore using agent-based systems with the RGB camera and the kinect. again, daniel shiffman has a great introduction to agent-based systems here: [http://natureofcode.com/book/chapter-6-autonomous-agents/](http://natureofcode.com/book/chapter-6-autonomous-agents/) and even has a video for it [https://vimeo.com/63928274](https://vimeo.com/63928274), so please check them out if you'd like a more in depth look at how agent-based systems work. 
