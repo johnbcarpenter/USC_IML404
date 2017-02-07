@@ -29,6 +29,7 @@ to start off, download shiffman's Open Kinect Library (`Sketch > Import Library.
 - [Shiffman Depth Filtering + Shimodaira Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160920_week5/DepthThresholdOpticalFlow)
 
 if there's time, we'll run through Casey Reas and Ben Fry's discussion of arrays and classes in [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do) to prep for weeks 6.
+- [bouncy ball class + array example](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160920_week5/bouncy_balls)
 
 ## week 6
 
