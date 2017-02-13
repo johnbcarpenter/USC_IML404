@@ -33,10 +33,10 @@ void setup() {
   // FLOCKING SETUP
   flock = new Flock();
   // Add an initial set of boids into the system
-  for (int i = 0; i < 200; i++) {
-    Boid b = new Boid(width/2,height/2);
-    flock.addBoid(b);
-  }
+  //for (int i = 0; i < 200; i++) {
+  //  Boid b = new Boid(width/2,height/2);
+  //  flock.addBoid(b);
+  //}
 }
 
 void draw() {
@@ -59,11 +59,14 @@ void draw() {
     PVector force_start = SOF.flows.get(i);
     PVector force_end = SOF.flows.get(i+1);
     PVector force_vector = PVector.sub(force_end, force_start);
-    if (force_vector.mag() < 20.0) //ignore smaller force vectors
+    if (force_vector.mag() < 20.0 || force_vector.mag() > 21.0) //ignore smaller force vectors
       continue;
       
     // normalize the force vector, then multiply it by some factor 
     force_vector.normalize().mult(3.0);
+    
+    Boid new_b = new Boid(force_start.x,force_start.y);
+    flock.addBoid(new_b);
     
     // loop through the boids now
     for (Boid b : flock.boids) {

@@ -13,6 +13,8 @@ class Boid {
   float r;
   float maxforce;    // Maximum steering force
   float maxspeed;    // Maximum speed
+  
+  float lifespan;
 
   Boid(float x, float y) {
     acceleration = new PVector(0,0);
@@ -21,6 +23,8 @@ class Boid {
     r = 3.0;
     maxspeed = 10; // BUMPED UP FOR OPTICAL FLOW
     maxforce = 0.05;
+    
+    lifespan = 30;
   }
 
   void run(ArrayList<Boid> boids) {
@@ -28,6 +32,8 @@ class Boid {
     update();
     borders();
     render();
+    
+    lifespan--;
   }
 
   void applyForce(PVector force) {
@@ -79,8 +85,10 @@ class Boid {
   void render() {
     // Draw a triangle rotated in the direction of velocity
     float theta = velocity.heading2D() + radians(90);
-    fill(175);
-    stroke(0);
+    //fill(175);
+    fill (255, lifespan * 4.0);
+    //stroke(0);
+    noStroke();
     pushMatrix();
     translate(location.x,location.y);
     rotate(theta);

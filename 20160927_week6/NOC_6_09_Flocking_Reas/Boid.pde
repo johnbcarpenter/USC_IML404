@@ -19,7 +19,7 @@ class Boid {
     velocity = new PVector(random(-1,1),random(-1,1));
     location = new PVector(x,y);
     r = 3.0;
-    maxspeed = 10; // BUMPED UP FOR OPTICAL FLOW
+    maxspeed = 3;
     maxforce = 0.05;
   }
 
@@ -27,7 +27,7 @@ class Boid {
     flock(boids);
     update();
     borders();
-    render();
+    render(); // <<<render the boid
   }
 
   void applyForce(PVector force) {
@@ -59,8 +59,6 @@ class Boid {
     location.add(velocity);
     // Reset accelertion to 0 each cycle
     acceleration.mult(0);
-    // slow velocity over time (add a drag)
-    velocity.mult(0.99); // ADDED UP FOR OPTICAL FLOW (SLOW vel DOWN OVER TIME)
   }
 
   // A method that calculates and applies a steering force towards a target
@@ -103,7 +101,7 @@ class Boid {
   // Separation
   // Method checks for nearby boids and steers away
   PVector separate (ArrayList<Boid> boids) {
-    float desiredseparation = 25.0f;
+    float desiredseparation = 50.0f;
     PVector steer = new PVector(0,0,0);
     int count = 0;
     // For every boid in the system, check if it's too close
@@ -117,6 +115,18 @@ class Boid {
         diff.div(d);        // Weight by distance
         steer.add(diff);
         count++;            // Keep track of how many
+        
+        // alpha of line based on proximity to another boid
+        //float a = map (d, 0, desiredseparation, 255, 0); // <<< figure ou tthe alpha val
+        //stroke (0, a); 
+        
+        // line color based on proximity to another boid
+        //float c = map (d, 0, desiredseparation, 0, 255); // <<< figure ou tthe alpha val
+        //stroke (c); 
+        
+        // draw a line from the this boid to the other neighbor
+        //line (location.x, location.y, 
+        //      other.location.x, other.location.y);
       }
     }
     // Average -- divide by how many
