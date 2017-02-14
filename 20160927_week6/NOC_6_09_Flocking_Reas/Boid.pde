@@ -27,7 +27,7 @@ class Boid {
     flock(boids);
     update();
     borders();
-    render(); // <<<render the boid
+    //render(); // <<<render the boid
   }
 
   void applyForce(PVector force) {
@@ -121,12 +121,12 @@ class Boid {
         //stroke (0, a); 
         
         // line color based on proximity to another boid
-        //float c = map (d, 0, desiredseparation, 0, 255); // <<< figure ou tthe alpha val
-        //stroke (c); 
+        float c = map (d, 0, desiredseparation, 0, 255); // <<< figure ou tthe alpha val
+        stroke (c); 
         
         // draw a line from the this boid to the other neighbor
-        //line (location.x, location.y, 
-        //      other.location.x, other.location.y);
+        line (location.x, location.y, 
+              other.location.x, other.location.y);
       }
     }
     // Average -- divide by how many

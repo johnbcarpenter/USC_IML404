@@ -34,7 +34,7 @@ void setup() {
 }
 
 void draw() {
-  background(255); // <<< background refresh?
+  //background(255); // <<< background refresh?
   flock.run();
   
   // Instructions
