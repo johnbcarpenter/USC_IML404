@@ -48,5 +48,5 @@ week 6 we'll explore using agent-based systems with the RGB camera and the kinec
 PLEASE TURN IN A FOLDER WITH :
 - your source code (zipped root folder with all assets)
 - a txt document with your work's title and one or two sentences about the project 
-- single representative photo / screen capture, 1920x1080px or 960x540px (or if your piece was process based = you ran a bunch of variations of you code to find the perfect version, you can (should) turn in a folder with multiple images)
-- 30s to 2m video documentation... ~720p. feel free to use screen capture (quicktime player... new screen recording) and / or camera footage (eg a camera pointed at you and the computer / projection screen). it's important to make sure you show someone interacting with your work via the camera / 3D sensor. keep in mind that most of the world will probably only see your work through documentation, so make it good! 
+- single representative photo / screen capture, 1920x1080px or 960x540px. if your had many iterations of your project that you liked, you optionally can turn in a folder with multiple images.
+- 30s to 2m video documentation... ~720p. feel free to use screen capture (quicktime player... new screen recording) and / or camera footage (e.g. a camera pointed at you and the computer / projection screen). it's important to make sure you show someone interacting with your work via the camera / 3D sensor. keep in mind that most of the world will probably only see your work through documentation, so make it good! 
