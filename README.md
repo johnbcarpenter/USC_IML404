@@ -41,11 +41,9 @@ week 6 we'll explore using agent-based systems with the RGB camera and the kinec
 - [Shiffman flocking + Shimodaira Optical Flow + Boid Emitting](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160927_week6/BoidEmit_OpticalFlow)
 - [Shiffman kinect v1 point cloud + an agent based system](https://github.com/johnbcarpenter/USC_IML404/tree/master/20160927_week6/PointCloud_AgentSystem)
 
-## -----------------------------------------
 ## week 7 -- PROCESSING PROJECT DUE (02/27/2017)
-## -----------------------------------------
 
-# use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. it's not a requirement, but consider using open cv, optical flow and/or agent–based systems work we covered in class.
+### use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. it's not a requirement, but consider using open cv, optical flow and/or agent–based systems work we covered in class.
 
 PLEASE TURN IN A FOLDER WITH :
 - your source code (zipped root folder with all assets)
