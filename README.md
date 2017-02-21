@@ -45,11 +45,11 @@ week 6 we'll explore using agent-based systems with the RGB camera and the kinec
 
 send a couple sentence email to pete and i outlining your processing project.  feel free to include an image or link(s) for reference to imagery, libraries, etc.
 
-## week 8 -- PROCESSING PROJECT DUE (02/27/2017)
+## week 8 -- PROCESSING PROJECT DUE / IN CLASS REVIEW (02/27/2017)
 
-### use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. it's not a requirement, but consider using open cv, optical flow and/or agent–based systems work we covered in class.
+### use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. it's not a requirement, but consider using the above open cv, optical flow and/or agent–based systems examples and code we covered in class.
 
-PLEASE TURN IN A FOLDER WITH :
+DOCUMENTATION DUE BEFORE CLASS 03/06/2017.  PLEASE TURN IN A FOLDER WITH :
 - your source code (zipped root folder with all assets)
 - a txt document with your work's title and one or two sentences about the project 
 - single representative photo / screen capture, 1920x1080px or 960x540px. if your had many iterations of your project that you liked, you optionally can turn in a folder with multiple images.
