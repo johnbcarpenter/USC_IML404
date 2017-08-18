@@ -13,7 +13,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(0);
   //fill(0,10);
   //rect (0,0,width,height);
   for (int i = 0; i < bouncy_balls.length; i++){

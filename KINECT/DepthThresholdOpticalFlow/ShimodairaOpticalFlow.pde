@@ -7,8 +7,6 @@
 
 import processing.video.*;
 
-ShimodairaOpticalFlow SOF;
-
 class ShimodairaOpticalFlow {
 
   int[] cam_pixels;
@@ -35,7 +33,7 @@ class ShimodairaOpticalFlow {
   int fm=3*9; // length of the vectors
 
   // regularization term for regression
-  float fc=pow(10, 8); // larger values for noisy cam
+  float fc=pow(10, 9); // larger values for noisy cam
 
   // smoothing parameters
   float wflow=0.1; // smaller value for longer smoothing
@@ -293,7 +291,6 @@ class ShimodairaOpticalFlow {
     for (int i = 0; i < flows.size() - 2; i+=2) {
       PVector force_start = flows.get(i);
       PVector force_end = flows.get(i+1);
-
       PVector force_color = flows_color.get(i);
       //println ("force from " + force_start + " to " + force_end);
       stroke(force_color.x, force_color.y, force_color.z);

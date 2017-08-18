@@ -35,11 +35,13 @@ void setup() {
 
 void draw() {
   //background(255); // <<< background refresh?
+  fill(255,255,255,20);
+  rect(0,0,width,height);
   flock.run();
   
   // Instructions
-  fill(0);
-  text("Drag the mouse to generate new boids.",10,height-16);
+  //fill(0);
+  //text("Drag the mouse to generate new boids.",10,height-16);
 }
 
 // Add a new boid into the System

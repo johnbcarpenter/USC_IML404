@@ -13,6 +13,7 @@ class Boid {
   float r;
   float maxforce;    // Maximum steering force
   float maxspeed;    // Maximum speed
+  color boid_color;
 
   Boid(float x, float y) {
     acceleration = new PVector(0,0);
@@ -21,6 +22,8 @@ class Boid {
     r = 3.0;
     maxspeed = 3;
     maxforce = 0.05;
+    
+    boid_color = color (random(255),random(255),random(255), 255);
   }
 
   void run(ArrayList<Boid> boids) {
@@ -77,8 +80,9 @@ class Boid {
   void render() {
     // Draw a triangle rotated in the direction of velocity
     float theta = velocity.heading2D() + radians(90);
-    fill(175);
-    stroke(0);
+    fill(boid_color);
+    //stroke(0);
+    noStroke();
     pushMatrix();
     translate(location.x,location.y);
     rotate(theta);
@@ -121,10 +125,10 @@ class Boid {
         //stroke (0, a); 
         
         // line color based on proximity to another boid
-        float c = map (d, 0, desiredseparation, 0, 255); // <<< figure ou tthe alpha val
-        stroke (c); 
+        float a = map (d, 0, desiredseparation, 0, 255); // <<< figure ou tthe alpha val
+        stroke (a); 
         
-        // draw a line from the this boid to the other neighbor
+        //// draw a line from the this boid to the other neighbor
         line (location.x, location.y, 
               other.location.x, other.location.y);
       }

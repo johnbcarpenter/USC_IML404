@@ -7,11 +7,12 @@ class BouncyBall {
   BouncyBall(float _x, float _y){ //constructor
     x = _x;
     y = _y;
-    size = 10;
+    size = random(1,40);
     c = color (random(255), random(255), random(255));
     
-    x_rate = random(-10,10);
-    y_rate = random(-10,10);
+    float rnge = map (size, 1, 40, 400, 10);
+    x_rate = rnge * random(-1,1);
+    y_rate = rnge * random(-1,1);
   }
   
   void Update(){

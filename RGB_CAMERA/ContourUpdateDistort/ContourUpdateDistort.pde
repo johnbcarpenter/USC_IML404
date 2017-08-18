@@ -24,7 +24,8 @@ void draw() {
   opencv.loadImage(video);
   opencv.updateBackground();
 
-  image(video, 0, 0 );
+  background (255);
+  //image(video, 0, 0 );
 
   opencv.dilate();
   opencv.erode();
@@ -33,7 +34,17 @@ void draw() {
   stroke(255, 0, 0);
   strokeWeight(3);
   for (Contour contour : opencv.findContours()) {
-    contour.draw();
+    // contour.draw();
+    // println(contour.getPoints());
+    
+    ArrayList<PVector> points = contour.getPoints();
+    
+    beginShape(POINTS);
+    for (PVector p : points){
+      vertex (p.x + 0.1*random(-mouseX,mouseX), p.y + 0.1*random(-mouseY,mouseY));
+    }
+    endShape(CLOSE);
+    
   }
 }
 

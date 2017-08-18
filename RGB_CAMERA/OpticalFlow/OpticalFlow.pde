@@ -40,7 +40,16 @@ void draw () {
   //for (int i = 0; i < SOF.flows.size() - 2; i+=2) {
   //  PVector force_start = SOF.flows.get(i);
   //  PVector force_end = SOF.flows.get(i+1);
-  //  println ("force from " + force_start + " to " + force_end);
+  //  //println ("force from " + force_start + " to " + force_end);
+    
+    
+  //  PVector force = PVector.sub (force_end, force_start);
+  //  float radius = force.mag();
+  //  float heading = force.heading();
+  //  float f = map (heading, 0, TWO_PI, 0, 255);
+  //  fill (f);
+  //  noStroke();
+  //  ellipse (force_start.x, force_start.y, radius, radius);
   //}
 
 }
