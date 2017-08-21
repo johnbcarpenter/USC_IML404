@@ -1,5 +1,7 @@
 # USC_IML404
-USC IML 404 class code (http://usc.oblong.com)
+USC IML 404 class code (NOTE: NOT LIVE YET) (http://usc.oblong.com)
+
+[syllabus](https://github.com/johnbcarpenter/USC_IML404/tree/master/IML404_syllabus_FALL2017.pdf)
 
 this is a repository for storing code we work on in class. the starting point for much of this code is based on examples made by the processing community: please see comments in the code for the credits.
 
@@ -55,7 +57,7 @@ send a couple sentence email to pete and i outlining your processing project.  f
 
 ## week 5 -- PROCESSING PROJECT DUE / IN CLASS REVIEW 
 
-### use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. ideally, you'll upon our work in class with open cv, optical flow and/or agent–based systems, but feel free to discuss other sensors you can use with us (e.g. maybe you'd prefer to work with audio).
+use a RGB camera or a 3D sensor (the kinect) as an input device for your own art / design work. ideally, you'll upon our work in class with open cv, optical flow and/or agent–based systems, but feel free to discuss other sensors you can use with us (e.g. maybe you'd prefer to work with audio).
 
 ## week 6 -- DOCUMENTATION DUE BEFORE CLASS 09/26/2017.  PLEASE TURN IN A FOLDER WITH :
 
