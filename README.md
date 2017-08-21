@@ -9,6 +9,8 @@ if you're brand new to processing, or it's been a little while since you've writ
 
 ## week 1
 
+[syllabus](https://github.com/johnbcarpenter/USC_IML404/tree/master/IML404_syllabus_FALL2017.pdf) walkthrough / teacher intros.
+
 we'll start off the processing portion of the class with a very brief review of Casey Reas and Ben Fry's great book [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). 
 
 we'll end up at classes and arrays as much of our work in this class will depend on them:
