@@ -20,6 +20,7 @@ we'll end up at classes and arrays as much of our work in this class will depend
 and then explore agent-based systems.  daniel shiffman has a great introduction to the topic here: [http://natureofcode.com/book/chapter-6-autonomous-agents/](http://natureofcode.com/book/chapter-6-autonomous-agents/) and even has a video for it [https://vimeo.com/63928274](https://vimeo.com/63928274), so please check them out if you'd like a more in depth look at how agent-based systems work. 
 
 - [Shiffman's flocking example](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents/NOC_6_09_Flocking)
+- [Shiffman's flocking example + mouse following](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents/NOC_6_09_FlockingMouse)
 - [Shiffman's flocking example Casey Reas style](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/NOC_6_09_Flocking_Reas)
 
 ## week 2
