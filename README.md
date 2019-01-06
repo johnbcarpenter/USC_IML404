@@ -1,5 +1,5 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
-_Tangible and Spatial Computing_ is an examination of existing and emergent media technologies, focusing on creative and critical tactics for empowering you to explore the full potentials of software and hardware in your work.  
+_Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics for empowering you to explore the full potentials of software and hardware in your work.  
   
 we will explore extended human computer interaction, including new forms of haptic, sonic and other sense modalities, through physical computing and spatial interfaces. instruction will draw heavily from both our careers as artists, and our roles as designers at [oblong industries](http://www.oblong.com)—an existing business designed to imagine workspaces of the near future.  the projects will focus on opening up and reshaping the way we approach, think about, understand, and work with technology.  
   
