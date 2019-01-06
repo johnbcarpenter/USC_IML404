@@ -159,6 +159,7 @@ class ShimodairaOpticalFlow {
   void calculateFlow() {
     if (cam.available() == true) {
       cam.read();
+      cam.loadPixels(); // p3D requires this, works fine w/out in 2D
 
       // clock in msec
       clockNow = millis();
@@ -175,6 +176,7 @@ class ShimodairaOpticalFlow {
             cam.pixels[ig+x]=vline[cam.width-1-x];
         }
       }
+      cam.updatePixels(); // p3D requires this, works fine w/out in 2D
 
       // 1st sweep : differentiation by time
       for (int ix=0; ix<gw; ix++) {

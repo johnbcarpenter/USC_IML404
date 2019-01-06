@@ -3,7 +3,7 @@ import processing.video.*;
 ShimodairaOpticalFlow SOF;
 
 void setup () {
-  size(960, 540);
+  size(960, 540);//, P3D);
 
   String[] cameras = Capture.list();
 
