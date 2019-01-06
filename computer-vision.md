@@ -1,4 +1,4 @@
-# IML404 (S19) // Tangible and Spatial Computing // USC MA+P   
+# IML404 // Tangible + Spatial Computing // USC MA+P S19   
 ## computer vision in processing
 this course assumes you have a basic understanding of programming and writing code (eg some experience in Processing, Arduino, Java, C#/Unity, C++, JavaScript or similar). if you'd like to brush up on the foundations for this course, consider reviewing Casey Reas and Ben Fry's introduction to programming [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). if you've written code before, but are new to processing, check out Daniel Shiffman's fantastic one hour tutorial / introduction to processing: [Hello Processing](http://hello.processing.org) and the [processing website](http://processing.org).
 
