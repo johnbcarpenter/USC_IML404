@@ -8,15 +8,27 @@ in order to run these examples, you'll need to download the processing video and
 - [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/Webcam)
 - [face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/FaceDetection)
 - [face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdate)
+
+![pixel shift / face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/face-diff.png)
+
 - [pixel shift face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdateDistort)
 - [face differences (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/FaceDiff)
+
+![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)
+
 - [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/WebcamReordering_01)
   
 ### RGB camera + optical flow
+
+![optical flow](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow.png)
+
 - [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/OpticalFlow)
 
 ### RGB camera + optical flow + agent-based systems
-- [Shiffman flocking + Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/Flocking_OpticalFlow)  
+- [Shiffman flocking + Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/Flocking_OpticalFlow) 
+
+![optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/boid-flow.png)
+
 - [Shimodaira optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/BoidEmit_OpticalFlow)  
   
 ## background notes on shiffman and agent-based systems (eg flocking)  
