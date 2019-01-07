@@ -48,7 +48,7 @@ here are some links to the original flocking code by Shiffman (which are in turn
 
 ## past student work
 ![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
-_^ tfwhollow (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)_
+_^ neon dancer (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)_
 
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
 _^ storm (spring 2016) by dorothy peng_
@@ -59,7 +59,7 @@ _^ ghostly shapes (spring 2017) by mark vrahas // [full youtube documentation](h
 ![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
 _^ tfwhollow (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)_
 
-![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
+![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/impressions-spring16.gif)  
 _^ impressions (spring 2016) by jonah sanchez_
 
 ![emoji optical flow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/emoji-optical-flow-spring17.gif)  
