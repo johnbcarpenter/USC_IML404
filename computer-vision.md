@@ -1,7 +1,7 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 
 ![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)  
-^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)
+_^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)_
 
 this course assumes you have a basic understanding of programming and writing code (eg some experience in Processing, Arduino, Java, C#/Unity, C++, JavaScript or similar). if you'd like to brush up on the foundations for this course, consider reviewing Casey Reas and Ben Fry's introduction to programming [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). if you've written code before, but are new to processing, check out Daniel Shiffman's fantastic one hour tutorial / introduction to processing: [Hello Processing](http://hello.processing.org) and the [phantennarocessing website](http://processing.org).
 
