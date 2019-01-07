@@ -19,7 +19,7 @@ we'll be working with this repository to store and share the code that we discus
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
 
 ## week 1 (syllabus, teacher intros + computer vision in processing)
-- [syllabus](https://github.com/johnbcarpenter/USC_IML404/tree/master/IML404_syllabus_SPRING2019.pdf) 
+- [syllabus](https://github.com/johnbcarpenter/USC_IML404/tree/master/pdf/IML404-MAP-SPRING2019.pdf) 
 - teacher intros
 - [computer vision in processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
 
