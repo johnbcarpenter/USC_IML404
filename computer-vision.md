@@ -6,11 +6,11 @@ _^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)_
 this course assumes you have a basic understanding of programming and writing code (eg some experience in Processing, Arduino, Java, C#/Unity, C++, JavaScript or similar). if you'd like to brush up on the foundations for this course, consider reviewing Casey Reas and Ben Fry's introduction to programming [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). if you've written code before, but are new to processing, check out Daniel Shiffman's fantastic one hour tutorial / introduction to processing: [Hello Processing](http://hello.processing.org) and the [phantennarocessing website](http://processing.org).
 
 ## computer vision in processing
-in short, in this sectino we're going to use your computer's RGB (web) camera to interact with a processing sketch (aka your computer).  daniel shiffman has a really nice discussion and introduction to computer vision [here](https://www.youtube.com/watch?v=h8tk0hmWB44).
+we won't be using a visual pipeline quite as sophisticated as the one above, but we're going to use your computer's RGB (web) camera and a computer vision library to interact with your computer via a processing sketch.  daniel shiffman has a really nice discussion and introduction to computer vision [here](https://www.youtube.com/watch?v=h8tk0hmWB44).
 
 the fantastic library that we'll be using for things like face tracking, brightest point tracking, and frame differencing is [OpenCV for Processing by Greg Borenstein](https://github.com/atduskgreg/opencv-processing).
 
-and we'll also use an optical flow class that i adapted from an [open processing sketch](https://www.openprocessing.org/sketch/10435/) originally posted by [Hidetoshi Shimodaira](https://vimeo.com/12629933).
+and we'll also use an optical flow class that i adapted from an [open processing sketch](https://www.openprocessing.org/sketch/10435/) by [Hidetoshi Shimodaira](https://vimeo.com/12629933).
 
 ### RGB camera examples
 in order to run these examples, you'll need to download the processing video and OpenCV libraries (`Sketch > Import Library... > Add Library...` search for "video" and install `Video | GStreamer-based...`, then search for OpenCV and install `OpenCV for Processing`).  now you can downlaod and run the following:
