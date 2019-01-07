@@ -8,6 +8,9 @@ we'll be working with this repository to store and share the code that we discus
 **Instructors: [John Carpenter](http://johnbcarpenter.com) + [Pete Hawkes](https://vimeo.com/petehawkes)**  
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
 
+![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)  
+_^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)_
+
 ## week 1 (syllabus, teacher intros + computer vision in processing)
 - [syllabus](https://github.com/johnbcarpenter/USC_IML404/tree/master/IML404_syllabus_SPRING2019.pdf) 
 - teacher intros
