@@ -45,3 +45,22 @@ if you're new to agent-based systems, daniel shiffman has a great introduction t
 here are some links to the original flocking code by Shiffman (which are in turn adaptations of work done by [Craig Reynolds](https://www.red3d.com/cwr/papers/1987/boids.html)):  
 - [Shiffman's flocking example](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents/NOC_6_09_Flocking)  
 - [Shiffman's flocking example + mouse following](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp06_agents/NOC_6_09_FlockingMouse)  
+
+## past student work
+![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
+_^ tfwhollow (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)_
+
+![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
+_^ storm (spring 2016) by dorothy peng_
+
+![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
+_^ ghostly shapes (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)_
+
+![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
+_^ tfwhollow (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)_
+
+![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
+_^ impressions (spring 2016) by jonah sanchez_
+
+![emoji optical flow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/emoji-optical-flow-spring17.gif)  
+_^ emoji optical flow (spring 2017) by caroline brooks_
