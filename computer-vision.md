@@ -16,10 +16,11 @@ in order to run these examples, you'll need to download the processing video and
 - [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/Webcam)
 - [face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/FaceDetection)
 - [face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdate)
-
-![pixel shift / face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/face-diff.png)
-
 - [pixel shift face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdateDistort)
+
+![face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/national-reas.png)
+_^ [the day i die by the national](https://www.youtube.com/watch?v=GwZvip416NU), video by casey reas_ uses a similar effect to the FaceDiff sketch
+
 - [face differences (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/FaceDiff)
 
 ![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)
