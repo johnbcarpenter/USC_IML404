@@ -6,7 +6,7 @@ _^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_
 ## computer vision in processing using a 3D sensor (part 2)
 we're going to be using [OpenKinect for Processing by Daniel Shiffman](https://github.com/shiffman/OpenKinect-for-Processing), and we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) again -- please note, the class isn't exactly the same in this new set of examples -- this optical flow class been optimized for working with depth data.  
 
-daniel shiffman has a nice introduction to the kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM).  here's a nice quick [image + description](http://www.depthbiomechanics.co.uk/?p=100) of how the kinect works.
+daniel shiffman has a nice introduction to the kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM).  here's a nice quick [description](http://www.depthbiomechanics.co.uk/?p=100) of how the kinect works + a photo of the [IR dot pattern](https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/) it generates.  
 
 i really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want), and 2) you can work directly with 3D data scans of the environment/body.  we'll talk a little bit about how to use both of these techniques in class today.
 
