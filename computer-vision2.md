@@ -35,5 +35,5 @@ _^ [unnamed sound sculpture](https://vimeo.com/38874664) by onformative (2012)_
 - [kinect optical flow + boid emit](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/BoidEmit_DepthThresholdOpticalFlow) 
 
 ### Kinect point clouds
-- [kinect point cloud + agents](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/PointCloud_AgentSystem)
+- [kinect point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/PointCloud_AgentSystem)
 
