@@ -26,7 +26,7 @@ _^ [unnamed sound sculpture](https://vimeo.com/38874664) by onformative (2012)_
 - _[fragile tension by depeche mode / memo akten (2009)](http://www.memo.tv/portfolio/depeche-mode-fragile-tension/)_
 - _[momentum by schnellebuntebilder (2015)](https://vimeo.com/112193826)_
 - _[Creative Networks (CAN) Physics Tutorial by Amno Owed (2013)](https://vimeo.com/49516871)_
-- _[~NSFW~ EGO – Klaus Obermaier with Stefano D’Alessio & Martina Menegon (2015)](https://vimeo.com/119042339)_
+- _[(possibly NSFW for cartoon anatomy) EGO – Klaus Obermaier with Stefano D’Alessio & Martina Menegon (2015)](https://vimeo.com/119042339)_
   
 
 ### Kinect camera + optical flow
