@@ -9,7 +9,7 @@ we're going to be using [OpenKinect for Processing by Daniel Shiffman](https://g
 daniel shiffman has a nice introduction to the kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM).  i really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want), and 2) you can work directly with 3D data scans of the environment/body.  we'll talk a little bit about how to use both of these techniques in class today.
 
 ![flux 2.0](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flux2-munich.gif)  
-_^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018)_
+_^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018) / photo: Wolfgang Stahl_
 
 ### kinect examples
 in order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for "kinect" and install `Open Kinect for Processing`.  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`)
