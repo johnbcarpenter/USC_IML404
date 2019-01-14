@@ -4,14 +4,8 @@
 _^ light compass (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski_
 
 _Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics for empowering you to explore the full potentials of software and hardware in your work.  
-  
-![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
-_^ happy bird (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee_  
 
 we will explore extended human computer interaction, including new forms of haptic, sonic and other sense modalities, through physical computing and spatial interfaces. instruction will draw heavily from both our careers as artists, and our roles as designers at [oblong industries](http://www.oblong.com)—an existing business designed to imagine workspaces of the near future.  the projects will focus on opening up and reshaping the way we approach, think about, understand, and work with technology.  
-  
-![brain (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brain-spring17.gif)  
-_^ brain interface (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas_
 
 we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.  
   
@@ -19,18 +13,18 @@ we'll be working with this repository to store and share the code that we discus
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
 
 ## WEEKLY SCHEDULE
-
-### class Processing () {
-  Week 01. 01/07/2019 <teacher intros // computer vision>
-    - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/PDF/IML404-MAP-SPRING2019.pdf) 
-    - teacher intros
-    - [computer vision in processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
-
-  Week 02. 01/14/2019 <processing: kinect>
-    - [optical flow + boids / flocking](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
-    - [kinect + boids](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md)
-    - discuss processing project proposals / working session  
   
+### class Processing () {  
+  Week 01. 01/07/2019 <teacher intros // computer vision>  
+    - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/PDF/IML404-MAP-SPRING2019.pdf)   
+    - teacher intros  
+    - [computer vision in processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)  
+  
+  Week 02. 01/14/2019 <processing: kinect>  
+    - [optical flow + boids / flocking](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)  
+    - [kinect + boids](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md)  
+    - discuss processing project proposals / working session    
+    
   Week 03. 01/21/2019 >>>MLK day<<<  
     - there will be an alternative class day   
     - machine learning and visual recognition  
@@ -42,7 +36,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - **processing project due**  
     - in-class critique (with guest reviewer)  
     - arduino introduction  
-}  
+### }  
   
 ### class Arduino () {  
   Week 06. 02/11/2019  
@@ -70,15 +64,18 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - **arduino project due**  
     - in-class critique (with guest reviewer)  
     - required readings assignment  
-}  
+### }  
 
 ### class Prototype () {  
   Week 13. 04/01/2019  
     - cardboard prototype working session  
     - blog post documentation intro  
-}  
+### }  
   
-### class g-speak () {  
+![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
+_^ happy bird (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee_  
+
+### class g-speak () {  
   Week 14. 04/08/2019 <g-speak: intro>   
     - **cardboard prototype project crit + blog post due**  
     - guest lecture @the warehouse  
@@ -95,6 +92,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
   FINAL EXHIBIT. 05/06/2019 4:30-6:30 p.m. <g-speak project reviews>  
     - **g-speak project due**  
     - @the warehouse  
-}  
+### }  
   
-**class work due**
+![brain (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brain-spring17.gif)  
+_^ brain interface (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas_
