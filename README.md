@@ -23,6 +23,10 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
 - teacher intros
 - [computer vision in processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
 
+## week 2 (computer vision in processing part 2)
+- [optical flow + boids / flocking](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
+- [kinect + boids](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md)
+
 
 
 
