@@ -44,7 +44,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - microcontrollers / leds / knobs / pots  
   
   Week 07. 02/18/2019 >>>President’s Day<<<  
-   - electronics boot camp in office hours  
+    - electronics boot camp in office hours  
   
   Week 08. 02/25/2019 <arduino intro>  
     - sensors / actuators  
