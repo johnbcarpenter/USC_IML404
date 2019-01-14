@@ -25,7 +25,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - [kinect + boids](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md)  
     - discuss processing project proposals / working session    
     
-  Week 03. 01/21/2019 >>>MLK day<<<  
+  // Week 03. 01/21/2019 >>>MLK day / NO CLASS<<<  
     - there will be an alternative class day   
     - machine learning and visual recognition  
      
@@ -43,7 +43,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - talk: electronics for art and design <arduino intro>  
     - microcontrollers / leds / knobs / pots  
   
-  Week 07. 02/18/2019 >>>President’s Day<<<  
+  // Week 07. 02/18/2019 >>>President’s Day / NO CLASS<<<  
     - electronics boot camp in office hours  
   
   Week 08. 02/25/2019 <arduino intro>  
