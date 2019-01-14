@@ -29,15 +29,16 @@ the video by casey reas uses a similar effect to the FaceDiff sketch
 - [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/WebcamReordering_01)
   
 ### RGB camera + optical flow
+`Optical flow is the pattern of apparent motion of image objects between two consecutive frames caused by the movemement of object or camera. It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second. `  [-- Lucas Kanade / Open Source Computer Vision](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html)
 
-![optical flow](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow.png)
+![optical flow screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow.png)
 
 - [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/OpticalFlow)
 
 ### RGB camera + optical flow + agent-based systems
-- [Shiffman flocking + Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/Flocking_OpticalFlow) 
+- [control Shiffman flocking boids with Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/Flocking_OpticalFlow) 
 
-![optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/boid-flow.png)
+![optical flow + boid emitting screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/boid-flow.png)
 
 - [Shimodaira optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/BoidEmit_OpticalFlow)  
   

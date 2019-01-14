@@ -6,13 +6,13 @@ _^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_
 ## computer vision in processing using a 3D sensor (part 2)
 we're going to be using [OpenKinect for Processing by Daniel Shiffman](https://github.com/shiffman/OpenKinect-for-Processing), and we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) again -- please note, the class isn't exactly the same in this new set of examples -- this optical flow class been optimized for working with depth data.  
 
-i really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want), and 2) you can work directly with 3D data scans of the environment/body.  we'll talk a little bit about how to use both of these techniques in class today.
+daniel shiffman has a nice introduction to the kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM).  i really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want), and 2) you can work directly with 3D data scans of the environment/body.  we'll talk a little bit about how to use both of these techniques in class today.
 
 ![flux 2.0](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flux2-munich.gif)  
 _^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018)_
 
 ### kinect examples
-in order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for "kinect" and install `Open Kinect for Processing`.  Please look through the examples that are installed with the library (see documents/Processing/libraries/openkinect_processing/examples/Kinect_v1)
+in order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for "kinect" and install `Open Kinect for Processing`.  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`)
 
 ### inspiration
 ![onformative_unnamed-sound-sculpture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/onformative_unnamed-sound-sculpture.gif)  
@@ -26,10 +26,8 @@ _^ [unnamed sound sculpture](https://vimeo.com/38874664) by onformative (2012)_
 - _[fragile tension by depeche mode / memo akten (2009)](http://www.memo.tv/portfolio/depeche-mode-fragile-tension/)_
 - _[momentum by schnellebuntebilder (2015)](https://vimeo.com/112193826)_
 - _[Creative Networks (CAN) Physics Tutorial by Amno Owed (2013)](https://vimeo.com/49516871)_
-- _[EGO – Klaus Obermaier with Stefano D’Alessio & Martina Menegon (2015)](https://vimeo.com/119042339)_
+- _[~NSFW~ EGO – Klaus Obermaier with Stefano D’Alessio & Martina Menegon (2015)](https://vimeo.com/119042339)_
   
-
-now we can downlaod and run the following:
 
 ### Kinect camera + optical flow
 - [kinect optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/DepthThresholdOpticalFlow)
