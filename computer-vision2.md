@@ -1,7 +1,7 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 
-![dandelion clock](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/dandelion.gif)  
-_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_
+![flux 2.0](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flux2-munich.gif)  
+_^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018) / photo: Wolfgang Stahl_
 
 ## computer vision in processing using a 3D sensor (part 2)
 we're going to be using [OpenKinect for Processing by Daniel Shiffman](https://github.com/shiffman/OpenKinect-for-Processing), and we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) again -- please note, the class isn't exactly the same in this new set of examples -- this optical flow class been optimized for working with depth data.  
@@ -9,9 +9,6 @@ we're going to be using [OpenKinect for Processing by Daniel Shiffman](https://g
 daniel shiffman has a nice introduction to the kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM).  here's a nice quick [description](http://www.depthbiomechanics.co.uk/?p=100) of how the kinect works + a photo of the [IR dot pattern](https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/) it generates.  
 
 i really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want), and 2) you can work directly with 3D data scans of the environment/body.  we'll talk a little bit about how to use both of these techniques in class today.
-
-![flux 2.0](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flux2-munich.gif)  
-_^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018) / photo: Wolfgang Stahl_
 
 ### kinect examples
 in order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for "kinect" and install `Open Kinect for Processing`.  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`)
@@ -31,6 +28,9 @@ _^ [unnamed sound sculpture](https://vimeo.com/38874664) by onformative (2012)_
 - _[(possibly NSFW for cartoon anatomy) EGO – Klaus Obermaier with Stefano D’Alessio & Martina Menegon (2015)](https://vimeo.com/119042339)_
 - _[lagerstroemia by johnbcarpenter + justin shrake (2016)](http://johnbcarpenter.com/artworks/arboretum/index.html)_
 - _[flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018)](https://vimeo.com/265267071)_  
+
+![dandelion clock](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/dandelion.gif)  
+_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_
 
 ### Kinect camera + optical flow
 - [kinect optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/DepthThresholdOpticalFlow)
