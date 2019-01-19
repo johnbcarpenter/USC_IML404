@@ -33,7 +33,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - working in class, project discussions  
   
   Week 05. 02/04/2019 <processing: project* reviews>  
-    - **processing project due**  
+    - **[processing project due](processing-project.md)**  
     - in-class critique (with guest reviewer)  
     - arduino introduction  
 ### }  
