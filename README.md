@@ -26,11 +26,11 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
     - discuss processing project proposals / working session    
     
   // Week 03. 01/21/2019 >>>MLK day / NO CLASS<<<  
-    - there will be an alternative class day   
-    - machine learning and visual recognition  
+    - individual meetings / office hours to discuss [processing project](processing-project.md) proposals       
      
   Week 04. 01/28/2019 <working session>  
-    - working in class, project discussions  
+    - in-class working session + [processing project](processing-project.md) discussions  
+    - machine learning / [artifical neural networks code](https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial) (slightly) adapted from a [tutorial by Charles Fried](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62)  
   
   Week 05. 02/04/2019 <processing: project* reviews>  
     - **[processing project due](processing-project.md)**  
