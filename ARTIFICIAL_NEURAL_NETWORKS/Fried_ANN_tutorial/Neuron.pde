@@ -11,7 +11,7 @@
  */
 
 float LEARNING_RATE = 0.01;
-
+float DIAM = NEURON_SIZE;
 
 class Neuron {
 
@@ -62,7 +62,7 @@ class Neuron {
   void display() {
     stroke(200);
     fill(128 * (1 - output));
-    ellipse(0, 0, 16, 16);
+    ellipse(0, 0, DIAM, DIAM);
   }
 
   float [] getStrength() {
