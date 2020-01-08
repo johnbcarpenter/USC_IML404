@@ -93,10 +93,10 @@ office hours: TBD
  
   
 ![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)  
-_^ light compass (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski_
+<sup>^ _light compass_ (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski</sup>
 
 ![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
-_^ happy bird (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee_
+<sup>^ _happy bird_ (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee</sup>
 
 ![brain (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brain-spring17.gif)  
-_^ brain interface (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas_
+<sup>^ _brain interface_ (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas</sup>
