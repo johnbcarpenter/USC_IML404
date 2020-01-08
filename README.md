@@ -22,7 +22,7 @@ office hours: TBD
 class Processing () {
   - Week 01. 01/13/2019 <class intro // computer vision intro>
     - <a href="http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf">syllabus</a>
-  - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md>computer vision"</a> : rgb camera, filters, openCV
+  - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md>computer vision">rgb camera, filters, openCV</a>
   - optical flow
 
   - // Week 02. 01/20/2019 >>>MLK day<<<
@@ -67,23 +67,24 @@ class Processing () {
 }
 </pre>
 
-### class Arduino () {
-- Week 14. 04/13/2019 <arduino: intro + LED blinks>
+<pre>
+class Arduino () {
+  - Week 14. 04/13/2019 <arduino: intro + LED blinks>
 
-- Week 15. 04/20/2019 <arduino: sensors + actuators>
-  - microcontrollers / leds / knobs / pots
-  - photocells / servos
-  - buttons / piezo / debounce
+  - Week 15. 04/20/2019 <arduino: sensors + actuators>
+    - microcontrollers / leds / knobs / pots
+    - photocells / servos
+    - buttons / piezo / debounce
 
-- Week 16. 04/27/2019 <arduino, processing serial>
-  - fabrication : ARDUINO PROJECT working session
-  - processing <--> serial
+  - Week 16. 04/27/2019 <arduino, processing serial>
+    - fabrication : ARDUINO PROJECT working session
+    - processing <--> serial
 
-- // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
+  - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-- FINAL. 05/11/2019 4:30-6:30 p.m. **<ARDUINO PROJECT REVIEW>**  
-### }
-  
+  - FINAL. 05/11/2019 4:30-6:30 p.m. **<ARDUINO PROJECT REVIEW>**  
+}
+</pre> 
   
   
     
