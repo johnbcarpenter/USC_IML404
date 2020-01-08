@@ -48,16 +48,16 @@ class Processing () {
   - 3D transforms
 
 - Week 09. 03/09/2019 <processing: 3D scanning>
-  - [kinect](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md) / realsense +
+  - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md>kinect</a> / realsense +
     - point clouds, agents
     - OpenNI (via totovr)
-  - [Capture: 3D Scan Anything](https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458) --> Processing
+  - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458>Capture: 3D Scan Anything</a> --> Processing
 
 - // Week 10. >>>Spring Recess 03/15 - 03/22/2019<<<
 
 - Week 11. 03/23/2019 <processing: ML>
-  - [ANN intro: number recognition](https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial) (via [fried](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62))
-  - [Teachable Machine 2](https://teachablemachine.withgoogle.com/train) (via [shiffman's coding train](https://thecodingtrain.com/TeachableMachine/index.html)
+  - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial"> ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
+  - <a href="https://teachablemachine.withgoogle.com/train>Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>
 
 - Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
 
