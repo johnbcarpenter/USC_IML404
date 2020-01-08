@@ -29,27 +29,27 @@ office hours: TBD
 
   - // Week 02. 01/20/2019 >>>MLK day<<<
 
-  - Week 03. 01/27/2019 <processing: computer vision as UX>
+  - Week 03. 01/27/2019 processing: computer vision as UX
     - Nature of Code (Shiffman agents) + optical flow
 
-  - Week 04. 02/03/2019 <processing: 3D>
+  - Week 04. 02/03/2019 processing: 3D
     - Nature of Code (agents) —> 3D
     - 3D generative design
     - shaders (point clouds: 3D cues + sprites)
 
-  - Week 05. 02/10/2019 <PROCESSING PROJECT01 working session>
+  - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
 
   - // Week 06. 02/17/2019 >>>President’s Day<<<
 
-  - Week 07. 02/24/2019 <<b>PROCESSING PROJECT01 REVIEW</b>>
+  - Week 07. 02/24/2019 <b>PROCESSING PROJECT01 REVIEW</b>
     - project presentations
     - datavis intro: pixels, sound
 
-  - Week 08. 03/02/2019 <processing: datavis>
+  - Week 08. 03/02/2019 processing: datavis
     - global datavis
     - 3D transforms
 
-  - Week 09. 03/09/2019 <processing: 3D scanning>
+  - Week 09. 03/09/2019 processing: 3D scanning
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md>kinect</a> / realsense +
       - point clouds, agents
       - OpenNI (via totovr)
@@ -57,13 +57,13 @@ office hours: TBD
 
   - // Week 10. >>>Spring Recess 03/15 - 03/22/2019<<<
 
-  - Week 11. 03/23/2019 <processing: ML>
+  - Week 11. 03/23/2019 processing: ML
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
     - <a href="https://teachablemachine.withgoogle.com/train>Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>
 
-  - Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
+  - Week 12. 03/30/2019 PROCESSING PROJECT02 working session
 
-  - Week 13. 04/06/2019 <<b>PROCESSING PROJECT02 REVIEW</b>>**
+  - Week 13. 04/06/2019 <b>PROCESSING PROJECT02 REVIEW</b>
     - in-class critique (with guest reviewer*) *TBD
     - arduino guest talk: electronics for art and design (PETE HAWKES)
 <b>}</b>
@@ -71,20 +71,20 @@ office hours: TBD
 
 <pre>
 <b>class Arduino () {</b>
-  - Week 14. 04/13/2019 <arduino: intro + LED blinks>
+  - Week 14. 04/13/2019 arduino: intro + LED blinks
 
-  - Week 15. 04/20/2019 <arduino: sensors + actuators>
+  - Week 15. 04/20/2019 arduino: sensors + actuators
     - microcontrollers / leds / knobs / pots
     - photocells / servos
     - buttons / piezo / debounce
 
-  - Week 16. 04/27/2019 <arduino, processing serial>
+  - Week 16. 04/27/2019 arduino, processing serial
     - fabrication : ARDUINO PROJECT working session
     - processing <--> serial
 
   - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-  - FINAL. 05/11/2019 4:30-6:30 p.m. <<b>ARDUINO PROJECT REVIEW</b>>  
+  - FINAL. 05/11/2019 4:30-6:30 p.m. <b>ARDUINO PROJECT REVIEW</b>  
 <b>}</b>
 </pre> 
   
