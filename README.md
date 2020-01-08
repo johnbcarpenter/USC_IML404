@@ -9,12 +9,14 @@ we will explore human computer interaction -- including how gesture, haptics, so
 
 we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.
 
-**Instructor: [John Carpenter](http://johnbcarpenter.com)**  
+<pre>
+Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a>   
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
-**TA: [Brian Cantrell](http://www.brianacantrell.com)**  
+TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a>   
 office hours: TBD  
-**SA: [Remi Wedin](https://www.remiwedin.com)**  
+SA: <a href="https://www.remiwedin.com">Remi Wedin</a>  
 office hours: TBD  
+</pre>
 
 ## WEEKLY SCHEDULE
 
@@ -61,7 +63,7 @@ class Processing () {
 
   - Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
 
-  - Week 13. 04/06/2019 **<PROCESSING PROJECT02 REVIEW>**
+  - Week 13. 04/06/2019 <<b>PROCESSING PROJECT02 REVIEW</b>>**
     - in-class critique (with guest reviewer*) *TBD
     - arduino guest talk: electronics for art and design (PETE HAWKES)
 }
@@ -82,7 +84,7 @@ class Arduino () {
 
   - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-  - FINAL. 05/11/2019 4:30-6:30 p.m. **<ARDUINO PROJECT REVIEW>**  
+  - FINAL. 05/11/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>  
 }
 </pre> 
   
