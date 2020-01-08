@@ -1,15 +1,20 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19
 
+![bloom (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-bloom.png)
+_^ bloom (spring 2019) by remi wedin_
 
+_Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics to discover the full potential for software and hardware in your work.
 
-_Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics for empowering you to explore the full potentials of software and hardware in your work.
-
-we will explore extended human computer interaction, including new forms of haptic, sonic and other sense modalities, through physical computing and spatial interfaces. instruction will draw heavily from both our careers as artists, and our roles as designers at [oblong industries](http://www.oblong.com)—an existing business designed to imagine workspaces of the near future.  the projects will focus on opening up and reshaping the way we approach, think about, understand, and work with technology.
+we will explore human computer interaction -- including how gesture, haptics, sound and other forms of data can be used to interact with software + hardware -- and instruction will draw heavily on practical experience in the art + design worlds.  the projects aim to open up the way we approach, think about, understand, and work with technology.
 
 we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.
 
-**Instructors: [John Carpenter](http://johnbcarpenter.com) + [Pete Hawkes](https://vimeo.com/petehawkes)**
+**Instructor: [John Carpenter](http://johnbcarpenter.com)**
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_
+**TA: [Brian Cantrell](http://www.brianacantrell.com)**
+office hours: TBD
+**SA: [Remi Wedin](https://www.remiwedin.com)**
+office hours: TBD
 
 ## WEEKLY SCHEDULE
 
@@ -33,7 +38,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
 
 - // Week 06. 02/17/2019 >>>President’s Day<<<
 
-- Week 07. 02/24/2019 <PROCESSING PROJECT01 REVIEW>
+- Week 07. 02/24/2019 **<PROCESSING PROJECT01 REVIEW>**
   - project presentations
   - datavis intro: pixels, sound
 
@@ -55,7 +60,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
 
 - Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
 
-- Week 13. 04/06/2019 <PROCESSING PROJECT02 REVIEW>
+- Week 13. 04/06/2019 **<PROCESSING PROJECT02 REVIEW>**
   - in-class critique (with guest reviewer*) *TBD
   - arduino guest talk: electronics for art and design (PETE HAWKES)
 ### }
@@ -68,18 +73,19 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
   - photocells / servos
   - buttons / piezo / debounce
 
-- Week 16. 04/27/2019 <arduino>
+- Week 16. 04/27/2019 <arduino, processing serial>
   - fabrication : ARDUINO PROJECT working session
+  - processing <--> serial
 
 - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-- FINAL. 05/06/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>
+- FINAL. 05/11/2019 4:30-6:30 p.m. **<ARDUINO PROJECT REVIEW>**  
 ### }
   
   
   
     
-  
+ 
   
 ![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)
 _^ light compass (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski_
