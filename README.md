@@ -13,68 +13,68 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
 
 ## WEEKLY SCHEDULE
 
-```class Processing () {
-  Week 01. 01/13/2019 <class intro // computer vision intro>
-    - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf)
-    - [computer vision](https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md): rgb camera, filters, openCV
-    - optical flow
+class Processing () {
+- Week 01. 01/13/2019 <class intro // computer vision intro>
+  - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf)
+  - [computer vision](https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md): rgb camera, filters, openCV
+  - optical flow
 
-  // Week 02. 01/20/2019 >>>MLK day<<<
+- // Week 02. 01/20/2019 >>>MLK day<<<
 
-  Week 03. 01/27/2019 <processing: computer vision as UX>
-    - Nature of Code (Shiffman agents) + optical flow
+- Week 03. 01/27/2019 <processing: computer vision as UX>
+  - Nature of Code (Shiffman agents) + optical flow
 
-  Week 04. 02/03/2019 <processing: 3D>
-    - Nature of Code (agents) —> 3D
-    - 3D generative design
-    - shaders (point clouds: 3D cues + sprites)
+- Week 04. 02/03/2019 <processing: 3D>
+  - Nature of Code (agents) —> 3D
+  - 3D generative design
+  - shaders (point clouds: 3D cues + sprites)
 
-  Week 05. 02/10/2019 <PROCESSING PROJECT01 working session>
+- Week 05. 02/10/2019 <PROCESSING PROJECT01 working session>
 
-  // Week 06. 02/17/2019 >>>President’s Day<<<
+- // Week 06. 02/17/2019 >>>President’s Day<<<
 
-  Week 07. 02/24/2019 <PROCESSING PROJECT01 REVIEW>
-    - project presentations
-    - datavis intro: pixels, sound
+- Week 07. 02/24/2019 <PROCESSING PROJECT01 REVIEW>
+  - project presentations
+  - datavis intro: pixels, sound
 
-  Week 08. 03/02/2019 <processing: datavis>
-    - global datavis
-    - 3D transforms
+- Week 08. 03/02/2019 <processing: datavis>
+  - global datavis
+  - 3D transforms
 
-  Week 09. 03/09/2019 <processing: 3D scanning>
-    - [kinect](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md) / realsense +
-      - point clouds, agents
-      - OpenNI (via totovr)
-    - [Capture: 3D Scan Anything](https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458) --> Processing
+- Week 09. 03/09/2019 <processing: 3D scanning>
+  - [kinect](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md) / realsense +
+    - point clouds, agents
+    - OpenNI (via totovr)
+  - [Capture: 3D Scan Anything](https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458) --> Processing
 
-  // Week 10. >>>Spring Recess 03/15 - 03/22/2019<<<
+- // Week 10. >>>Spring Recess 03/15 - 03/22/2019<<<
 
-  Week 11. 03/23/2019 <processing: ML>
-    - [ANN intro: number recognition](https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial) (via [fried](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62))
-    - [Teachable Machine 2](https://teachablemachine.withgoogle.com/train) (via [shiffman's coding train](https://thecodingtrain.com/TeachableMachine/index.html)
+- Week 11. 03/23/2019 <processing: ML>
+  - [ANN intro: number recognition](https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial) (via [fried](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62))
+  - [Teachable Machine 2](https://teachablemachine.withgoogle.com/train) (via [shiffman's coding train](https://thecodingtrain.com/TeachableMachine/index.html)
 
-  Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
+- Week 12. 03/30/2019 <PROCESSING PROJECT02 working session>
 
-  Week 13. 04/06/2019 <PROCESSING PROJECT02 REVIEW>
-    - in-class critique (with guest reviewer*) *TBD
-    - arduino guest talk: electronics for art and design (PETE HAWKES)
-}```
+- Week 13. 04/06/2019 <PROCESSING PROJECT02 REVIEW>
+  - in-class critique (with guest reviewer*) *TBD
+  - arduino guest talk: electronics for art and design (PETE HAWKES)
+}
 
-```class Arduino () {
-  Week 14. 04/13/2019 <arduino: intro + LED blinks>
+class Arduino () {
+- Week 14. 04/13/2019 <arduino: intro + LED blinks>
 
-  Week 15. 04/20/2019 <arduino: sensors + actuators>
-    - microcontrollers / leds / knobs / pots
-    - photocells / servos
-    - buttons / piezo / debounce
+- Week 15. 04/20/2019 <arduino: sensors + actuators>
+  - microcontrollers / leds / knobs / pots
+  - photocells / servos
+  - buttons / piezo / debounce
 
-  Week 16. 04/27/2019 <arduino>
-    - fabrication : ARDUINO PROJECT working session
+- Week 16. 04/27/2019 <arduino>
+  - fabrication : ARDUINO PROJECT working session
 
-  // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
+- // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-  FINAL. 05/06/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>
-}```
+- FINAL. 05/06/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>
+}
 
 
 
