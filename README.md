@@ -1,7 +1,7 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19
 
 ![bloom (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-bloom.png)
-_^ bloom (spring 2019) by remi wedin_
+_^ [bloom](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin_
 
 _Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics to discover the full potential for software and hardware in your work.
 
