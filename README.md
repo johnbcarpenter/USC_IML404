@@ -21,7 +21,7 @@ office hours: TBD
 ## WEEKLY SCHEDULE
 
 <pre> 
-class Processing () {
+<b>class Processing () {</b>
   - Week 01. 01/13/2019 <class intro // computer vision intro>
     - <a href="http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf">syllabus</a>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md>computer vision">rgb camera, filters, openCV</a>
@@ -66,11 +66,11 @@ class Processing () {
   - Week 13. 04/06/2019 <<b>PROCESSING PROJECT02 REVIEW</b>>**
     - in-class critique (with guest reviewer*) *TBD
     - arduino guest talk: electronics for art and design (PETE HAWKES)
-}
+<b>}</b>
 </pre>
 
 <pre>
-class Arduino () {
+<b>class Arduino () {</b>
   - Week 14. 04/13/2019 <arduino: intro + LED blinks>
 
   - Week 15. 04/20/2019 <arduino: sensors + actuators>
@@ -85,7 +85,7 @@ class Arduino () {
   - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
   - FINAL. 05/11/2019 4:30-6:30 p.m. <<b>ARDUINO PROJECT REVIEW</b>>  
-}
+<b>}</b>
 </pre> 
   
   
