@@ -29,7 +29,7 @@ office hours: TBD
 
   - <i>// Week 02. 01/20/2019 MLK day</i>
 
-  - Week 03. 01/27/2019 processing: computer vision as UX
+  - Week 03. 01/27/2019 processing: computer vision UX
     - Nature of Code (Shiffman agents) + optical flow
 
   - Week 04. 02/03/2019 processing: 3D
