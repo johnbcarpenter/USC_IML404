@@ -12,8 +12,8 @@ we'll be working with this repository to store and share the code that we discus
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_
 
 ## WEEKLY SCHEDULE
-////////
-class Processing () {
+
+### class Processing () {
   Week 01. 01/13/2019 <class intro // computer vision intro>
     - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf)
     - [computer vision](https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md): rgb camera, filters, openCV
@@ -58,10 +58,9 @@ class Processing () {
   Week 13. 04/06/2019 <PROCESSING PROJECT02 REVIEW>
     - in-class critique (with guest reviewer*) *TBD
     - arduino guest talk: electronics for art and design (PETE HAWKES)
-}
+### }
 
-
-class Arduino () {
+### class Arduino () {
   Week 14. 04/13/2019 <arduino: intro + LED blinks>
 
   Week 15. 04/20/2019 <arduino: sensors + actuators>
@@ -75,87 +74,8 @@ class Arduino () {
   // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
   FINAL. 05/06/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>
-}
-////////
-
-### class Processing () {
-  Week 01. 01/07/2019 <teacher intros // computer vision>
-
-    - teacher intros
-    - [computer vision in processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
-
-  Week 02. 01/14/2019 <processing: kinect>
-    - [optical flow + boids / flocking](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision.md)
-    - [kinect + boids](https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md)
-    - discuss processing project proposals / working session
-
-  // Week 03. 01/21/2019 >>>MLK day / NO CLASS<<<
-    - individual meetings / office hours to discuss [processing project](processing-project.md) proposals
-
-  Week 04. 01/28/2019 <working session>
-    - in-class working session + [processing project](processing-project.md) discussions
-    - machine learning / [artifical neural networks code (slightly) adapted from a [tutorial by Charles Fried
-
-  Week 05. 02/04/2019 <processing: project* reviews>
-    - **[processing project due](processing-project.md)**
-    - in-class critique (with guest reviewer)
-    - arduino introduction
 ### }
 
-### class Arduino () {
-  Week 06. 02/11/2019
-    - talk: electronics for art and design <arduino intro>
-    - microcontrollers / leds / knobs / pots
-
-  // Week 07. 02/18/2019 >>>President’s Day / NO CLASS<<<
-    - electronics boot camp in office hours
-
-  Week 08. 02/25/2019 <arduino intro>
-    - sensors / actuators
-    - photocells / servos
-
-  Week 09. 03/04/2019 <arduino>
-    - buttons / piezo / debounce
-    - proposals discussion / working session
-
-  // Week 10. Spring Recess 03/10 - 03/17/2019
-    - electronics working session in office hours
-
-  Week 11. 03/18/2019 <arduino>
-    - working session
-
-  Week 12. 03/25/2019 <arduino>
-    - **arduino project due**
-    - in-class critique (with guest reviewer)
-    - required readings assignment
-### }
-
-### class Prototype () {
-  Week 13. 04/01/2019
-    - cardboard prototype working session
-    - blog post documentation intro
-### }
-
-
-
-### class g-speak () {
-  Week 14. 04/08/2019 <g-speak: intro>
-    - **cardboard prototype project crit + blog post due**
-    - guest lecture @the warehouse
-    - g-speak project requirements
-
-  Week 15. 04/15/2019 <g-speak>
-    - working session @the warehouse
-
-  Week 16. 04/22/2019 <g-speak>
-    - working session @the warehouse
-
-  // Study Days: 04/27 - 04/30/2019 (no class)
-
-  FINAL EXHIBIT. 05/06/2019 4:30-6:30 p.m. <g-speak project reviews>
-    - **g-speak project due**
-    - @the warehouse
-### }
 
 
 ![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)
