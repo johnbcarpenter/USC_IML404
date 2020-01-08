@@ -5,9 +5,9 @@ _^ [bloom](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin_
 
 _Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics to discover the full potential for software and hardware in your work.
 
-we will explore human computer interaction -- including how gesture, haptics, sound and other forms of data can be used to interact with software + hardware -- and instruction will draw heavily on practical experience in the art + design worlds.  the projects aim to open up the way we approach, think about, understand, and work with technology.
+we will explore human computer interaction -- including how gesture, haptics, sound and other forms of data can be used to interact with software + hardware -- and instruction will draw heavily on practical experience in the art + design worlds.  the projects aim to help students think about technology in new ways, and to inspire and empower you to use it in your own work.
 
-we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.
+we'll primarily be working with [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) in this course, though we'll also look at some other platforms... e.g. connecting [p5js](http://p5js.org) to [Google's Teachable Machine 2](http://teachablemachine.withgoogle.com/). this repository will be used to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the creative coding community -- please see the course notes + comments in the code for credits.
 
 <pre>
 <b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>   
