@@ -27,7 +27,7 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md>computer vision">rgb camera, filters, openCV</a>
     - optical flow
 
-  - // Week 02. 01/20/2019 >>>MLK day<<<
+  - <i>// Week 02. 01/20/2019 MLK day</i>
 
   - Week 03. 01/27/2019 processing: computer vision as UX
     - Nature of Code (Shiffman agents) + optical flow
@@ -39,7 +39,7 @@ office hours: TBD
 
   - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
 
-  - // Week 06. 02/17/2019 >>>President’s Day<<<
+  - <i>// Week 06. 02/17/2019 President’s Day</i>
 
   - Week 07. 02/24/2019 <b>PROCESSING PROJECT01 REVIEW</b>
     - project presentations
@@ -55,7 +55,7 @@ office hours: TBD
       - OpenNI (via totovr)
     - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458>Capture: 3D Scan Anything</a> --> Processing
 
-  - // Week 10. >>>Spring Recess 03/15 - 03/22/2019<<<
+  - <i>// Week 10. Spring Recess 03/15 - 03/22/2019</i>
 
   - Week 11. 03/23/2019 processing: ML
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
@@ -82,7 +82,7 @@ office hours: TBD
     - fabrication : ARDUINO PROJECT working session
     - processing <--> serial
 
-  - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
+  - <i>// Week 17. Study Days: 05/02 - 05/05/2019 (no class)</i>
 
   - FINAL. 05/11/2019 4:30-6:30 p.m. <b>ARDUINO PROJECT REVIEW</b>  
 <b>}</b>
