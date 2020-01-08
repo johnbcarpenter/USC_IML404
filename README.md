@@ -10,11 +10,11 @@ we will explore human computer interaction -- including how gesture, haptics, so
 we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.
 
 <pre>
-Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a>   
+<b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>   
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
-TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a>   
+<b>TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a></b>   
 office hours: TBD  
-SA: <a href="https://www.remiwedin.com">Remi Wedin</a>  
+<b>SA: <a href="https://www.remiwedin.com">Remi Wedin</a></b>  
 office hours: TBD  
 </pre>
 
@@ -41,7 +41,7 @@ class Processing () {
 
   - // Week 06. 02/17/2019 >>>President’s Day<<<
 
-  - Week 07. 02/24/2019 **<PROCESSING PROJECT01 REVIEW>**
+  - Week 07. 02/24/2019 <<b>PROCESSING PROJECT01 REVIEW</b>>
     - project presentations
     - datavis intro: pixels, sound
 
@@ -84,7 +84,7 @@ class Arduino () {
 
   - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
-  - FINAL. 05/11/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>  
+  - FINAL. 05/11/2019 4:30-6:30 p.m. <<b>ARDUINO PROJECT REVIEW</b>>  
 }
 </pre> 
   
