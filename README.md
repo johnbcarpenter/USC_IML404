@@ -9,12 +9,12 @@ we will explore human computer interaction -- including how gesture, haptics, so
 
 we'll be working with this repository to store and share the code that we discuss in class. the starting point for many of these examples is based on fantastic work by the [processing](http://www.processing.org/) and [arduino](http://www.arduino.cc/) communities -- please see the course notes + comments in the code for the appropriate credits.
 
-**Instructor: [John Carpenter](http://johnbcarpenter.com)**
-office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_
-**TA: [Brian Cantrell](http://www.brianacantrell.com)**
-office hours: TBD
-**SA: [Remi Wedin](https://www.remiwedin.com)**
-office hours: TBD
+**Instructor: [John Carpenter](http://johnbcarpenter.com)**  
+office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appointment_  
+**TA: [Brian Cantrell](http://www.brianacantrell.com)**  
+office hours: TBD  
+**SA: [Remi Wedin](https://www.remiwedin.com)**  
+office hours: TBD  
 
 ## WEEKLY SCHEDULE
 
