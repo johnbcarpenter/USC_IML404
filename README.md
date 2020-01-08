@@ -13,7 +13,7 @@ office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room _by appoint
 
 ## WEEKLY SCHEDULE
 
-class Processing () {
+### class Processing () {
 - Week 01. 01/13/2019 <class intro // computer vision intro>
   - [syllabus](http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf)
   - [computer vision](https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision.md): rgb camera, filters, openCV
@@ -58,9 +58,9 @@ class Processing () {
 - Week 13. 04/06/2019 <PROCESSING PROJECT02 REVIEW>
   - in-class critique (with guest reviewer*) *TBD
   - arduino guest talk: electronics for art and design (PETE HAWKES)
-}
+### }
 
-class Arduino () {
+### class Arduino () {
 - Week 14. 04/13/2019 <arduino: intro + LED blinks>
 
 - Week 15. 04/20/2019 <arduino: sensors + actuators>
@@ -74,10 +74,13 @@ class Arduino () {
 - // Week 17. Study Days: 05/02 - 05/05/2019 (no class)
 
 - FINAL. 05/06/2019 4:30-6:30 p.m. <ARDUINO PROJECT REVIEW>
-}
-
-
-
+### }
+  
+  
+  
+    
+  
+  
 ![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)
 _^ light compass (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski_
 
