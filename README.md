@@ -59,7 +59,7 @@ office hours: TBD
 
   - Week 11. 03/23/2019 processing: ML
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
-    - <a href="https://teachablemachine.withgoogle.com/train">Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>
+    - <a href="https://teachablemachine.withgoogle.com/train">Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>)  
 
   - Week 12. 03/30/2019 PROCESSING PROJECT02 working session
 
