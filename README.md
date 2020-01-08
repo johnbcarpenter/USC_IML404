@@ -52,7 +52,7 @@ office hours: TBD
   - Week 09. 03/09/2019 processing: 3D scanning
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision2.md">kinect</a> / realsense +
       - point clouds, agents
-      - OpenNI (via totovr)
+      - OpenNI (via <a href="https://github.com/totovr/SimpleOpenNI">totovr</a>)
     - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458">Capture: 3D Scan Anything</a> --> Processing
 
   - <i>// Week 10. Spring Recess 03/15 - 03/22/2019</i>
