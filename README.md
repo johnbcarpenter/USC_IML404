@@ -22,7 +22,7 @@ office hours: TBD
 
 <pre> 
 <b>class Processing () {</b>
-  - Week 01. 01/13/2019 <class intro // computer vision intro>
+  - Week 01. 01/13/2019 class intro // computer vision intro
     - <a href="http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf">syllabus</a>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision.md">computer vision: rgb camera, filters, openCV</a>
     - optical flow
