@@ -50,15 +50,15 @@ office hours: TBD
     - 3D transforms
 
   - Week 09. 03/09/2019 processing: 3D scanning
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/computer-vision2.md>kinect</a> / realsense +
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision2.md">kinect</a> / realsense +
       - point clouds, agents
       - OpenNI (via totovr)
-    - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458>Capture: 3D Scan Anything</a> --> Processing
+    - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458">Capture: 3D Scan Anything</a> --> Processing
 
   - <i>// Week 10. Spring Recess 03/15 - 03/22/2019</i>
 
   - Week 11. 03/23/2019 processing: ML
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
     - <a href="https://teachablemachine.withgoogle.com/train">Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>)  
 
   - Week 12. 03/30/2019 PROCESSING PROJECT02 working session
