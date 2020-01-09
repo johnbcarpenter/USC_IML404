@@ -2,10 +2,17 @@
 
 ![bloom (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-bloom.png)  
 <sup>^ [_bloom_](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin</sup>    
+   
+![bloom (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-bloom.gif)  
+<sup>^ [_bloom_](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin</sup>   
   
 ![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)    
 <sup>^ _ghostly shapes_ (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)</sup>  
-  
+   
+![etch-a-sketch (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/reynolds-etchasketch-640.gif)  
+<sup>^ _etch-a-sketch_ (spring 2016) by kieran reynolds</sup>
+
+
 ![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)    
 <sup>^ _light compass_ (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski</sup>  
   
@@ -13,7 +20,10 @@
 <sup>^ _brain interface_ (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas</sup>
 
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
-<sup>^ _storm_ (spring 2016) by dorothy peng</sup>
+<sup>^ _storm_ (spring 2016) by dorothy peng</sup>  
+
+![wantsomemorse (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/fudem-wantsomemorse-640.gif)  
+<sup>^ _want some morse_ (spring 2016) by jonathan fudem</sup>
 
 ![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
 <sup>^ _happy bird_ (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee</sup>
