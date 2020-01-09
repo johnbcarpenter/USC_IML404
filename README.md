@@ -10,17 +10,17 @@ We will explore human computer interaction -- including how gesture, haptics, so
 We'll primarily be working with [Processing](http://www.processing.org/) and [Arduino](http://www.arduino.cc/) in this course, though we'll also look at some other platforms... e.g. connecting [p5js](http://p5js.org) to [Google's Teachable Machine 2](http://teachablemachine.withgoogle.com/). This repository will be used to store and share the code that we discuss in class. The starting point for many of these examples is based on fantastic work by the creative coding community -- please see the course notes + comments in the code for credits.
 
 <pre>
-<b><a href="https://moodle.sca.usc.edu/course/view.php?id=105">Course Moodle</a><b>  
-<b><a href="https://moodle.sca.usc.edu/mod/url/view.php?id=769">Google Drive for Homework</a><b>  
-</pre>
-
-<pre>
 <b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>   
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room <i>by appointment</i>  
 <b>TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a></b>   
 office hours: TBD  
 <b>SA: <a href="https://www.remiwedin.com">Remi Wedin</a></b>  
 office hours: TBD  
+</pre>
+
+<pre>
+<b><a href="https://moodle.sca.usc.edu/course/view.php?id=105">Course Moodle</a><b>  
+<b><a href="https://moodle.sca.usc.edu/mod/url/view.php?id=769">Google Drive for Homework</a><b>  
 </pre>
 
 ## WEEKLY SCHEDULE
