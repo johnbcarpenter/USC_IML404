@@ -21,9 +21,6 @@
 ![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
 <sup>^ _happy bird_ (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee</sup>
 
-![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
-_^ ghostly shapes (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)_
-
 ![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
 _^ tfwhollow (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)_
 
