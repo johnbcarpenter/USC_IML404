@@ -12,9 +12,6 @@
 ![brain (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brain-spring17.gif)  
 <sup>^ _brain interface_ (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas</sup>
 
-![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
-<sup>^ _neon dancer_ (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)</sup>
-
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
 <sup>^ _storm_ (spring 2016) by dorothy peng</sup>
 
@@ -26,7 +23,10 @@ _^ tfwhollow (spring 2017) by davis avila // [Deathless Gods with Human Bods](ht
 
 ![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/impressions-spring16.gif)  
 <sup>^ _impressions_ (spring 2016) by jonah sanchez</sup>
-
+  
+![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
+<sup>^ _neon dancer_ (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)</sup>
+  
 ![emoji optical flow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/emoji-optical-flow-spring17.gif)  
 <sup>^ _emoji optical flow_ (spring 2017) by caroline brooks</sup>
 
