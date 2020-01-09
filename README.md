@@ -88,4 +88,4 @@ office hours: TBD
 <b>}</b>
 </pre> 
   
-[Gallery of Student Work (Spring 16 -> Spring 19)][https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/gallery.md]
+[Gallery of Student Work (Spring 16 -> Spring 19)](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/gallery.md)
