@@ -29,7 +29,7 @@
 <sup>^ _happy bird_ (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee</sup>
 
 ![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
-_^ tfwhollow (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)_
+<sup>^ _tfwhollow_ (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)</sup>
 
 ![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/impressions-spring16.gif)  
 <sup>^ _impressions_ (spring 2016) by jonah sanchez</sup>
