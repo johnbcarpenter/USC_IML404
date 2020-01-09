@@ -20,7 +20,7 @@ office hours: TBD
 
 <pre>
 <b><a href="https://moodle.sca.usc.edu/course/view.php?id=105">Course Moodle</a><b>  
-<b><a href="https://moodle.sca.usc.edu/mod/url/view.php?id=769">Google Drive for Homework</a><b>  
+<b><a href="https://drive.google.com/drive/u/1/folders/0AEx6eZWiSATLUk9PVA">Google Drive for Homework</a><b>  
 </pre>
 
 ## WEEKLY SCHEDULE
