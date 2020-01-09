@@ -88,16 +88,3 @@ office hours: TBD
 <b>}</b>
 </pre> 
   
-  
-    
-![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
-<sup>^ _ghostly shapes_ (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)</sup>
-  
-![light compass (fall 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/light-compass-fall16.gif)  
-<sup>^ _light compass_ (fall 2016) by gabrielle kanellos, ivy lin, and michael kozlowski</sup>
-
-![happy bird (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/happy-bird-spring17.gif)  
-<sup>^ _happy bird_ (spring 2017) by kayla paredes, thomas watson, elisa alfonso, and grant lee</sup>
-
-![brain (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brain-spring17.gif)  
-<sup>^ _brain interface_ (spring 2017) by davis avila, zoe malhotra, mara pleasure, and mark vrahas</sup>
