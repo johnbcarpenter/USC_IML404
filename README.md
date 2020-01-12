@@ -1,7 +1,7 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S20
 
 ![bloom (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-bloom.png)
-<sup>^ [_bloom_](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin</sup>  
+<sup>^ [_bloom_](https://www.remiwedin.com/bloom) (spring 2019) by remi wedin</sup>
 
 _Tangible and Spatial Computing_ is a course offered by [Media Arts + Practice](https://cinema.usc.edu/imap/index.cfm) in the School of Cinematic Arts at USC.  The course is an examination of existing and emergent media technologies, focusing on creative and critical tactics to discover the full potential for software and hardware in your work.
 
@@ -10,27 +10,27 @@ We will explore human computer interaction -- including how gesture, haptics, so
 We'll primarily be working with [Processing](http://www.processing.org/) and [Arduino](http://www.arduino.cc/) in this course, though we'll also look at some other platforms... e.g. connecting [p5js](http://p5js.org) to [Google's Teachable Machine 2](http://teachablemachine.withgoogle.com/). This repository will be used to store and share the code that we discuss in class. The starting point for many of these examples is based on fantastic work by the creative coding community -- please see the course notes + comments in the code for credits.
 
 <pre>
-<b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>   
-office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room <i>by appointment</i>  
-<b>TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a></b>   
-office hours: TBD  
-<b>SA: <a href="https://www.remiwedin.com">Remi Wedin</a></b>  
-office hours: TBD  
+<b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>
+office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room <i>by appointment</i>
+<b>TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a></b>
+office hours: TBD
+<b>SA: <a href="https://www.remiwedin.com">Remi Wedin</a></b>
+office hours: TBD
 </pre>
 
 <pre>
-<b><a href="https://moodle.sca.usc.edu/course/view.php?id=105">Course Moodle</a><b>  
-<b><a href="https://drive.google.com/drive/u/1/folders/0AEx6eZWiSATLUk9PVA">Google Drive for Homework</a><b>  
+<b><a href="https://moodle.sca.usc.edu/course/view.php?id=105">Course Moodle</a><b>
+<b><a href="https://drive.google.com/drive/u/1/folders/0AEx6eZWiSATLUk9PVA">Google Drive for Homework</a><b>
 </pre>
 
 ## WEEKLY SCHEDULE
 
-<pre> 
+<pre>
 <b>class Processing () {</b>
   - Week 01. 01/13/2019 class intro // computer vision intro
     - <a href="http://github.com/johnbcarpenter/USC_IML404/blob/master/SYLLABUS/IML404-MAP-SPRING2020.pdf">syllabus</a>
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision.md">computer vision: rgb camera, filters, openCV</a>
-    - optical flow
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-webcam-opencv.md">computer vision: rgb camera, filters, openCV</a>
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow.md">optical flow</a>
 
   - <i>// Week 02. 01/20/2019 MLK day</i>
 
@@ -64,7 +64,7 @@ office hours: TBD
 
   - Week 11. 03/23/2019 processing: ML
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial">ANN intro: number recognition</a> (via <a href="https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62">fried</a>)
-    - <a href="https://teachablemachine.withgoogle.com/train">Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>)  
+    - <a href="https://teachablemachine.withgoogle.com/train">Teachable Machine 2</a> (via <a href="https://thecodingtrain.com/TeachableMachine/index.html">shiffman's coding train</a>)
 
   - Week 12. 03/30/2019 PROCESSING PROJECT02 working session
 
@@ -89,10 +89,10 @@ office hours: TBD
 
   - <i>// Week 17. Study Days: 05/02 - 05/05/2019 (no class)</i>
 
-  - FINAL. 05/11/2019 4:30-6:30 p.m. <b>ARDUINO PROJECT REVIEW</b>  
+  - FINAL. 05/11/2019 4:30-6:30 p.m. <b>ARDUINO PROJECT REVIEW</b>
 <b>}</b>
-</pre> 
-  
+</pre>
+
 ## GALLERY
 
 [Student Work (Spring 16 -> Spring 19)](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/gallery.md)
