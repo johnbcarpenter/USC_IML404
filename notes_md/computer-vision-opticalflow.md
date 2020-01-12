@@ -26,8 +26,5 @@ here are some links to the original flocking code by Shiffman (which are in turn
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
 <sup>^ _storm_ (spring 2016) by dorothy peng</sup>
 
-![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/impressions-spring16.gif)  
-<sup>^ _impressions_ (spring 2016) by jonah sanchez</sup>
-
 ![emoji optical flow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/emoji-optical-flow-spring17.gif)  
 <sup>^ _emoji optical flow_ (spring 2017) by caroline brooks</sup>
