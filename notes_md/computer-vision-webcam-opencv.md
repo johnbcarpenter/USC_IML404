@@ -1,6 +1,6 @@
 # IML404 // Tangible + Spatial Computing // Computer Vision: Webcam + OpenCV
 
-![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)
+![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)   
 <sup>^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)</sup>
 
 this course assumes you have a basic understanding of programming and writing code (eg some experience in Processing, Arduino, Java, C#/Unity, C++, JavaScript or similar). if you'd like to brush up on the foundations for this course, consider reviewing Casey Reas and Ben Fry's introduction to programming [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). if you've written code before, but are new to processing, check out daniel shiffman's fantastic one hour tutorial / introduction to processing: [Hello Processing](http://hello.processing.org) and the [processing website](http://processing.org).
@@ -18,9 +18,9 @@ in order to run these examples, you'll need to download the processing video and
 - [face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdate)
 - [face contours + mouseX added noise (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/ContourUpdateDistort)
 
-![face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/national-reas.png)
-<sup>^ [_the day i die_ by the national (youtube link)](https://www.youtube.com/watch?v=GwZvip416NU)</sup>
-the video by casey reas uses a similar effect to the FaceDiff sketch
+![face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/national-reas.png)  
+<sup>^[_the day i die_ by the national (youtube link)](https://www.youtube.com/watch?v=GwZvip416NU) // 
+the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
 - [face differences (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/FaceDiff)
 
