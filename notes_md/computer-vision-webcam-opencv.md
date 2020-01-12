@@ -33,6 +33,12 @@ the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 ![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
 <sup>^ _ghostly shapes_ (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)</sup>
 
+![sylivie howton (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/sylvie-howton-obfuscator-2019.gif)  
+<sup>^ _obfuscator_ (spring 2019) by sylivie howton</sup>
+
+![eumin lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/eumin-lee-iridescence-2019.gif)  
+<sup>^ _iridescence_ (spring 2019) by eumin lee</sup>
+
 ![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
 <sup>^ _neon dancer_ (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)</sup>
 
