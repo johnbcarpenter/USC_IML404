@@ -28,3 +28,13 @@ the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
 - [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/WebcamReordering_01)
 
+## past student work  
+
+![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)
+<sup>^ _neon dancer_ (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)</sup>
+
+![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)
+<sup>^ _ghostly shapes_ (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)</sup>
+
+![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
+<sup>^ _tfwhollow_ (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)</sup>
