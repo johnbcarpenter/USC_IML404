@@ -23,8 +23,17 @@ here are some links to the original flocking code by Shiffman (which are in turn
 
 ## past student work
 
+![alex lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/alex-lee-facial-shift-2019.gif)  
+<sup>^ _facial shift_ (spring 2019) by alex lee</sup>
+
+![remi wedin (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-seeing-sounds-2019.gif)  
+<sup>^ _seeing sounds_ (spring 2019) by remi wedin</sup>
+
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
 <sup>^ _storm_ (spring 2016) by dorothy peng</sup>
 
 ![emoji optical flow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/emoji-optical-flow-spring17.gif)  
 <sup>^ _emoji optical flow_ (spring 2017) by caroline brooks</sup>
+
+![jamie haberman (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/jamie-haberman-midi_me-2019.gif)  
+<sup>^ _midi me_ (spring 2019) by jamie haberman</sup>
