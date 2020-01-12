@@ -29,6 +29,9 @@ here are some links to the original flocking code by Shiffman (which are in turn
 ![remi wedin (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-seeing-sounds-2019.gif)  
 <sup>^ _seeing sounds_ (spring 2019) by remi wedin</sup>
 
+![anissa santos (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/anissa-santos-water-world-2019.gif)  
+<sup>^ _water world_ (spring 2019) by anissa santos</sup>
+
 ![storm (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/storm-spring16.gif)  
 <sup>^ _storm_ (spring 2016) by dorothy peng</sup>
 
