@@ -1,4 +1,4 @@
-# IML404 // Tangible + Spatial Computing // Computer Vision: Webcam + OpenCV
+# IML404 // Computer Vision: Webcam + OpenCV
 
 ![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)   
 <sup>^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)</sup>
