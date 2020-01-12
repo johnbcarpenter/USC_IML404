@@ -37,7 +37,7 @@ class ShimodairaOpticalFlow {
   // switch
   //boolean flagseg=false; // segmentation of moving objects?
   boolean flagmirror=true; // mirroring image?
-  boolean flagflow=false; // draw opticalflow vectors?
+  boolean flagflow=true; // draw opticalflow vectors?
   boolean flagimage=true; // show cam image ?
 
   // internally used variables
@@ -279,7 +279,7 @@ class ShimodairaOpticalFlow {
 
             // draw the line segments for optical flow
             float a=sqrt(u*u+v*v);
-            if (a>=0.0) { // draw only if the length >=2.0
+            if (a>=2.0) { // draw only if the length >=2.0
               float r=0.5*(1.0+u/(a+0.1));
               float g=0.5*(1.0+v/(a+0.1));
               float b=0.5*(2.0-(r+g));
@@ -304,6 +304,7 @@ class ShimodairaOpticalFlow {
   }
   
   void drawFlow() {
+    beginShape(LINES); // beginShape(LINES) optimization --> jerry tsui, 2019 
     for (int i = 0; i < flows.size() - 2; i+=2) {
       PVector force_start = flows.get(i);
       PVector force_end = flows.get(i+1);
@@ -311,8 +312,10 @@ class ShimodairaOpticalFlow {
       PVector force_color = flows_color.get(i);
       //println ("force from " + force_start + " to " + force_end);
       stroke(force_color.x, force_color.y, force_color.z);
-      line (force_start.x, force_start.y, force_end.x, force_end.y);
+      vertex (force_start.x, force_start.y);
+      vertex (force_end.x, force_end.y);
     }
+    endShape();
   }
   
 }

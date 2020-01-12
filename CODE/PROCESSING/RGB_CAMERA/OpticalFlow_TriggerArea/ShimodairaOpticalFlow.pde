@@ -37,7 +37,7 @@ class ShimodairaOpticalFlow {
   // switch
   //boolean flagseg=false; // segmentation of moving objects?
   boolean flagmirror=true; // mirroring image?
-  boolean flagflow=false; // draw opticalflow vectors?
+  boolean flagflow=true; // draw opticalflow vectors?
   boolean flagimage=true; // show cam image ?
 
   // internally used variables
@@ -304,6 +304,7 @@ class ShimodairaOpticalFlow {
   }
   
   void drawFlow() {
+    beginShape(LINES); // beginShape(LINES) optimization --> jerry tsui, 2019 
     for (int i = 0; i < flows.size() - 2; i+=2) {
       PVector force_start = flows.get(i);
       PVector force_end = flows.get(i+1);
@@ -311,8 +312,10 @@ class ShimodairaOpticalFlow {
       PVector force_color = flows_color.get(i);
       //println ("force from " + force_start + " to " + force_end);
       stroke(force_color.x, force_color.y, force_color.z);
-      line (force_start.x, force_start.y, force_end.x, force_end.y);
+      vertex (force_start.x, force_start.y);
+      vertex (force_end.x, force_end.y);
     }
+    endShape();
   }
   
 }
