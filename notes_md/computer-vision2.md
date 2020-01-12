@@ -39,3 +39,7 @@ _^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_
 ### Kinect point clouds
 - [kinect point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/PointCloud_AgentSystem)
 
+## Past Student Work
+
+![impressions (spring 2016)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/impressions-spring16.gif)  
+<sup>^ _impressions_ (spring 2016) by jonah sanchez</sup>
