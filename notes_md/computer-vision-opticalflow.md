@@ -1,4 +1,4 @@
-# IML404 // Tangible + Spatial Computing // Computer Vision: Optical Flow
+# IML404 // Computer Vision: Optical Flow
 
 ![optical flow screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow.png)
 
