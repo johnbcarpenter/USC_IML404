@@ -1,6 +1,6 @@
 # IML404 // Computer Vision: Webcam + OpenCV
 
-![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)
+![oblong seismo](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/seismo-gesture.gif)  
 <sup>^ hantenna pipeline for gesture recognition at oblong industries (C++/g-speak)</sup>
 
 this course assumes you have a basic understanding of programming and writing code (eg some experience in Processing, Arduino, Java, C#/Unity, C++, JavaScript or similar). if you'd like to brush up on the foundations for this course, consider reviewing Casey Reas and Ben Fry's introduction to programming [Make: Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do). if you've written code before, but are new to processing, check out daniel shiffman's fantastic one hour tutorial / introduction to processing: [Hello Processing](http://hello.processing.org) and the [processing website](http://processing.org).
@@ -30,14 +30,14 @@ the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
 ## past student work
 
-![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)
+![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
 <sup>^ _ghostly shapes_ (spring 2017) by mark vrahas // [full youtube documentation](https://www.youtube.com/watch?v=6qYEf4AhuUI)</sup>
 
-![sylivie howton (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/sylvie-howton-obfuscator-2019.gif)
+![sylivie howton (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/sylvie-howton-obfuscator-2019.gif)  
 <sup>^ _obfuscator_ (spring 2019) by sylivie howton</sup>
 
-![eumin lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/eumin-lee-iridescence-2019.gif)
+![eumin lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/eumin-lee-iridescence-2019.gif)  
 <sup>^ _iridescence_ (spring 2019) by eumin lee</sup>
 
-![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)
+![neon dancer (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/neon-dancer-spring17.gif)  
 <sup>^ _neon dancer_ (spring 2017) by grant lee // [full vimeo documentation](https://vimeo.com/207423025)</sup>
