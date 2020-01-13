@@ -11,9 +11,12 @@ we won't be using a visual pipeline quite as sophisticated as the one above, but
 the fantastic library that we'll be using for things like face tracking, brightest point tracking, and frame differencing is [OpenCV for Processing by Greg Borenstein](https://github.com/atduskgreg/opencv-processing), and we'll also use an optical flow class that i adapted from an [open processing sketch](https://www.openprocessing.org/sketch/10435/) by [Hidetoshi Shimodaira](https://vimeo.com/12629933).
 
 ### RGB camera examples
-in order to run these examples, you'll need to download the processing video and OpenCV libraries (`Sketch > Import Library... > Add Library...` search for "video" and install `Video | GStreamer-based...`, then search for OpenCV and install `OpenCV for Processing`).  now you can downlaod and run the following:
+in order to run these examples, you'll need to download the processing video library (`Sketch > Import Library... > Add Library...` search for "video" and install `Video | GStreamer-based...`.  now you should be able to run the following example:
 
 - [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/Webcam)
+
+### [OpenCV by Greg Borenstein](https://github.com/atduskgreg/opencv-processing)
+in order to run these examples, you'll need to download the OpenCV library (`Sketch > Import Library... > Add Library...`  search for OpenCV and install `OpenCV for Processing`).  you should be able to run the following examples:
 - [face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDetection)
 - [face contours (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/ContourUpdate)
 - [face contours + mouseX added noise (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/ContourUpdateDistort)
@@ -23,10 +26,7 @@ in order to run these examples, you'll need to download the processing video and
 the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
 - [face differences (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDiff)
-
-![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)
-
-- [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/WebcamReordering_01)
+- and more! see `Documents/Processing/libraries/opencv_processing`
 
 ## past student work  
 
