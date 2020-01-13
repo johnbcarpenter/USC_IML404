@@ -35,7 +35,7 @@ office hours: TBD
   - <i>// Week 02. 01/20/2019 MLK day</i>
 
   - Week 03. 01/27/2019 processing: computer vision UX
-    - Nature of Code (Shiffman agents) + optical flow
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md">Nature of Code (Shiffman agents) + optical flow</a>
 
   - Week 04. 02/03/2019 processing: 3D
     - Nature of Code (agents) —> 3D
@@ -55,7 +55,7 @@ office hours: TBD
     - 3D transforms
 
   - Week 09. 03/09/2019 processing: 3D scanning
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision2.md">kinect</a> / realsense +
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">kinect</a> / realsense +
       - point clouds, agents
       - OpenNI (via <a href="https://github.com/totovr/SimpleOpenNI">totovr</a>)
     - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458">Capture: 3D Scan Anything</a> --> Processing
