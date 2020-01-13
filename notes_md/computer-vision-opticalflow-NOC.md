@@ -27,3 +27,6 @@ here are some links to the original flocking code by Shiffman (which are in turn
 
 ![alex lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/alex-lee-facial-shift-2019.gif)  
 <sup>^ _facial shift_ (spring 2019) by alex lee</sup>
+
+![tfwhollow (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/tfwhollow-spring17.gif)  
+<sup>^ _tfwhollow_ (spring 2017) by davis avila // [Deathless Gods with Human Bods](https://vimeo.com/207192583)</sup>
