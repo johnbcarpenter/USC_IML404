@@ -29,8 +29,8 @@ the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 - [face differences w keypress (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDiff)
 
 ## shiffman on computer vision
-- [shiffman intro to CV](https://www.youtube.com/watch?v=h8tk0hmWB44)
-- [shiffman on blob detection](https://www.youtube.com/watch?v=ce-2l2wRqO8) // [github code](https://www.youtube.com/watch?v=ce-2l2wRqO8)
+- [shiffman intro to CV (youtube)](https://www.youtube.com/watch?v=h8tk0hmWB44)
+- [shiffman on blob detection (youtube)](https://www.youtube.com/watch?v=ce-2l2wRqO8) // [code (github)](https://github.com/CodingTrain/website/tree/3640cedf9f696402fafe51dae4de998a1ab3ef17/Tutorials/Processing/11_video)
 
 ## past student work
 
