@@ -48,7 +48,7 @@ office hours: TBD
 
   - Week 07. 02/24/2019 <b>PROCESSING PROJECT01 REVIEW</b>
     - project presentations
-    - datavis intro: pixels, sound
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-intro-pixels-sound.md">datavis intro: pixels, sound</a>
 
   - Week 08. 03/02/2019 processing: datavis
     - global datavis
