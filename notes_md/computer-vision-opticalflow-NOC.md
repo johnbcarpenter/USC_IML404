@@ -1,6 +1,6 @@
 # IML404 // Computer Vision: Optical Flow
 
-![optical flow --> agents](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/dandelion.gif)
+![optical flow --> agents](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/dandelion.gif)  
 <sup>^ [_dandelion clock_ (2011)](http://www.johnbcarpenter.com/artworks/dandelion_clock/index.html)</sup>
 
 ## RGB camera + optical flow + agent-based systems
@@ -22,12 +22,8 @@ here are some links to the original flocking code by Shiffman (which are in turn
 
 ## past student work
 
-![jerry tsui (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/jerry-tsui-2019.gif)
+![jerry tsui (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/jerry-tsui-2019.gif)  
 <sup>^ _untitled_ (spring 2019) by jerry tsui</sup>
 
-![alex lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/alex-lee-facial-shift-2019.gif)
+![alex lee (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/alex-lee-facial-shift-2019.gif)  
 <sup>^ _facial shift_ (spring 2019) by alex lee</sup>
-
-![anissa santos (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/anissa-santos-water-world-2019.gif)
-<sup>^ _water world_ (spring 2019) by anissa santos</sup>
-
