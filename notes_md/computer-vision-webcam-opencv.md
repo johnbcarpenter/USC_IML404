@@ -14,6 +14,7 @@ the fantastic library that we'll be using for things like face tracking, brighte
 in order to run these examples, you'll need to download the processing video library (`Sketch > Import Library... > Add Library...` search for "video" and install `Video | GStreamer-based...`.  now you should be able to run the following example:
 
 - [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/Webcam)
+- [image filters (processing documentation)](https://www.processing.org/reference/filter_.html)
 
 ### [OpenCV by Greg Borenstein](https://github.com/atduskgreg/opencv-processing)
 in order to run these examples, you'll need to download the OpenCV library (`Sketch > Import Library... > Add Library...`  search for OpenCV and install `OpenCV for Processing`).  you should be able to run the following examples:
