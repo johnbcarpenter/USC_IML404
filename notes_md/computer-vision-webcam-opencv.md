@@ -28,6 +28,10 @@ the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
 - [face differences w keypress (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDiff)
 
+## shiffman on computer vision
+- [shiffman intro to CV](https://www.youtube.com/watch?v=h8tk0hmWB44)
+- [shiffman on blob detection](https://www.youtube.com/watch?v=ce-2l2wRqO8) // [github code](https://www.youtube.com/watch?v=ce-2l2wRqO8)
+
 ## past student work
 
 ![ghostly shapes (spring 2017)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ghostly-shapes-spring17.gif)  
