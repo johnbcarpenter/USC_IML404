@@ -20,3 +20,6 @@
 
 ![jamie haberman (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/jamie-haberman-midi_me-2019.gif)  
 <sup>^ _midi me_ (spring 2019) by jamie haberman</sup>
+
+![anissa santos (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/anissa-santos-water-world-2019.gif)  
+<sup>^ _water world_ (spring 2019) by anissa santos</sup>
