@@ -16,7 +16,7 @@ in order to run these examples, you'll need to download the processing video lib
 - [web cam example (processing documentation)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/Webcam)
 - [image filters (processing documentation)](https://www.processing.org/reference/filter_.html)
 
-### [OpenCV by Greg Borenstein](https://github.com/atduskgreg/opencv-processing)
+### [OpenCV for Processing by Greg Borenstein](https://github.com/atduskgreg/opencv-processing)
 in order to run these examples, you'll need to download the OpenCV library (`Sketch > Import Library... > Add Library...`  search for OpenCV and install `OpenCV for Processing`).  
 - after the library installs, you can find the examples in: `Documents/Processing/libraries/opencv_processing/examples`
 - [face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDetection)
