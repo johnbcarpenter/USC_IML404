@@ -5,7 +5,7 @@
 ### RGB camera + optical flow
 `Optical flow is the pattern of apparent motion of image objects between two consecutive frames caused by the movemement of object or camera. It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second. `  [-- Lucas Kanade / Open Source Computer Vision](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html)
 
-- [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/OpticalFlow)
+- [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow)
 
 ### RGB camera + optical flow + agent-based systems
 - [control Shiffman flocking boids with Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/Flocking_OpticalFlow)
