@@ -22,7 +22,7 @@ in order to run these examples, you'll need to download the OpenCV library (`Ske
 - [webcam face detection example (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDetection)
 - [webcam face contour lines with mouse input -> noise (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/ContourUpdateDistort)
 
-![face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/national-reas.png)
+![face diff](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/national-reas.png)  
 <sup>^[_the day i die_ by the national (youtube link)](https://www.youtube.com/watch?v=GwZvip416NU) //
 the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
 
