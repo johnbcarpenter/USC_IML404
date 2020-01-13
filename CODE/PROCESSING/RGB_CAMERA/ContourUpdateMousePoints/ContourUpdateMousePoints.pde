@@ -36,14 +36,18 @@ void draw() {
   for (Contour contour : opencv.findContours()) {
     // contour.draw();
     // println(contour.getPoints());
+    PVector cntr = new PVector();
     
     ArrayList<PVector> points = contour.getPoints();
-    
     beginShape(POINTS);
     for (PVector p : points){
       vertex (p.x + 0.1*random(-mouseX,mouseX), p.y + 0.1*random(-mouseY,mouseY));
+      cntr.add(p);
     }
     endShape(CLOSE);
+    
+    cntr.div(points.size());
+    ellipse(cntr.x,cntr.y, 20,20);
     
   }
 }
