@@ -8,11 +8,11 @@
 - [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/RGB_CAMERA/OpticalFlow)
 
 ### RGB camera + optical flow + agent-based systems
-- [control Shiffman flocking boids with Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/Flocking_OpticalFlow)
+- [control Shiffman flocking boids with Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/Flocking_OpticalFlow)
 
 ![optical flow + boid emitting screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/boid-flow.png)
 
-- [Shimodaira optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404/tree/master/AGENTS/BoidEmit_OpticalFlow)
+- [Shimodaira optical flow + boid emitting](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/BoidEmit_OpticalFlow)
 
 ## background notes on shiffman and agent-based systems (eg flocking)
 if you're new to agent-based systems, daniel shiffman has a great introduction to the agents in the [_nature of code_](http://natureofcode.com/book/chapter-6-autonomous-agents/) / [video](https://vimeo.com/63928274), so please check them out if you'd like a more in depth look at how they work in processing.
