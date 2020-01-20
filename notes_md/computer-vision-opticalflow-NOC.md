@@ -21,7 +21,7 @@ to get started interacting with one of these systems, let's create a simple [mou
 we're also going to look at how we can interact with agent-based systems using methods other than the mouse, so we'll be connecting the optical flow work we did in the [previous class](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow.md) to some of the shiffman NOC examples that we're looking at today.  in short, we can create a simple way to interact with agents in our system by having force vectors from our optical flow readings move the agents around -- and this interactivity is really exciting because 1) it's a cool way to engage with your software and opens up a bunch of opportunities for interactive work, and 2) we're generating competing forces that drive the agents (their own behaviors + our influence on them) which can result in new,  unpredictable behaviors.
 
 ### code examples
-![optical flow screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow-apple-orange.png)
+![optical flow + boid control screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow-apple-orange.png) 
 - [control Shiffman flocking boids with Shimodaira optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/Flocking_OpticalFlow)
 
 ![optical flow + boid emitting screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/boid-flow.png)
