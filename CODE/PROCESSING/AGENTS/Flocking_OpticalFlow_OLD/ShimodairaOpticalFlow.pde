@@ -11,20 +11,18 @@ class ShimodairaOpticalFlow {
   PFont font;
   color[] vline; //array to store a single horizontal line of pixels when mirroring the image
 
-  // optical flow
-  int gs = 10; // gs grid step (pixels)
+  // opticl flow
+  int gs=10; // grid step (pixels)
   float predsec=1.0; // prediction time (sec): larger for longer vector
 
   // frames per second
   int fps=30;
 
   int as=gs*2;  // window size for averaging (-as,...,+as)
-  int gw; //=width/gs; //columns in the grid
-  int gh; //=height/gs; //rows in the grid
+  int gw; //=width/gs;
+  int gh; //=height/gs;
   int gs2=gs/2;
   float df=predsec*fps;
-  
-  int cols_per_row; 
 
   // regression vectors
   float[] fx, fy, ft;
@@ -59,10 +57,8 @@ class ShimodairaOpticalFlow {
   ShimodairaOpticalFlow(Capture camera) {
     cam = camera;
 
-    gw=cam.width/gs; 
-    gh=cam.height/gs; 
-    
-    cols_per_row = int(cam.width/gs);
+    gw=cam.width/gs;
+    gh=cam.height/gs;
 
     // arrays
     par = new float[gw*gh];
@@ -272,9 +268,9 @@ class ShimodairaOpticalFlow {
       // 5th sweep : draw the flow
       // update the flow vectors
       //if (flagflow) {  
-        for (int ix=0; ix<gw; ix++) { // columns
+        for (int ix=0; ix<gw; ix++) {
           int x0=ix*gs+gs2;
-          for (int iy=0; iy<gh; iy++) { // rows
+          for (int iy=0; iy<gh; iy++) {
             int y0=iy*gs+gs2;
             int ig=iy*gw+ix;
 
@@ -283,7 +279,7 @@ class ShimodairaOpticalFlow {
 
             // draw the line segments for optical flow
             float a=sqrt(u*u+v*v);
-            if (a>=2.0) { // draw only if the length >=2.0 <<<<<<<<<<<<<<<<<
+            if (a>=2.0) { // draw only if the length >=2.0
               float r=0.5*(1.0+u/(a+0.1));
               float g=0.5*(1.0+v/(a+0.1));
               float b=0.5*(2.0-(r+g));
@@ -305,19 +301,6 @@ class ShimodairaOpticalFlow {
     // The following does the same, and is faster when just drawing the image
     // without any additional resizing, transformations, or tint.
     //set(0, 0, cam);
-  }
-  
-  PVector lookup(PVector lookup) {
-    int column = int(constrain(lookup.x/gs,0,gw-1));
-    int row = int(constrain(lookup.y/gs,0,gh-1));
-    int indx = row*cols_per_row + column; 
-    // note: this ^^^ could get messy if sketch size != camera dimensions
-    // if !=, would need to map from sketch size --> camera dimensions
-    
-    float dx = flowx[indx];
-    float dy = flowy[indx];
-    return new PVector(dx, dy);
-    //return field[column][row].get();
   }
   
   void drawFlow() {
