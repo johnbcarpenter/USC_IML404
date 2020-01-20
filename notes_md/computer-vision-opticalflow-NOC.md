@@ -9,7 +9,7 @@ let's start by looking at a couple agent-based system from daniel shiffman's nat
 so what is an _agent-based system_? they're typically a group of objects (aka instances of a class) that exist in a scene and function according to a given set of _their own_ rules or behaviors (that are defined in the class methods). in other words, they are able to function on their own in an environment, and they can even respond to their surroundings and/or other agents. i like to use agent-based systems in my work because they can be an interesting foundation (medium) to explore of natural systems and emergent behaviors/patterns.
 
 Several of the examples that Shiffman covers are adaptations of Craig Reynolds' work (as he references in his code). There is a fantastic paper on his work with boids here: [Flocks, Herds, and Schools:
-A Distributed Behavioral Model](https://www.red3d.com/cwr/papers/1987/boids.html).
+A Distributed Behavioral Model](https://www.red3d.com/cwr/papers/1987/boids.html). if you're interested in this topic, another classic book worth checking out is [Turtles, Termites, and Traffic Jams: Explorations in Massively Parallel Microworlds By Mitchel Resnick](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 
 
 - [Shiffman's flowfield example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/NOC_6_04_Flowfield)
