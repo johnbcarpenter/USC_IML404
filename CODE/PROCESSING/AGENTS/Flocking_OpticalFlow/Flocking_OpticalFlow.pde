@@ -54,7 +54,7 @@ void draw() {
   if (SOF.flagflow)
     SOF.drawFlow();
 
-  // look up the flow field 
+  // look up the optical flow (field) value based on the current boid location 
   for (Boid b : flock.boids) {
     PVector flow_vect = SOF.lookup(b.location);
     b.acceleration.add(flow_vect); //add the force to the acceleration

@@ -69,13 +69,22 @@ void draw() {
     Boid new_b = new Boid(force_start.x, force_start.y);
     flock.addBoid(new_b);
 
-    // loop through the boids now
-    for (Boid b : flock.boids) {
-      // check distance btw the force_start and the boid
-      if (PVector.dist(b.location, force_start) < 5) //if under a certain distance -- 5 pixels
-        b.acceleration.add(force_vector); //add the force to the acceleration
-      // NOTE: look for 2 changes in the boid class... search for "OPTICAL FLOW"
-    }
+    // OLDER INNEFICIENT LOOP THROUGH ALL THE BOIDS
+    // INSTEAD, LET'S LOOKUP THE OPTICAL FLOW VECTOR
+    // BASED ON THE BOID POSITIONS... SEE BELOW
+    //// loop through the boids now
+    //for (Boid b : flock.boids) {
+    //  // check distance btw the force_start and the boid
+    //  if (PVector.dist(b.location, force_start) < 5) //if under a certain distance -- 5 pixels
+    //    b.acceleration.add(force_vector); //add the force to the acceleration
+    //  // NOTE: look for 2 changes in the boid class... search for "OPTICAL FLOW"
+    //}
+  }
+  
+  // look up the optical flow (field) value based on the current boid location
+  for (Boid b : flock.boids) {
+    PVector flow_vect = SOF.lookup(b.location);
+    b.acceleration.add(flow_vect); //add the force to the acceleration
   }
 
   // RUN / DRAW THE FLOCKING CALCULATIONS
