@@ -7,6 +7,11 @@
 
 - [optical flow (implementation by Shimodaira)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow)
 
+Try to think about how you might translate the optical flow into something else -- like an interactive window installation.  Here's an example where the magnitude and direction of the optical flow vector is turned into ellipses of varying shapes and colors:
+- [optical flow + ellipses](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow_Ellipses)
+
+For inspiration, check out a few of Daniel Rozin's pieces: [“Rust Mirror” (2010)](https://vimeo.com/101408845) or [“PomPom Mirror” (2015)](https://vimeo.com/128375543) or [“Penguins Mirror” (2015)](https://vimeo.com/129674054)
+
 ## past student work
 
 ![remi wedin (spring 2019)](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/remi-wedin-seeing-sounds-2019.gif)  
