@@ -36,6 +36,7 @@ office hours: TBD
 
   - Week 03. 01/27/2019 processing: computer vision UX
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md">Nature of Code (Shiffman agents) + optical flow</a>
+    - review: classes + arrays in processing 
 
   - Week 04. 02/03/2019 processing: 3D
     - Nature of Code (agents) —> 3D
