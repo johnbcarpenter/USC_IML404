@@ -9,7 +9,7 @@ Daniel Shiffman ported one of Hodgin's particle systems to Processing for [Chapt
 
 - [flight404_particles_2](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/flight404/flight404_particles_2)
 
-Since this work, Andreas Colubri has done some fantastic work integrating [GLSL shaders into Processing](https://processing.org/tutorials/pshader/), which allows you to generate a lot of these effects without most of the GLSL code in your Processing sketch (the GLSL lives in the fragment and vertex shaders, and that code is fed into your Processing sketch via PShader). Andre's writeup on the Processing site is a good intro to shaders, and I'd suggest that everyone read through it to see what's possible in Processing (~20-30 minutes).  If you're really into shaders, [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/) is an epic accomplishment as an in-depth introduction to shaders.  The (first chapter of The Book of Shaders)[https://thebookofshaders.com/01/] is also an essential read. There are also some fun resources on the web like [Shadertoy](https://www.shadertoy.com/), which is a great place to see what's possible with shaders + find some inspiration.
+Since this work, Andreas Colubri has done some fantastic work integrating [GLSL shaders into Processing](https://processing.org/tutorials/pshader/), which allows you to generate a lot of these effects without most of the GLSL code in your Processing sketch (the GLSL lives in the fragment and vertex shaders, and that code is fed into your Processing sketch via PShader). Andre's writeup on the Processing site is a good intro to shaders, and I'd suggest that everyone read through it to see what's possible in Processing (~20-30 minutes).  If you're really into shaders, [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/) is an epic accomplishment as an in-depth introduction to shaders.  The [first chapter of The Book of Shaders](https://thebookofshaders.com/01/) is also an essential read. There are also some fun resources on the web like [Shadertoy](https://www.shadertoy.com/), which is a great place to see what's possible with shaders + find some inspiration.
 
 While entire scenes (universes!) can be created with shaders, we're going to start by looking at how shaders can be used to create 3D cues in point clouds, or how they can be used to apply a texture to a particle (aka "sprites" similar to Robert Hodgin's example above). Some key ideas (suuuuuper basic, high level definitions):
 
@@ -20,7 +20,7 @@ While entire scenes (universes!) can be created with shaders, we're going to sta
 - attribute: read-only VERTEX attribute (global variable) written from the Processing code
 - uniform: read-only VERTEX or FRAGMENT attribute (global variable) written from the Processing code
 - varying: output from the vertex shader -> fragment shader
-- (PShader)[https://processing.org/reference/PShader.html]: how we'll run GLSL shader code in our Processing sketch
+- [PShader](https://processing.org/reference/PShader.html): how we'll run GLSL shader code in our Processing sketch
 - Sprites: a cool way to apply an image to each particle (to make glow particles)
 
 # Introductory Processing Shader Examples:
