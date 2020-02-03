@@ -18,7 +18,7 @@ We're going to start today by adapting our [Flowfield + Optical flow](https://gi
 - Flowfield -> 3D + Optical Flow + [Spinner](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/threeD_spinner_sphere)
 
 ![optical flow 3D cube](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flowfield-cube.png)  
-<sup>^for inspiration: [3D Flowfield Cube](https://www.instagram.com/p/Bt6TwHUn8du/)</sup>  
+<sup>^for inspiration: [instagram: 3D Flowfield Cube (2019)](https://www.instagram.com/p/Bt6TwHUn8du/)</sup>  
 
 ### Agent-based flowfield example -> 3D
 Now let's adapt the agent-based flow field NOC example into a system that runs in 3D:
@@ -33,7 +33,7 @@ We'll create an interactive, 3D version of it:
 Code is a fantastic medium for creating generative artworks.  I like to approach programming much like I work with a garden: I seed environments and conditions, and then wait to see what grows from the system. These next studies will partially recreate some of the work I did programmatically recreating flowers.
 
 ![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)  
-<sup>^[_clematis_ study](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
+<sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
 
 We'll look at: 
 - [perlin noise](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise) / [perlin noise with a particle](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise+particle)
