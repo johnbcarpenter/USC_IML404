@@ -13,6 +13,7 @@ Since this work, Andreas Colubri has done some fantastic work integrating [GLSL 
 
 While entire scenes (universes!) can be created with shaders, we're going to start by looking at how shaders can be used to create 3D cues in point clouds, or how they can be used to apply a texture to a particle (aka "sprites" similar to Robert Hodgin's example above). Some key ideas (suuuuuper basic, high level definitions):
 
+<pre>
 - GPU: Graphic Processor Unit (handles rendering to the screen)... on modern computers, if you can shift calculations from the CPU -> GPU, your application typically runs faster.  How do we move code to the GPU? By writing calculations in the shaders instead of our Processing.
 - GLSL: "openGL Shading Language" -- the language we'll be writing shaders in
 - Vertex Shader: code that handles the position and appearance of individual vertices
@@ -22,6 +23,7 @@ While entire scenes (universes!) can be created with shaders, we're going to sta
 - varying: output from the vertex shader -> fragment shader
 - [PShader](https://processing.org/reference/PShader.html): how we'll run GLSL shader code in our Processing sketch
 - Sprites: a cool way to apply an image to each particle (to make glow particles)
+</pre>
 
 # Introductory Processing Shader Examples:
 - [shader_pointSize](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_pointSize)
