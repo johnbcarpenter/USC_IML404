@@ -39,8 +39,8 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow_BouncyBall">review: classes + arrays in processing</a>  
 
   - Week 04. 02/03/2019 processing: 3D
-    - Nature of Code (agents) —> 3D / 3D generative design
-    - shaders (point clouds: 3D cues + sprites)
+    - Nature of Code —> 3D (3D generative design) + RGB Optical Flow
+    - basic shaders in processing (3D cues + sprites)
 
   - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
 
@@ -55,7 +55,7 @@ office hours: TBD
     - 3D transforms
 
   - Week 09. 03/09/2019 processing: 3D scanning
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">kinect</a> / realsense +
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">kinect</a> / realsense + iphoneX
       - point clouds, agents
       - OpenNI (via <a href="https://github.com/totovr/SimpleOpenNI">totovr</a>)
     - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458">Capture: 3D Scan Anything</a> --> Processing
