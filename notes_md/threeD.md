@@ -6,7 +6,7 @@ P3D is the 3D renderer for Processing, and it's implemented in your size call in
 
 There's a nice introduction for [working with P3D](https://processing.org/tutorials/p3d/) written by Daniel Shiffman on the Processing website that covers 3D Transformations, 3D Shapes, Textures, Lighting, Perspective, and the Camera <-- please read through this.
 
-![P3D coordinate system](https://processing.org/tutorials/p3d/imgs/coordinatesystem.png)
+![P3D coordinate system](https://processing.org/tutorials/p3d/imgs/coordinatesystem.png)  
 <sup>^P3D coordinate system from [Processing](https://processing.org/tutorials/p3d/)</sup>
      
 ### Flowfield -> 3D + Optical Flow
@@ -28,8 +28,8 @@ We'll create an interactive, 3D version of it:
 ### 3D Particle Emitter + Optical Flow
 Code is a fantastic medium for creating generative artworks.  I like to approach programming much like I work with a garden: I seed environments and conditions, and then wait to see what grows from the system. These next studies will partially recreate some of the work I did programmatically recreating flowers.
 
-![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)
-<sup>^[_clematis_ study(https://www.instagram.com/p/BXCiraTlL2z/)</sup>
+![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)  
+<sup>^[_clematis_ study](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
 
 We'll look at: 
 - [perlin noise](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise) / [perlin noise with a particle](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise+particle)
