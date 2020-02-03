@@ -1,4 +1,4 @@
-## IML404: Shaders in Processing
+# IML404: Shaders in Processing
 [Robert Hodgin's](http://roberthodgin.com) (aka [Flight404's](https://vimeo.com/flight404)) particle systems were (and are) a big inspiration for me while I was learning to code.  I saw his work and thought ~"Wow, that's awesome.  How can I do this?"
 
 
@@ -23,7 +23,7 @@ While entire scenes (universes!) can be created with shaders, we're going to sta
 - [_PShader_](https://processing.org/reference/PShader.html): how we'll run GLSL shader code in our Processing sketch
 - _Sprites_: a cool way to apply an image to each particle (to make glow particles)
 
-# Introductory Processing Shader Examples:
+## Introductory Processing Shader Examples:
 - [shader_pointSize](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_pointSize)
 - [shader_lineSize](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_lineSize)
 - [shader_spriteFrag](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_spriteFrag)
