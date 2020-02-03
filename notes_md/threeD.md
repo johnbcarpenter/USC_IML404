@@ -17,6 +17,9 @@ We're going to start today by adapting our [Flowfield + Optical flow](https://gi
 - [Flowfield -> 3D + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlowEllipse3DGrid)
 - Flowfield -> 3D + Optical Flow + [Spinner](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/threeD_spinner_sphere)
 
+![optical flow 3D cube](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flowfield-cube.png)  
+<sup>^for inspiration: [3D Flowfield Cube](https://www.instagram.com/p/Bt6TwHUn8du/)</sup>  
+
 ### Agent-based flowfield example -> 3D
 Now let's adapt the agent-based flow field NOC example into a system that runs in 3D:
 - [Shiffman's flowfield example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/NOC_6_04_Flowfield)
