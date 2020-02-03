@@ -4,7 +4,7 @@ P3D is the 3D renderer for Processing, and it's implemented in your size call in
 
      size(1280, 720, P3D);
 
-There's a nice introduction for [working with P3D](https://processing.org/tutorials/p3d/) written by Daniel Shiffman on the Processing website that covers 3D Transformations, 3D Shapes, Textures, Lighting, Perspective, and the Camera <-- please read through this.
+There's a nice introduction for [working with P3D](https://processing.org/tutorials/p3d/) written by Daniel Shiffman on the Processing website that covers _3D Transformations_, _3D Shapes_, _Textures_, _Lighting_, _Perspective_, and the _Camera_ <-- please read through this.
 
 ![P3D coordinate system](https://processing.org/tutorials/p3d/imgs/coordinatesystem.png)  
 <sup>^P3D coordinate system from [Processing](https://processing.org/tutorials/p3d/)</sup>
