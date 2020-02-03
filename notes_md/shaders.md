@@ -1,5 +1,5 @@
 # IML404: Shaders in Processing
-[Robert Hodgin's](http://roberthodgin.com) (aka [Flight404's](https://vimeo.com/flight404)) particle systems were (and are) a big inspiration for me while I was learning to code.  I saw his work and thought ~"Wow, that's awesome.  How can I do this?"
+[Robert Hodgin's](http://roberthodgin.com) (aka [Flight404's](https://vimeo.com/flight404)) particle systems were a big inspiration for me while I was learning to code.  I saw his work and thought ~"Wow, that's awesome.  How can I do this?"
 
 ![](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/NOC_flight404_particles_2.png)  
 <sup>_flight404_particles_2_ by Robert Hodgin via [Daniel Shiffman NOC](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/flight404/flight404_particles_2)</sup>
