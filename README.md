@@ -36,11 +36,10 @@ office hours: TBD
 
   - Week 03. 01/27/2019 processing: computer vision UX
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md">Nature of Code (Shiffman agents) + optical flow</a>
-    - review: classes + arrays in processing 
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow_BouncyBall">review: classes + arrays in processing</a>  
 
   - Week 04. 02/03/2019 processing: 3D
-    - Nature of Code (agents) —> 3D
-    - 3D generative design
+    - Nature of Code (agents) —> 3D / 3D generative design
     - shaders (point clouds: 3D cues + sprites)
 
   - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
