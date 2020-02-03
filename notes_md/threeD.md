@@ -10,7 +10,8 @@ There's a nice introduction for [working with P3D](https://processing.org/tutori
 <sup>^P3D coordinate system from [Processing](https://processing.org/tutorials/p3d/)</sup>
      
 ### Flowfield -> 3D + Optical Flow
-![optical flow 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow-3D.gif)
+![optical flow 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow-3D.gif)  
+<sup>^[Flowfield -> 3D + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlowEllipse3DGrid)</sup>  
 
 We're going to start today by adapting our [Flowfield + Optical flow](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md) example from last week into 3D...
 - [Flowfield -> 3D + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlowEllipse3DGrid)
