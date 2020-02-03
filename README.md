@@ -39,8 +39,8 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow_BouncyBall">review: classes + arrays in processing</a>  
 
   - Week 04. 02/03/2019 processing: 3D
-    - Nature of Code —> 3D (3D generative design) + RGB Optical Flow
-    - basic shaders in processing (3D cues + sprites)
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/threeD.md">3D, Optical Flow, 3D generative design intro</a>
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/shaders.md">basic shaders in processing (3D cues + sprites)</a>
 
   - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
 
