@@ -1,9 +1,8 @@
 # IML404: Shaders in Processing
 [Robert Hodgin's](http://roberthodgin.com) (aka [Flight404's](https://vimeo.com/flight404)) particle systems were (and are) a big inspiration for me while I was learning to code.  I saw his work and thought ~"Wow, that's awesome.  How can I do this?"
 
-
-[ IMAGE ]
-flight404_particles_2 by Robert Hodgin via Daniel Shiffman NOC
+![](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/NOC_flight404_particles_2.png)  
+<sup>_flight404_particles_2_ by Robert Hodgin via [Daniel Shiffman NOC](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/flight404/flight404_particles_2)</sup>
 
 Daniel Shiffman ported one of Hodgin's particle systems to Processing for [Chapter 04 of the Nature of Code](https://natureofcode.com/book/chapter-4-particle-systems/). And it's a pretty great example to download and run if you want to get a sense of how colorful and dynamic particle systems can be:
 
@@ -22,6 +21,9 @@ While entire scenes (universes!) can be created with shaders, we're going to sta
 - _varying_: output from the vertex shader -> fragment shader
 - [_PShader_](https://processing.org/reference/PShader.html): how we'll run GLSL shader code in our Processing sketch
 - _Sprites_: a cool way to apply an image to each particle (to make glow particles)
+
+![](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/shader-spritefrag.gif)  
+<sup>[shader_spriteFrag class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_spriteFrag)</sup>
 
 ## Introductory Processing Shader Examples:
 - [shader_pointSize](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_pointSize)
