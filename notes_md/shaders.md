@@ -13,8 +13,8 @@ Since this work, Andreas Colubri has done some fantastic work integrating [GLSL 
 
 While entire scenes (universes!) can be created with shaders, we're going to start by looking at how shaders can be used to create 3D cues in point clouds, or how they can be used to apply a texture to a particle (aka "sprites" similar to Robert Hodgin's example above). Some key ideas (suuuuuper basic, high level definitions):
 
-- _GPU_: Graphic Processor Unit (handles rendering to the screen)... on modern computers, if you can shift calculations from the CPU -> GPU, your application typically runs faster.  How do we move code to the GPU? By writing calculations in the shaders instead of our Processing.
-- _GLSL_: "openGL Shading Language" -- the language we'll be writing shaders in
+- _GPU: Graphic Processor Unit_ (handles rendering to the screen)... on modern computers, if you can shift calculations from the CPU -> GPU, your application typically runs faster.  How do we move code to the GPU? By writing calculations in the shaders instead of our Processing.
+- _GLSL: openGL Shading Language_ -- the language we'll be writing shaders in
 - _Vertex Shader_: code that handles the position and appearance of individual vertices
 - _Fragment Shader_: code that handles the rasterized appearance (pixels) between vertices
 - _attribute_: read-only VERTEX attribute (global variable) written from the Processing code
