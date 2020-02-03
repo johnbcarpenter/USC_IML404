@@ -32,4 +32,4 @@ While entire scenes (universes!) can be created with shaders, we're going to sta
 - [shader_spriteFrag](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/shader_spriteFrag)
 - bonus example: [3D point cube](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/threeD_shader_pointCube)
 
-Unfortunately, there's not a great way to edit your shaders in Processing.  While it's possible to open a shader using a basic text editor, I'd suggest downloading an IDE (integrated development environment) designed for working with code like [Sublime Text](https://www.sublimetext.com)
+Unfortunately, there's not a great way to edit your shaders in Processing.  While it's possible to open a shader using a basic text editor, I'd suggest downloading an IDE (_integrated development environment_) designed for working with code like [Sublime Text](https://www.sublimetext.com)
