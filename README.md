@@ -34,12 +34,12 @@ office hours: TBD
 
   - <i>// Week 02. 01/20/2019 MLK day</i>
 
-  - Week 03. 01/27/2019 processing: computer vision UX
+  - Week 03. 01/27/2019 processing: computer vision as UX
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md">Nature of Code (Shiffman agents) + optical flow</a>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlow_BouncyBall">review: classes + arrays in processing</a>  
 
-  - Week 04. 02/03/2019 processing: 3D
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/threeD.md">3D, Optical Flow, 3D generative design intro</a>
+  - Week 04. 02/03/2019 processing: 3D generative + interactive artworks
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/threeD.md">3D, Optical Flow, 3D generative artwork intro</a>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/shaders.md">basic shaders in processing (3D cues + sprites)</a>
 
   - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
