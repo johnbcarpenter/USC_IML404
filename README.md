@@ -42,11 +42,11 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/threeD.md">3D, Optical Flow, 3D generative artwork intro</a>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/shaders.md">basic shaders in processing (3D cues + sprites)</a>
 
-  - Week 05. 02/10/2019 PROCESSING PROJECT01 working session
+  - Week 05. 02/10/2019 <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md">PROCESSING PROJECT01</a> working session
 
   - <i>// Week 06. 02/17/2019 President’s Day</i>
 
-  - Week 07. 02/24/2019 <b>PROCESSING PROJECT01 REVIEW</b>
+  - Week 07. 02/24/2019 <b><a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md">PROCESSING PROJECT01</a> REVIEW</b>
     - project presentations
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-intro-pixels-sound.md">datavis intro: pixels, sound</a>
 
