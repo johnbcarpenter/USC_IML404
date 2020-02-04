@@ -7,7 +7,7 @@ consider building on the examples we developed in class -- [open cv](https://git
 
 for inspiration: [creativecodeart](https://www.instagram.com/creativecodeart/), [@new_media_art](https://www.instagram.com/new_media_art/), [#creativecoding](https://www.instagram.com/explore/tags/creativecoding/), [#interactiveart](https://www.instagram.com/explore/tags/interactiveart/), [#kinect](https://www.instagram.com/explore/tags/kinect/), [@artechouse](https://www.instagram.com/artechouse/), [#installationart](https://www.instagram.com/explore/tags/installationart/), [creativeapplications.net](https://www.creativeapplications.net) // work referenced in class: [flight404](https://vimeo.com/flight404), [daniel rozin](http://www.smoothware.com/danny/), [@johnbcarpenter](https://www.instagram.com/johnbcarpenter/)
 
-### DEMO + THINGS TO TURN IN TO THE CLASS MOODLE:
+### IN-CLASS DEMO + THINGS TO TURN IN TO THE GOOGLE DRIVE:
 - in-class demo
 - your source code (zipped root folder with all pde files + the _data_ folder: images, shaders, etc)
 - a txt document with your work's title and one or two sentences about the project 
