@@ -1,5 +1,8 @@
 ## IML404: Working with 3D in Processing
 
+![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)    
+<sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
+
 P3D is the 3D renderer for Processing, and it's implemented in your size call in setup:
 
      size(1280, 720, P3D);
@@ -30,9 +33,6 @@ We'll look at:
 - [perlin noise](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise) / [perlin noise with a particle](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle)
 - [3D particle emitter (with perlin noise + trails)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D) // loosely based on [Shiffman's particle smoke example in the NOC](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/NOC_4_08_ParticleSystemSmoke)
 - [3D particle emitter + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D_optiflow)
-
-![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)    
-<sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
 
 ### Agent-based flowfield example -> 3D
 Now let's adapt the agent-based flow field NOC example into a system that runs in 3D:
