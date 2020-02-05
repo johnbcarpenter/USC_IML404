@@ -24,7 +24,7 @@ We're going to start today by adapting our [Flowfield + Optical flow](https://gi
 <sup>^for inspiration: [instagram: 3D Flowfield Cube (2019)](https://www.instagram.com/p/Bt6TwHUn8du/)</sup>  
 
 ### 3D Particle Emitter + Optical Flow
-For this last example, we'll create a particle system driven by perlin noise and interact with it via optical flow:
+For this example, we'll create a particle system driven by perlin noise and interact with it via optical flow:
 
 ![perlin noise particle 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-particle-3D.gif)  
 <sup>^[perlin noise particle 3D class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D)</sup>
