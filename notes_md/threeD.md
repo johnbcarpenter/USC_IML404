@@ -15,19 +15,10 @@ There's a nice introduction for [working with P3D](https://processing.org/tutori
 
 We're going to start today by adapting our [Flowfield + Optical flow](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow-NOC.md) example from last week into 3D...
 - [Flowfield -> 3D + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/OpticalFlowEllipse3DGrid)
-- Flowfield -> 3D + Optical Flow + [Spinner](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/threeD_spinner_sphere)
+- next steps: think about using this [Spinner class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/threeD_spinner_sphere) to get some new views of you 3D flowfield
 
 ![optical flow 3D cube](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/flowfield-cube.png)  
 <sup>^for inspiration: [instagram: 3D Flowfield Cube (2019)](https://www.instagram.com/p/Bt6TwHUn8du/)</sup>  
-
-### Agent-based flowfield example -> 3D
-Now let's adapt the agent-based flow field NOC example into a system that runs in 3D:
-- [Shiffman's flowfield example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/NOC_6_04_Flowfield)
-- If you want to challenge yourself, you can try working with [Shiffman's more dynamic flowfield noise example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/Exercise_6_07_FlowField3DNoise)
-
-We'll create an interactive, 3D version of it:
-- Shiffman's flowfield noise example --> P3D using sinusoidal movement
-- Shiffman's flowfield noise example --> P3D + Optical Flow
 
 ### 3D Particle Emitter + Optical Flow
 For this last example, we'll create a particle system driven by perlin noise and interact with it via optical flow:
@@ -40,6 +31,16 @@ We'll look at:
 - [3D particle emitter (with perlin noise + trails)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D) // loosely based on [Shiffman's particle smoke example in the NOC](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/NOC_4_08_ParticleSystemSmoke)
 - [3D particle emitter + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D_optiflow)
 
-
 ![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)    
 <sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
+
+### Agent-based flowfield example -> 3D
+Now let's adapt the agent-based flow field NOC example into a system that runs in 3D:
+- [Shiffman's flowfield example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/NOC_6_04_Flowfield)
+- If you want to challenge yourself, you can try working with [Shiffman's more dynamic flowfield noise example](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp06_agents/Exercise_6_07_FlowField3DNoise)
+
+We'll create an interactive, 3D version of it:
+- Shiffman's flowfield noise example --> P3D using sinusoidal movement
+- Shiffman's flowfield noise example --> P3D + Optical Flow
+
+
