@@ -32,7 +32,7 @@ We'll create an interactive, 3D version of it:
 ### 3D Particle Emitter + Optical Flow
 For this last example, we'll use code + optical flow to create an interactive generative work:
 
-![perlin noise particle 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-particle-3D.gif)
+![perlin noise particle 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-particle-3D.gif)  
 <sup>^[perlin noise particle 3D class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D)</sup>
 
 We'll look at: 
