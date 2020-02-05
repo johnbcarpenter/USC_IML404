@@ -30,12 +30,15 @@ We'll create an interactive, 3D version of it:
 - Shiffman's flowfield noise example --> P3D + Optical Flow
 
 ### 3D Particle Emitter + Optical Flow
-Code is a fantastic medium for creating generative artworks.  I like to approach programming much like I work with a garden: I seed environments and conditions, and then wait to see what grows from the system. These next studies will partially recreate some of the work I did programmatically recreating flowers.
+For this last example, we'll use code + optical flow to create an interactive generative work:
 
-![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)![perlin noise particle 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-particle-3D.gif)   
-<sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/) // [perlin noise particle 3D class example]()</sup>
+![perlin noise particle 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-particle-3D.gif)
+<sup>^[perlin noise particle 3D class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D)</sup>
 
 We'll look at: 
-- [perlin noise](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise) / [perlin noise with a particle](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise+particle)
+- [perlin noise](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise) / [perlin noise with a particle](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle)
 - [3D particle emitter (with perlin noise + trails)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D) // loosely based on [Shiffman's particle smoke example in the NOC](https://github.com/nature-of-code/noc-examples-processing/tree/master/chp04_systems/NOC_4_08_ParticleSystemSmoke)
 - [3D particle emitter + Optical Flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/noise_particle_3D_optiflow)
+
+![clematis study](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/noise-clematis-study.gif)    
+<sup>^[instagram: _clematis_ study (2018)](https://www.instagram.com/p/BXCiraTlL2z/)</sup>
