@@ -10,11 +10,10 @@ Or we can build on one of our other examples to change the size of an agent base
 - PLACEHOLDER: AGENT SPEED SIZE EXAMPLE TO UPLOAD AFTER CLASS
 
 ## pixels[]
-We've been working with the RGB camera for optical flow, but we can also do some interesting things with the pixels we're capturing.  To start off, please review Shiffman's discussion of [Images and Pixels](https://processing.org/tutorials/pixels/) on the Processing website. 
+We've been working with the RGB camera for optical flow, but we can also do some interesting things with the *pixels[]* we're capturing.  To start off, please review Shiffman's discussion of [*Images and Pixels*](https://processing.org/tutorials/pixels/) on the Processing website. 
 
 - PLACEHOLDER: RGB CAMERA BRIGHTNESS --> 3D EXAMPLE TO UPLOAD AFTER CLASS
 
 ## additional examples
-images -- and frames of videos or a webcam capture -- are stored as an array of pixels... 
 ![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)  
 <sup>^ [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/WebcamReordering_01)</sup>
