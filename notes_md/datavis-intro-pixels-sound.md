@@ -16,4 +16,4 @@ We've been working with the RGB camera for optical flow, but we can also do some
 
 ## additional examples
 ![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)  
-<sup>^ [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/WebcamReordering_01)</sup>
+<sup>^ [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/WebcamReordering_01)</sup>
