@@ -43,6 +43,7 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/shaders.md">basic shaders in processing (3D cues + sprites)</a>
 
   - Week 05. 02/10/2019 <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md">PROCESSING PROJECT01</a> working session
+   - justin shrake guest lecture on <a href="https://github.com/jshrake/p5js-vertex-shader">vertex shaders in p5js</a>
 
   - <i>// Week 06. 02/17/2019 President’s Day</i>
 
