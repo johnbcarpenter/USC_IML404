@@ -13,7 +13,7 @@ Or we can build on one of our other examples to change the size of an agent base
 We've been working with the RGB camera for optical flow, but we can also do some interesting things with the *pixels[]* we're capturing.  To start off, please review Shiffman's discussion of [*Images and Pixels*](https://processing.org/tutorials/pixels/) on the Processing website. 
 
 ![shiffman image 2D to 3D](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/processing_org_2Dto3D_shiffman.png)  
-<sup>^ [*Example: 2D image mapped to 3D* from the Processing website](http://learningprocessing.com/examples/chp15/example-15-15-explode3D)</sup>
+<sup>^ [*Example: 2D image mapped to 3D* from the Processing website + *Learning Processing* by Daniel Shiffman](http://learningprocessing.com/examples/chp15/example-15-15-explode3D)</sup>
 
 - PLACEHOLDER: RGB CAMERA BRIGHTNESS --> 3D EXAMPLE TO UPLOAD AFTER CLASS
 
