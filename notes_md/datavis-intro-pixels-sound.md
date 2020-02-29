@@ -18,7 +18,7 @@ We've been working with the RGB camera for optical flow, but we can also do some
 <sup>^ [*Example: 2D image mapped to 3D* from the Processing website + *Learning Processing* by Daniel Shiffman](http://learningprocessing.com/examples/chp15/example-15-15-explode3D)</sup>
 
 ![3DPixelFlowers](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/3DPixelFlowers.png)  
-<sup> ^ 3DPixelFlowers: brightness = 3D pixel position </sup>  
+<sup> ^ 3DPixelFlowers: web cam video with brightness determinging the 3D pixel position </sup>  
 - [RGB CAMERA BRIGHTNESS --> 3D](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/Webcam3DPixels)
 
 ## additional examples
