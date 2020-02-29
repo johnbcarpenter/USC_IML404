@@ -24,5 +24,7 @@ Let's take the above idea and apply it to your web camera:
 - [RGB CAMERA BRIGHTNESS --> 3D](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/Webcam3DPixels)
 
 ## additional examples
+Generate a random color for every hue, and replace that color in the captured pixels[], and offset of the hue index of the captured pixel every 1 second:
+
 ![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)  
 <sup>^ [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/WebcamReordering_01)</sup>
