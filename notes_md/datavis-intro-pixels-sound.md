@@ -9,7 +9,7 @@ Or we can build on one of our other examples to change the size of an agent base
 
 ![optical flow + agent speed screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/Flocking_OpticalFlow_AgentSpeed.png)  
 <sup> ^ optical flow + agent speed</sup>  
-- [AGENT SPEED SIZE CLASS EXAMPLE](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/Flocking_OpticalFlow_AgentSpeed)  
+- [OPTICAL FLOW + AGENT SPEED SIZE CLASS EXAMPLE](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/Flocking_OpticalFlow_AgentSpeed)  
 
 ## pixels[]
 We've been working with the RGB camera for optical flow, but we can also do some interesting things with the *pixels[]* we're capturing.  To start off, please review Shiffman's discussion of [*Images and Pixels*](https://processing.org/tutorials/pixels/) on the Processing website. 
