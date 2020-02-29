@@ -5,7 +5,7 @@ I think it's common for people to think of data visualization as turning excel s
 ![optical flow screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/optical-flow.png)  
 <sup> ^ [optical flow class discussion](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-opticalflow.md)</sup>
 
-Or we can build on one of our other examples to change the size of an agent based on its speed: [CODE/PROCESSING/AGENTS/Flocking_OpticalFlow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/Flocking_OpticalFlow)
+Let's start off by building on the [CODE/PROCESSING/AGENTS/Flocking_OpticalFlow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/AGENTS/Flocking_OpticalFlow) example to reveal how fast each boid is travelling.  An easy way to do this is to vary the triangle size based on each boid's velocity (the larger it is, the faster it's going).
 
 ![optical flow + agent speed screen capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/Flocking_OpticalFlow_AgentSpeed.png)  
 <sup> ^ optical flow + agent speed</sup>  
