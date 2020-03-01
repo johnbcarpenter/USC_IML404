@@ -50,7 +50,11 @@ The original data can be downloaded from the [Kepler Exoplanet Archie at Caltech
 ![solar by robert hodgin](https://farm5.static.flickr.com/4026/4247502776_5510ed7000_o.jpg)  
 <sup> ^ [*Solar* (2008)](https://vimeo.com/658158) by [Robert Hodgin](http://roberthodgin.com) aka [flight404](https://vimeo.com/flight404)</sup>
 
-I think that anyone interested in real-time sound visualization should start by taking a look at [Robert Hodgin's](http://roberthodgin.com) work [*Solar* (2008)](https://vimeo.com/658158) and [Magnetosphere (2007+)](https://vimeo.com/8581392). These works led to Robert + the Barbarian Group reimagining the [iTunes song visualizer](http://roberthodgin.com/portfolio/work/magnetosphere/).
+I think that anyone interested in real-time sound visualization should start by taking a look at [Robert Hodgin's](http://roberthodgin.com) work [*Solar* (2008)](https://vimeo.com/658158) and [Magnetosphere (2007+)](https://vimeo.com/8581392). These works led to Robert + the Barbarian Group reimagining the [iTunes song visualizer](http://roberthodgin.com/portfolio/work/magnetosphere/) in 2008.
+
+Moving to processing, R. Luke DuBois and Wilm Thoben wrote the [*Sound* tutorial](https://processing.org/tutorials/sound/) on Processing.org. Please read through this discussion -- it's a pretty impressive + comprehensive walk through of the history of technology and sound -- and make sure to read through *Example 5, 6: Audio analysis*...
+
+     In addition to the classes used for generating and manipulating audio streams, Sound provides two classes for audio analysis: a Fast Fourier Transformation (FFT) and an amplitude follower. The FFT class analyzes an audio stream and fills an array with bins (samples in the frequency domain) of the positive side of the audio spectrum up to half the sample rate. This allows us to use different frequency bands of a particular sound to trigger events or visualize them in the draw() loop.
 
 - [sound + analyzed FFT spectrum spiral](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/spiralFFT)
 
