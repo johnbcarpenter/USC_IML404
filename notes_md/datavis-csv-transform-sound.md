@@ -12,7 +12,11 @@ Today we're going to go through a number of different ways to work with data in 
 - [STEP 1. getting the data into processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/FlamingoScan_LoadData)
 - [STEP 2. using shaders to set the point sizes + working with the Spinner class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/FlamingoScan_ShaderSpinner)
 
-here's an example that similarly reads in data from a CSV file and utilizes shaders and the Spinner class; however, it also works with additional dimensions of information for each point.
+## 3D transformations
+
+- rectangle <-> sphere
+
+here's an example utilizing the above transformations that builds on the loadTable CSV example (it also reads in data from a CSV file and utilizes shaders and the Spinner class); however, it also works with additional dimensions of information for each point.
 
 The kepler data is... WIP // [kepler exoplanet data downloaded from caltech](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)
 
@@ -20,3 +24,6 @@ The kepler data is... WIP // [kepler exoplanet data downloaded from caltech](htt
 <sup> ^ kepler datavis using [caltech's exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)</sup>
 
 - [keplerDataVis](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/keplerDataVis)
+
+## sound // Minim
+
