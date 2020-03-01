@@ -1,9 +1,9 @@
 # IML404 // Datavis: loading CSVs, 3D transforms + sound
 
 ![](https://cdn.shopify.com/s/files/1/0721/3419/products/allstreets-for-web-003_1024x1024.jpg)  
-<sup> ^ [All Streets Limited (2007/2011)](https://3rdfloor.fathom.info/products/all-streets) by Ben Fry and [Fathom Information Design](https://fathom.info)</sup>
+<sup> ^ [*All Streets* Limited (2007/2011)](https://3rdfloor.fathom.info/products/all-streets) by [Ben Fry](https://benfry.com) and [Fathom Information Design](https://fathom.info)</sup>
 
-Today we're going to go through a number of different ways to work with data in processing.  I got my introduction to working with data in Processing via [Ben Fry's](https://benfry.com) [*Visualizing Data*](https://benfry.com/writing/archives/3/)(O’Reilly, 2007) -- yes, the Ben Fry who started Processing with Casey Reas and still maintains it to this day -- thanks Ben! While Processing has changed since 2007 (e.g. new methods and classes), the ideas in this book, and his discussion and approach to working with data are an essential and foundational introduction to data visualization. Ben founded [Fathom Information Design](https://fathom.info), and I'd highly recommend taking a look at their work if you're interested in data visualization.
+Today we're going to go through a number of different ways to work with information in processing.  I got my introduction to working with data via Ben Fry's book [*Visualizing Data*](https://benfry.com/writing/archives/3/) (O’Reilly, 2007) -- yes, the [Ben Fry](https://benfry.com) who started Processing with Casey Reas and still maintains it to this day -- thanks Ben! While Processing has changed since 2007 (e.g. new methods and classes for working with tables), the ideas in this book and the  approach to datavisualization are an essential introduction to the field. Ben founded [Fathom Information Design](https://fathom.info) in 2010, and I'd highly recommend taking a look at their work.
 
 ## loading CSVs using loadTable()
 To start with, let's take a look at loading a CSV (comma-separated value -- a pretty standard, simple format for storing data) into processing. We'll use the data below (generated with [standard cyborg's iOS *capture* app](https://www.standardcyborg.com/products/), which has been exported to a PLY using the web interface and converted to CSV so that we can work with a file format native to processing):
@@ -31,7 +31,7 @@ This is a trick I learned from the data artist [Jer Thorpe](https://www.jerthorp
 
 Now let's use this technique (along with some of the other examples we've looked at: *pixels[], shaders, Spinner class*) to map the [Global Digital Elevation Model from METI of Japan + NASA](https://asterweb.jpl.nasa.gov/gdem.asp) to a sphere.
 
-![GLOBAL_ELEV_DATA](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/GLOBAL_ELEV_DATA.png)  
+![GLOBAL_ELEV_DATA](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/GLOBAL_ELEV_DATA.gif)  
 <sup> ^ GLOBAL_ELEV_DATA class example </sup>
 
 - [GLOBAL_ELEV_DATA class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/GLOBAL_ELEV_DATA)
@@ -47,6 +47,10 @@ The original data can be downloaded from the [Kepler Exoplanet Archie at Caltech
 - [keplerDataVis](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/keplerDataVis)
 
 ## sound // Minim
+![solar by robert hodgin](https://farm5.static.flickr.com/4026/4247502776_5510ed7000_o.jpg)  
+<sup> ^ [*Solar* (2008)](https://vimeo.com/658158) by [Robert Hodgin](http://roberthodgin.com) aka [flight404](https://vimeo.com/flight404)</sup>
+
+I think that anyone interested in real-time sound visualization should start by taking a look at [Robert Hodgin's](http://roberthodgin.com) work [*Solar* (2008)](https://vimeo.com/658158) and [Magnetosphere (2007+)](https://vimeo.com/8581392). These works led to Robert + the Barbarian Group reimagining the [iTunes song visualizer](http://roberthodgin.com/portfolio/work/magnetosphere/).
 
 - [sound + analyzed FFT spectrum spiral](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/spiralFFT)
 
