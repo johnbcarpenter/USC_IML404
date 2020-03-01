@@ -35,10 +35,10 @@ Now let's use this technique (along with some of the other examples we've looked
 ## loading CSVs and transforming data
 Inspired by [Exo: A Visualization of Kepler’s Exoplanet Candidates](https://vimeo.com/41655330) by Jer Thorpe in collaboration with Oblong, here's an example that explores some additional transformations on an updated dataset from Caltech.  We'll still get the data into Processing via a CSV + loadTable, and utilize shaders and the Spinner class; however, we'll also track a few additional dimensions of information to provide additional data for each point.
 
-The kepler data is... WIP // [kepler exoplanet data downloaded from caltech](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)
-
 ![kepler datavis](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/keplerDataVis.png)  
 <sup> ^ kepler datavis using [caltech's exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)</sup>
+
+The original data can be downloaded from the [Kepler Exoplanet Archie at Caltech](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets).
 
 - [keplerDataVis](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/keplerDataVis)
 
