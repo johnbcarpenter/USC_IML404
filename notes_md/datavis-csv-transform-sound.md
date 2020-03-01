@@ -3,7 +3,7 @@
 ![](https://cdn.shopify.com/s/files/1/0721/3419/products/allstreets-for-web-003_1024x1024.jpg)  
 <sup> ^ [All Streets Limited (2007/2011)](https://3rdfloor.fathom.info/products/all-streets) by Ben Fry and [Fathom Information Design](https://fathom.info)</sup>
 
-Today we're going to go through a number of different ways to work with data in processing.  I got my introduction to working with data in Processing via [Ben Fry's](https://benfry.com) [*Visualizing Data*](https://benfry.com/writing/archives/3/)(O’Reilly, 2007) -- yes, the Ben Fry who started Processing with Casey Reas and still maintains it to this day -- thanks ben! While Processing has changed since 2007 (e.g. new methods and classes), the ideas in this book, and his discussion and approach to working with data. Ben founded [Fathom Information Design](https://fathom.info), and I'd highly recommend taking a look at their work if you're interested in data visualization.
+Today we're going to go through a number of different ways to work with data in processing.  I got my introduction to working with data in Processing via [Ben Fry's](https://benfry.com) [*Visualizing Data*](https://benfry.com/writing/archives/3/)(O’Reilly, 2007) -- yes, the Ben Fry who started Processing with Casey Reas and still maintains it to this day -- thanks Ben! While Processing has changed since 2007 (e.g. new methods and classes), the ideas in this book, and his discussion and approach to working with data are an essential and foundational introduction to data visualization. Ben founded [Fathom Information Design](https://fathom.info), and I'd highly recommend taking a look at their work if you're interested in data visualization.
 
 ## loading CSVs using loadTable()
 To start with, let's take a look at loading a CSV (comma-separated value -- a pretty standard, simple format for storing data) into processing. We'll use the data below (generated with [standard cyborg's iOS *capture* app](https://www.standardcyborg.com/products/), which has been exported to a PLY using the web interface and converted to CSV so that we can work with a file format native to processing):
@@ -43,4 +43,7 @@ The kepler data is... WIP // [kepler exoplanet data downloaded from caltech](htt
 - [keplerDataVis](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/keplerDataVis)
 
 ## sound // Minim
+
+- [sound + analyzed FFT spectrum spiral](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/spiralFFT)
+
 
