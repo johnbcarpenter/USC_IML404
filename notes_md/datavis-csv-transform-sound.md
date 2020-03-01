@@ -54,7 +54,9 @@ I think that anyone interested in real-time sound visualization should start by 
 
 Moving to processing, R. Luke DuBois and Wilm Thoben wrote the [*Sound* tutorial](https://processing.org/tutorials/sound/) on Processing.org. Please read through this discussion -- it's a pretty impressive + comprehensive walk through of the history of technology and sound -- and make sure to read through *Example 5, 6: Audio analysis*...
 
-     In addition to the classes used for generating and manipulating audio streams, Sound provides two classes for audio analysis: a Fast Fourier Transformation (FFT) and an amplitude follower. The FFT class analyzes an audio stream and fills an array with bins (samples in the frequency domain) of the positive side of the audio spectrum up to half the sample rate. This allows us to use different frequency bands of a particular sound to trigger events or visualize them in the draw() loop.
+> In addition to the classes used for generating and manipulating audio streams, Sound provides two classes for audio analysis: a Fast Fourier Transformation (FFT) and an amplitude follower. The FFT class analyzes an audio stream and fills an array with bins (samples in the frequency domain) of the positive side of the audio spectrum up to half the sample rate. This allows us to use different frequency bands of a particular sound to trigger events or visualize them in the draw() loop.
+     
+[*17.11: Sound Visualization: Frequency Analysis with FFT* by Daniel Shiffman](https://www.youtube.com/watch?v=2O3nm0Nvbi4)
 
 - [sound + analyzed FFT spectrum spiral](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/spiralFFT)
 
