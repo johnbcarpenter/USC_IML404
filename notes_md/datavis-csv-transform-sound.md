@@ -37,7 +37,7 @@ Now let's use this technique (along with some of the other examples we've looked
 - [GLOBAL_ELEV_DATA class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/GLOBAL_ELEV_DATA)
 
 ## loading CSVs and transforming data
-Inspired by [Exo: A Visualization of Kepler’s Exoplanet Candidates](https://vimeo.com/41655330) by Jer Thorpe in collaboration with Oblong, here's an example that explores some additional transformations on an updated dataset from Caltech.  We'll still get the data into Processing via a CSV + loadTable, and utilize shaders and the Spinner class; however, we'll also track a few additional dimensions of information to provide additional data for each point.
+Inspired by [Exo: A Visualization of Kepler’s Exoplanet Candidates](https://vimeo.com/41655330) by Jer Thorpe, here's an example that explores some additional transformations on an updated dataset from Caltech.  We'll still get the data into Processing via a CSV + loadTable, and utilize shaders and the Spinner class; however, we'll also track a few additional dimensions of information to provide additional data for each point.
 
 ![kepler datavis](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/keplerDataVis.png)  
 <sup> ^ kepler datavis using [caltech's exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)</sup>
