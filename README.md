@@ -52,8 +52,7 @@ office hours: TBD
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-intro-pixels-sound.md">datavis intro: pixels, sound</a>
 
   - Week 08. 03/02/2019 processing: datavis
-    - global datavis
-    - 3D transforms
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-csv-transform-sound.md">datavis: loading CSVs, 3D transforms, sound</a>
 
   - Week 09. 03/09/2019 processing: 3D scanning
     - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">kinect</a> / realsense + iphoneX
