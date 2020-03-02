@@ -1,0 +1,24 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Wed Jan 15 11:05:50 2020
+#
+# User preference: *
+#
+# COLUMN pl_hostname:    Host Name
+# COLUMN pl_name:        Planet Name
+# COLUMN pl_pnum:        Number of Planets in System
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN ra_str:         RA [sexagesimal]
+# COLUMN ra:             RA [decimal degrees]
+# COLUMN dec_str:        Dec [sexagesimal]
+# COLUMN dec:            Dec [decimal degrees]
+# COLUMN st_dist:        Distance [pc]
+# COLUMN st_teff:        Effective Temperature [K]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_rad:         Stellar Radius [Solar radii]
+# COLUMN pl_masse:       Planet Mass [Earth mass]
+# COLUMN pl_rade:        Planet Radius [Earth radii]
+# COLUMN pl_disc:        Year of Discovery
+# COLUMN pl_mnum:        Number of Moons in System
+# COLUMN st_lum:         Stellar Luminosity [log(Solar)]
+#

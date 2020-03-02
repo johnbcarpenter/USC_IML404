@@ -72,7 +72,7 @@ class Spinner {
   }
 
   void keyPressed (char key) {
-    float d = height*0.2;
+    float d = height*0.1;
     if (key == 'r')
       transl_target.y-=d;
     if (key == 'f')
