@@ -27,7 +27,7 @@ One of my favorite tricks of the data artist [Jer Thorpe](https://www.jerthorp.c
 ![RECT2SPHERE](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/RECT2SPHERE.gif)  
 <sup> ^ RECT2SPHERE class example </sup>
 
-- [RECT2SPHERE class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/RECT2SPHERE)
+- [RECT2SPHERE class example](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/3D_SHADERS/RECT2SPHERE)
 
 Now let's use this technique (along with some of the other examples we've looked at: *pixels[], shaders, Spinner class*) to map the [Global Digital Elevation Model from METI of Japan + NASA](https://asterweb.jpl.nasa.gov/gdem.asp) to a sphere.
 
