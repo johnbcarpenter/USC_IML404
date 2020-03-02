@@ -5,7 +5,7 @@
 
 Today we're going to go through a number of different ways to work with information in processing.  I got my introduction to working with data via Ben Fry's book [*Visualizing Data*](https://benfry.com/writing/archives/3/) (O’Reilly, 2007) -- yes, the [Ben Fry](https://benfry.com) who started Processing with Casey Reas and still maintains it to this day -- thanks Ben! While Processing has changed since 2007 (e.g. new methods and classes for working with tables), the ideas in this book and the  approach to datavisualization are an essential introduction to the field. Ben founded [Fathom Information Design](https://fathom.info) in 2010, and I'd highly recommend taking a look at their work.
 
-In any case, I love the above visualization because the data reveals additional dimensions of data that aren't in the dataset: *mountains and other geography, the oceans...*
+In any case, I love the above visualization because the data reveals additional dimensions of data that aren't in the dataset: *mountains and other geography, lakes and oceans, cities...*
 
 ## loading CSVs using loadTable()
 To start with, let's take a look at loading a CSV (comma-separated value -- a pretty standard, simple format for storing data) into processing. We'll use the data below (generated with [standard cyborg's iOS *capture* app](https://www.standardcyborg.com/products/), which has been exported to a PLY using the web interface and converted to CSV so that we can work with a file format native to processing):
