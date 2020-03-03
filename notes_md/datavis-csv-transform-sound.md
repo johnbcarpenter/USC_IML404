@@ -58,11 +58,14 @@ Moving to processing, R. Luke DuBois and Wilm Thoben wrote the [*Sound* tutorial
 
 > In addition to the classes used for generating and manipulating audio streams, Sound provides two classes for audio analysis: a Fast Fourier Transformation (FFT) and an amplitude follower. The FFT class analyzes an audio stream and fills an array with bins (samples in the frequency domain) of the positive side of the audio spectrum up to half the sample rate. This allows us to use different frequency bands of a particular sound to trigger events or visualize them in the draw() loop.
      
-Daniel Shiffman also has a video on the Coding Train that discusses [*Sound Visualization: Frequency Analysis with FFT*](https://www.youtube.com/watch?v=2O3nm0Nvbi4) that's a good resource. We'll primarily be using the [FFT class](https://processing.org/reference/libraries/sound/FFT.html) in this example...
+While Processing has a built in sound library, [Minim](http://code.compartmental.net/tools/minim/) is an external library that's a standard for working with audio (+ there are a bunch of nice examples included).  If you're interested in generative sound, i've heard good things about [beads](http://www.beadsproject.net).
+     
+We'll primarily be using the Processing sound library with the [FFT class](https://processing.org/reference/libraries/sound/FFT.html) for our work. Daniel Shiffman has a video on the Coding Train that discusses [*Sound Visualization: Frequency Analysis with FFT*](https://www.youtube.com/watch?v=2O3nm0Nvbi4) that's a good starting point if you're new to the topic. 
 
 ![spiralFFT](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/spiralFFT.png)  
 <sup> ^ spiralFFT class example </sup>
 
 - [sound + analyzed FFT spectrum spiral](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/spiralFFT)
+- [pulsing stars via the FFT spectrum](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND/audioStarsFFT)
 
 
