@@ -60,8 +60,8 @@ void draw() {
   spin.update();
   spin.PushSpinnerMatrix();
   
-  translate(-avg_loc.x, - avg_loc.y, -avg_loc.z);
-  rotateZ(-PI*0.5);
+  rotateZ(-PI*0.5); // orient the flamingo upright to start with
+  translate(-avg_loc.x, - avg_loc.y, -avg_loc.z); // center the data
 
   shader(point_shader, POINTS);
 
