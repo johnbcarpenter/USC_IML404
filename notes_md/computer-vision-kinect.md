@@ -28,7 +28,7 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
 <sup>_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_</sup>
 
 ## kinect V1
-The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~Novemeber 2010 coders created and released an SDK + drivers for the kinect that allowed software developers to read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia + fat cat_ (2010](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
+The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~Novemeber 2010 coders created and released an SDK + drivers for the kinect that allowed software developers to read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia + fat cat_ (2010)](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
 
 ![robert hodgin fat cat](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/hodgin_fatcat.gif)  
 <sup>^ [robert hodgin _fat cat / body dismorphia_ (Nov 2010)](https://vimeo.com/17075378)</sup>  
