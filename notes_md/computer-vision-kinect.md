@@ -69,7 +69,7 @@ Note: you must also be running the [Leap Motion Software](https://developer.leap
 ![kinect v2 (xbox one)](https://lh3.googleusercontent.com/proxy/Bqk19JO_BAjkRPT6iBZovdH5u-iBYuAiRoiLJwyvGhzdmJ-TrnpYNi4LinUMC86a9UM06oka0o2uT4VONuqnp31c_OmEF8bXJc04LbOSjnmDqkufyiAk0qhNutYV7_C3_ZTeGfhgheJq7watd6jtaUQve1TkEkOwa6CdVRcou-8AHXuJug)  
 <sup>^ kinect v2 (xbox one)</sup>
 
-In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. It also has a much higher sensing resolution of 1920x1080px (vs the original 640x480px).
+In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. Though it has a slightly lower depth resolution of 512x424px (vs the original 640x480px).
 
 My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is: 
 
