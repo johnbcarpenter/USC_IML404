@@ -117,9 +117,10 @@ Last class, the [flamingo example](https://github.com/johnbcarpenter/USC_IML404/
 
 In class today, we're going to: 
 - install [standard cyborg's _capture_ iOS app](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)
-- generate a 3D model using the iPhone 3D sensor
-- save the model to the cloud and download a ply 
-- convert the ply -> csv
-- apply shaders to the point cloud
+- generate a 3D model using the iPhone 3D sensor (open the app, aim the front face of the iPhoneX/11 at the object you want to scan, start the capture, and rotate the face of the phone around the object you're scanning)
+- save the model to the cloud (create a free standard cyborg account, models on your phone will sync)
+- download a ply of one of your captures (using a computer, log into your account, select a model, and download a _PLY_)
+- convert the ply -> csv (convert the _PLY_ header to a _CSV_ header, find and replace all ` ` with `,`)
+- apply shaders to the point cloud (see the [flamingo example](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-csv-transform-sound.md#loading-csvs-using-loadtable))
 
 
