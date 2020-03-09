@@ -54,6 +54,13 @@ Shiffman's _Getting Started with Kinect and Processing_ also mentions another ki
 <sup>skeletal tracking in processing 3 via Antonio Vega's port of [SimpleOpenNI](https://github.com/totovr/SimpleOpenNI)</sup>
 
 ## kinect V2
+My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is: 
+
+`import org.openkinect.freenect.*;` 
+`import org.openkinect.processing.*;` --> `import org.openkinect.processing.*;`
+
+`Kinect kinect;` --> `Kinect2 kinect2;`
+`kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`
   
 ## intel realsense
 library
