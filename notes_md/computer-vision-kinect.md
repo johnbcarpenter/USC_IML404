@@ -84,7 +84,7 @@ There's a really exciting new line of small, USB-powered 3D sensors from Intel c
 ## iPhone X (2017) + the standard cyborg _capture_ iOS app (2018)
 The iPhone X has a 3D camera that Apple uses for FaceID, portraits, etc... WIP
 
-the developer kit allows access to the data...  [standard cyborg _capture_ iOS app](standard cyborg _capture_ iOS app)
+the developer kit allows access to the data...  [standard cyborg _capture_ iOS app](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)... WIP
 ply -> csv
 shaders
 
