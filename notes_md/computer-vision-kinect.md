@@ -33,7 +33,7 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
   <img src="https://o.aolcdn.com/images/dims?thumbnail=640%2C&quality=80&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F11%2F101108-nightvision-01.jpg&client=amp-blogside-v2&signature=e6995e13185fd2580918f405113002bfb8d8ca8a" height="200" /> 
 </p>   
 <sup>^ Microsoft Kinect V1 (2010) + a photo of the <a href="https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/">IR dot pattern</a> by Joseph L. Flatley (via engadget).  The sensor uses this grid calculate a depth image via the deformations of the IR pattern. </sup>  
-<br>
+
 The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. By ~November 2010 developers released an SDK + drivers for the kinect that allowed software developers to connect the sensors to their computers and read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia / fat cat_ (2010)](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
 
 ![robert hodgin fat cat](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/hodgin_fatcat.gif)  
