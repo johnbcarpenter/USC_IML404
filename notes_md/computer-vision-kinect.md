@@ -78,6 +78,11 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
 
 `Kinect kinect;` --> `Kinect2 kinect2;`  
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
+`kinect2.initDepth();` --> `kinect2.initDepth();`
+`                    ` --> `kinect2.initDevice();`
+
+`kinect.width` --> `kinect2.depthWidth`
+`kinect.height` --> `kinect2.depthHeight`
   
 ## kinect azure (2019)
 ![kinect azure (v3)](https://azurecomcdn.azureedge.net/cvt-33e25af8f7bf9bbdddccd99f7064830e91d5c0fbb67840a325b850e6bf267127/images/page/services/azure-kinect-dk/whats-inside.jpg)  
