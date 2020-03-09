@@ -52,7 +52,7 @@ In order to run these examples, you'll need to download the OpenKinect for Proce
   - [kinect point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/PointCloud_AgentSystem)
 
 ---
-Shiffman's _Getting Started with Kinect and Processing_ also mentions another kinect library SDK port called _SimpleOpenNI_. As far as I can tell, the original SimpleOpenNI only worked with Processing 1 and 2. However, last semester, one of the students in 288 (thanks jay!) found an updated version of the library: [SimpleOpenNI for Processing 3](https://github.com/totovr/SimpleOpenNI) by Antonio Vega.  The update looks pretty promising and even seems to have skeletal tracking working:
+Shiffman's _Getting Started with Kinect and Processing_ also mentions another kinect library SDK port called _SimpleOpenNI_. As far as I can tell, the original SimpleOpenNI only worked with Processing 1 and 2. However, last semester, one of the students in 288 (thanks jay!) found an updated version of the library: [SimpleOpenNI for Processing 3](https://github.com/totovr/SimpleOpenNI) by Antonio Vega.  The update looks pretty promising and even seems to have skeletal tracking working (note: in the 30s i tried, i had trouble getting the V2 to connect... maybe try the V1?):
 
 ![skeletal tracking in processing 3](https://github.com/totovr/SimpleOpenNI/raw/master/Assets/Kinect_V2_Tracking.gif)  
 <sup>skeletal tracking in processing 3 via Antonio Vega's port of [SimpleOpenNI](https://github.com/totovr/SimpleOpenNI)</sup>
