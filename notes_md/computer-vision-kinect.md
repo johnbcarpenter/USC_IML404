@@ -80,7 +80,7 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
   
 ## kinect azure (2019)
 ![kinect azure (v3)](https://azurecomcdn.azureedge.net/cvt-33e25af8f7bf9bbdddccd99f7064830e91d5c0fbb67840a325b850e6bf267127/images/page/services/azure-kinect-dk/whats-inside.jpg)  
-<sup>^ kinect azure (v3): 1) 1-MP depth sensor with wide and narrow field-of-view (FOV) options that help you optimize for your application, 2) 7-microphone array for far-field speech and sound capture, 3) 12-MP RGB video camera for an additional color stream that’s aligned to the depth stream, 4) Accelerometer and gyroscope (IMU) for sensor orientation and spatial tracking, 5) External sync pins to easily synchronize sensor streams from multiple Kinect devices</sup>
+<sup>^ kinect azure (v3). From the tech spces: _1) 1-MP depth sensor with wide and narrow field-of-view (FOV) options that help you optimize for your application, 2) 7-microphone array for far-field speech and sound capture, 3) 12-MP RGB video camera for an additional color stream that’s aligned to the depth stream, 4) Accelerometer and gyroscope (IMU) for sensor orientation and spatial tracking, 5) External sync pins to easily synchronize sensor streams from multiple Kinect devices_</sup>
 
 The latest iteration of the Microsoft Kinect is the Azure.  I haven't gotten my hands on one yet, but it looks pretty incredible... [Azure Kinect DK (released 2019)](https://azure.microsoft.com/en-us/services/kinect-dk/)
   
