@@ -71,18 +71,20 @@ Note: you must also be running the [Leap Motion Software](https://developer.leap
 
 In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. Though it has a slightly lower depth resolution of 512x424px (vs the original 640x480px).
 
-My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is: 
+My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is (_actually turns out there's a number of things that have changed_): 
 
 `import org.openkinect.freenect.*;` --> `[remove line]`  
 `import org.openkinect.processing.*;` --> `import org.openkinect.processing.*;`  
 
 `Kinect kinect;` --> `Kinect2 kinect2;`  
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
-`kinect2.initDepth();` --> `kinect2.initDepth();`
-`                    ` --> `kinect2.initDevice();`
+`kinect2.initDepth();` --> `kinect2.initDepth();`  
+`                    ` --> `kinect2.initDevice();`  
 
-`kinect.width` --> `kinect2.depthWidth`
-`kinect.height` --> `kinect2.depthHeight`
+`kinect.width` --> `kinect2.depthWidth`  
+`kinect.height` --> `kinect2.depthHeight`  
+
+`PVector depthToPointCloudPos(int x, int y, float depthValue)` is new...  
   
 ## kinect azure (2019)
 ![kinect azure (v3)](https://azurecomcdn.azureedge.net/cvt-33e25af8f7bf9bbdddccd99f7064830e91d5c0fbb67840a325b850e6bf267127/images/page/services/azure-kinect-dk/whats-inside.jpg)  
