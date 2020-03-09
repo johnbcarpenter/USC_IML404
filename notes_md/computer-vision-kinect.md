@@ -84,7 +84,7 @@ Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with 
 `kinect.width` --> `kinect2.depthWidth`  
 `kinect.height` --> `kinect2.depthHeight`  
 
-+ the function `PVector depthToWorld(int x, int y, int depthValue)`
+and the function `PVector depthToWorld(int x, int y, int depthValue)`   
 needs to become `PVector depthToPointCloudPos(int x, int y, float depthValue)`   
 
 _Kinect V1 examples ported to Kinect V2..._
