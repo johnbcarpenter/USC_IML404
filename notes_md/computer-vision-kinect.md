@@ -27,7 +27,7 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
 ![dandelion clock](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/dandelion.gif)  
 <sup>_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_</sup>
 
-## kinect V1
+## kinect V1 (2010)
 The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~Novemeber 2010 coders created and released an SDK + drivers for the kinect that allowed software developers to read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia + fat cat_ (2010)](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
 
 ![robert hodgin fat cat](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/hodgin_fatcat.gif)  
@@ -53,7 +53,15 @@ Shiffman's _Getting Started with Kinect and Processing_ also mentions another ki
 ![skeletal tracking in processing 3](https://github.com/totovr/SimpleOpenNI/raw/master/Assets/Kinect_V2_Tracking.gif)  
 <sup>skeletal tracking in processing 3 via Antonio Vega's port of [SimpleOpenNI](https://github.com/totovr/SimpleOpenNI)</sup>
 
-## kinect V2
+## leap motion (2013)
+![leap motion](https://www.ultraleap.com/LMC/new/lmc_03.jpg)  
+<sup>^ [Leap Motion controller](https://www.ultraleap.com/product/leap-motion-controller/)</sup>
+
+The Kinect V1 sensor inspired a number of other 3D sensors.  In 2013, Leap Motion (now Ultraleap) released a 3D sensor that could be placed on your desktop to read 3D hand gestures.  It's a pretty cool little device that (unlike the other 3D sensors we're looking at) uses stereo cameras to identify hand poses. Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
+
+## kinect V2 (2014)
+In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. It also has a much higher sensing resolution of 1920x1080px (vs the original 640x480px).
+
 My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is: 
 
 `import org.openkinect.freenect.*;` --> `[remove line]`  
@@ -62,18 +70,16 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
 `Kinect kinect;` --> `Kinect2 kinect2;`  
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
   
-## kinect azure
+## kinect azure (2019)
 The latest iteration of the Microsoft Kinect is the Azure.  I haven't gotten my hands on one yet, but it looks pretty incredible... [Azure Kinect DK (released 2019)](https://azure.microsoft.com/en-us/services/kinect-dk/)
   
-## intel realsense
+## intel realsense (2019)
 ![intel realsense](https://www.intel.com/content/dam/www/public/us/en/images/product/16x9/d435-realsense-camera-16x9.png.rendition.intel.web.480.270.png)   
 <sup>^ [Intel RealSense Depth Camera](https://www.intelrealsense.com/stereo-depth/)</sup>
 
 There's a really exciting new line of small, USB-powered 3D sensors from Intel called the RealSense.  Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
 
-## leap motion
-![leap motion](https://www.ultraleap.com/LMC/new/lmc_03.jpg)  
-<sup>^ [Leap Motion controller](https://www.ultraleap.com/product/leap-motion-controller/)</sup>
+
 
 
 ## iPhone X/11 + the standard cyborg _capture_ iOS app
