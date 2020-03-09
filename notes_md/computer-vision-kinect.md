@@ -4,14 +4,14 @@
 <sup>_^ flux 2.0 by johnbcarpenter, justin shrake + yves peitzner lab (2018) / photo: Wolfgang Stahl_</sup>
 
 ## computer vision in processing *using 3D sensors* 
-3D sensors are a relatively new way for artists and designers to work with 3D data in their environment.  Prior to the release of the Kinect V1, I typically used RGB or infrared cameras to _sense_ the environment. There are still some advantages to RGB/Infrared cameras: _they generally offer more visual detail and are more straightforward + quick to set up (powered by USB and/or included w your laptop), and tends to work in all environmental conditions_, but 3D sensors are getting smaller and easier to use all the time (like the [Kinect Azure (V3)](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#kinect-azure), [leap motion](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#leap-motion), and [realsense](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#intel-realsense)).  The big difference between the two is that 3D sensors provide true 3D data capture from the environment, while RGB camera sensors tend to provide more visual detail (e.g. color) -- though there's some really interesting opportunities to look at both types of capture at the same time. 
+3D sensors are a relatively new way for artists and designers to work with 3D data in their environment.  Prior to the release of the Kinect V1, I typically used RGB or infrared cameras to _sense_ the environment. There are still some advantages to RGB/Infrared cameras: _they generally offer more visual detail and are more straightforward + quick to set up (powered by USB and/or included w your laptop), and tends to work in all environmental conditions_, but 3D sensors are getting smaller and easier to use all the time (like the [Kinect Azure (V3)](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#kinect-azure-2019), [leap motion](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#leap-motion-2013), and [realsense](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/computer-vision-kinect.md#intel-realsense-2019)).  The big difference between the two is that 3D sensors provide true 3D data capture from the environment, while RGB camera sensors tend to provide more visual detail (e.g. color) -- though there's some really interesting opportunities to look at both types of capture at the same time. 
 
 I really like working with the kinect for a couple of reasons: 1) you can depth filter your camera feed (you can only look for motion <= 10 feet out if you want -- say to remove background noise), and 2) you can work directly with 3D data scans of the environment/body.  Additionally, some of the more recent 3D sensor SDK provide the user with real-time skeletal and hand tracking data.  We'll talk about some examples in class today; however, I'd encourage you to do some of your own research -- there are a lot of artists that have done some pretty incredible things with these sensors:
 
 ![onformative_unnamed-sound-sculpture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/onformative_unnamed-sound-sculpture.gif)  
 <sup>_^ [unnamed sound sculpture](https://vimeo.com/38874664) by onformative (2012)_</sup>
 
-### inspiration
+_projects to take a look at for inspiration..._
 - _[house of cards by radiohead / aaron koblin + google (2008)](https://www.youtube.com/watch?v=8nTFjVm9sTQ)_
 - _[fragile tension by depeche mode / memo akten (2009)](http://www.memo.tv/portfolio/depeche-mode-fragile-tension/)_
 - _[ISAM live by amon tobin / Blasthaus, VSquared Labs, Vita Motus Design, Leviathan + (2011)](https://www.youtube.com/watch?v=WLrt7-kIgIM)_
@@ -71,7 +71,7 @@ Note: you must also be running the [Leap Motion Software](https://developer.leap
 
 In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. Though it has a slightly lower depth resolution of 512x424px (vs the original 640x480px).
 
-My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is (_actually turns out there's a number of things that have changed_): 
+Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2.  If you've found some code that works with Shiffman's kinect V1, all that _should_ really need to change in the code examples is: 
 
 `import org.openkinect.freenect.*;` --> `[remove line]`  
 `import org.openkinect.processing.*;` --> `import org.openkinect.processing.*;`  
@@ -79,12 +79,18 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
 `Kinect kinect;` --> `Kinect2 kinect2;`  
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
 `kinect2.initDepth();` --> `kinect2.initDepth();`  
-`                    ` --> `kinect2.initDevice();`  
+`[new line]` --> `kinect2.initDevice();`  
 
 `kinect.width` --> `kinect2.depthWidth`  
 `kinect.height` --> `kinect2.depthHeight`  
 
-`PVector depthToPointCloudPos(int x, int y, float depthValue)` is new...  
++ the function `PVector depthToWorld(int x, int y, int depthValue)`
+needs to become `PVector depthToPointCloudPos(int x, int y, float depthValue)`   
+
+_Kinect V1 examples ported to Kinect V2..._
+- [kinect V2 optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/V2_DepthThresholdOpticalFlow)
+- [kinect V2 optical flow + boid emit](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/V2_BoidEmit_DepthThresholdOpticalFlow) 
+- [kinect V2 point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/V2_PointCloud_AgentSystem)
   
 ## kinect azure (2019)
 ![kinect azure (v3)](https://azurecomcdn.azureedge.net/cvt-33e25af8f7bf9bbdddccd99f7064830e91d5c0fbb67840a325b850e6bf267127/images/page/services/azure-kinect-dk/whats-inside.jpg)  
