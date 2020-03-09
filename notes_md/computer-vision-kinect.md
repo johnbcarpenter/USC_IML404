@@ -45,11 +45,11 @@ Another early adaptor was Daniel Shiffman who ported the OpenKinect SDK to Proce
 In order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for `"Open Kinect"` and install `Open Kinect for Processing`).  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`). We'll be using this library for all of the Kinect V1 and V2 examples. _Note: we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) HOWEVER, the class isn't exactly the same in this new set of examples: this optical flow class been optimized for working with depth data._  
 
 - Kinect camera + optical flow
-  - [kinect optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/DepthThresholdOpticalFlow)
-  - [kinect optical flow + boid emit](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/BoidEmit_DepthThresholdOpticalFlow) 
+  - [kinect optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/DepthThresholdOpticalFlow)
+  - [kinect optical flow + boid emit](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/BoidEmit_DepthThresholdOpticalFlow) 
 
 - Kinect point clouds
-  - [kinect point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/PointCloud_AgentSystem)
+  - [kinect point cloud + agents (a simplified unnamed sound sculpture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/KINECT/PointCloud_AgentSystem)
 
 ---
 Shiffman's _Getting Started with Kinect and Processing_ also mentions another kinect library SDK port called _SimpleOpenNI_. As far as I can tell, the original SimpleOpenNI only worked with Processing 1 and 2. However, last semester, one of the students in 288 (thanks jay!) found an updated version of the library: [SimpleOpenNI for Processing 3](https://github.com/totovr/SimpleOpenNI) by Antonio Vega.  The update looks pretty promising and even seems to have skeletal tracking working:
