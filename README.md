@@ -54,11 +54,8 @@ office hours: TBD
   - Week 08. 03/02/2019 processing: datavis
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-csv-transform-sound.md">datavis: loading CSVs, 3D transforms, sound</a>
 
-  - Week 09. 03/09/2019 processing: 3D scanning
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">kinect</a> / realsense + iphoneX
-      - point clouds, agents
-      - OpenNI (via <a href="https://github.com/totovr/SimpleOpenNI">totovr</a>)
-    - <a href="https://apps.apple.com/ca/app/capture-3d-scan-anything/id1444183458">Capture: 3D Scan Anything</a> --> Processing
+  - Week 09. 03/09/2019 processing: computer vision with 3D sensors
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md">working with the kinect, leap motion, realsense, iphoneX + capture</a>
 
   - <i>// Week 10. Spring Recess 03/15 - 03/22/2019</i>
 
