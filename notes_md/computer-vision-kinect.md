@@ -38,7 +38,7 @@ Another early devloper was Daniel Shiffman who adapted the OpenKinect SDK to Pro
 Here's a quick [description of how the kinect works](http://www.depthbiomechanics.co.uk/?p=100) + a photo of the [IR dot pattern](https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/) it uses to calculate a depth image (the sensor generates a 3D picture of the space by looking at deformations in the IR grid pattern).
 
 ### kinect examples
-In order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for `"Open Kinect"` and install `Open Kinect for Processing`.  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`). We'll be using this library for all of the Kinect V1 and V2 examples. _Note: we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) HOWEVER, the class isn't exactly the same in this new set of examples: this optical flow class been optimized for working with depth data._  
+In order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for `"Open Kinect"` and install `Open Kinect for Processing`).  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`). We'll be using this library for all of the Kinect V1 and V2 examples. _Note: we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) HOWEVER, the class isn't exactly the same in this new set of examples: this optical flow class been optimized for working with depth data._  
 
 - Kinect camera + optical flow
   - [kinect optical flow](https://github.com/johnbcarpenter/USC_IML404/tree/master/KINECT/DepthThresholdOpticalFlow)
@@ -63,7 +63,10 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
   
 ## intel realsense
-library
+![intel realsense](https://www.intel.com/content/dam/www/public/us/en/images/product/16x9/d435-realsense-camera-16x9.png.rendition.intel.web.480.270.png)   
+<sup>^ [Intel RealSense Depth Camera](https://www.intelrealsense.com/stereo-depth/)</sup>
+
+There's a really exciting new line of small, USB-powered 3D sensors from Intel called the RealSense.  Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
 
 ## leap motion
 library
