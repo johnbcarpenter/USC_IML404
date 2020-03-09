@@ -102,8 +102,11 @@ Last class, the [flamingo example](https://github.com/johnbcarpenter/USC_IML404/
 ![flamingo scan using standard cyborg's capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/FlamingoScan.png)  
 <sup> ^ (jellycat cordy roy) flamingo scan using [standard cyborg's iOS *capture* app](https://www.standardcyborg.com/products/)</sup>
 
-
-ply -> csv
-shaders
+In class today, we're going to: 
+- install [standard cyborg's _capture_ iOS app](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)
+- generate a 3D model using the iPhone 3D sensor
+- save the model to the cloud and download a ply 
+- convert the ply -> csv
+- apply shaders to the point cloud
 
 
