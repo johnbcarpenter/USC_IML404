@@ -81,10 +81,10 @@ The latest iteration of the Microsoft Kinect is the Azure.  I haven't gotten my 
 
 There's a really exciting new line of small, USB-powered 3D sensors from Intel called the RealSense.  Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
 
+## iPhone X (2017) + the standard cyborg _capture_ iOS app (2018)
+The iPhone X has a 3D camera that Apple uses for FaceID, portraits, etc... WIP
 
-
-
-## iPhone X/11 + the standard cyborg _capture_ iOS app
+the developer kit allows access to the data...  [standard cyborg _capture_ iOS app](standard cyborg _capture_ iOS app)
 ply -> csv
 shaders
 
