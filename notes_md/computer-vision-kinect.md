@@ -29,11 +29,10 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
 
 ## kinect V1 (2010)
 <p float="left">
-  <img src="https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg" height="200" />
-  <img src="https://o.aolcdn.com/images/dims?thumbnail=640%2C&quality=80&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F11%2F101108-nightvision-01.jpg&client=amp-blogside-v2&signature=e6995e13185fd2580918f405113002bfb8d8ca8a" hieght="200" /> 
-</p>
-![kinect v1 (xbox 360)](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg)  
-<sup>^ Microsoft Kinect V1 (2010)</sup>  
+  <img src="https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg" height="100" />
+  <img src="https://o.aolcdn.com/images/dims?thumbnail=640%2C&quality=80&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F11%2F101108-nightvision-01.jpg&client=amp-blogside-v2&signature=e6995e13185fd2580918f405113002bfb8d8ca8a" height="100" /> 
+</p>   
+<sup>^ Microsoft Kinect V1 (2010) // A photo of the [IR dot pattern](https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/) by Joseph L. Flatley (via engadget).  The sensor uses this grid calculate a depth image via the deformations of the IR pattern.</sup>  
 
 The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~Novemeber 2010 coders created and released an SDK + drivers for the kinect that allowed software developers to read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia + fat cat_ (2010)](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
 
@@ -41,9 +40,6 @@ The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~
 <sup>^ [robert hodgin _fat cat / body dismorphia_ (Nov 2010)](https://vimeo.com/17075378)</sup>  
 
 Another early adaptor was Daniel Shiffman who ported the OpenKinect SDK to Processing (🙌 [@shiffman](https://github.com/shiffman)).  If you're working with a Kinect V1 (or V2), I would start by reading Shiffman's discussion [_Getting Started with Kinect and Processing_](https://shiffman.net/p5/kinect/). He also has a nice introduction to the Kinect and his library on [youtube](https://www.youtube.com/watch?v=QmVNgdapJJM) + you can take a look at the source code for the project on the [_OpenKinect for Processing_ library Github page](https://github.com/shiffman/OpenKinect-for-Processing).
-
-![kinect V1 IR grid pattern](https://o.aolcdn.com/images/dims?thumbnail=640%2C&quality=80&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F11%2F101108-nightvision-01.jpg&client=amp-blogside-v2&signature=e6995e13185fd2580918f405113002bfb8d8ca8a)  
-<sup>A photo of the [IR dot pattern](https://www.engadget.com/2010/11/08/visualized-kinect-night-vision-lots-and-lots-and-lots-of-do/) by Joseph L. Flatley (via engadget).  The sensor uses this grid calculate a depth image via the deformations of the IR pattern.</sup>
 
 ### kinect examples
 In order to run these examples, you'll need to download the OpenKinect for Processing library (`Sketch > Import Library... > Add Library...` search for `"Open Kinect"` and install `Open Kinect for Processing`).  Please look through the examples that are installed with the library (see `documents/Processing/libraries/openkinect_processing/examples/Kinect_v1`). We'll be using this library for all of the Kinect V1 and V2 examples. _Note: we'll also be using the optical flow class that i adapted from [Hidetoshi Shimodaira's open processing sketch](https://www.openprocessing.org/sketch/10435/) HOWEVER, the class isn't exactly the same in this new set of examples: this optical flow class been optimized for working with depth data._  
