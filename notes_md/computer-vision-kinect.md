@@ -92,9 +92,18 @@ The latest iteration of the Microsoft Kinect is the Azure.  I haven't gotten my 
 There's a really exciting new line of small, USB-powered 3D sensors from Intel called the RealSense.  Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
 
 ## iPhone X (2017) + the standard cyborg _capture_ iOS app (2018)
-The iPhone X has a 3D camera that Apple uses for FaceID, portraits, etc... WIP
+![apple iphonex 3d sensor](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/apple_iphoneX_3Dsensor.png)  
+<sup> ^ apple iPhone X 3D sensor for faceID, custom emojis, instagram filters...</sup>
 
-the developer kit allows access to the data...  [standard cyborg _capture_ iOS app](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458)... WIP
+3D sensors are becoming more and more ubiquitous -- if you have an iPhone X or 11, it has a front facing 3D sensor that Apple uses for FaceID, personalized emojis, instagram filters, portraits, etc. The developer kit allows access to the 3D data, and few companies have created applications that can generate point clouds of objects using the sensor.  I've been working with [standard cyborg's _capture_ iOS app](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458) and have been really happy with it: it's free for basic use, does a really great job producing a single model from the multiple scan angles (optionally at different resolutions in the settings), and they have really great web integration so you can transfer your scans to the cloud and download them as PLY files.
+
+Last class, the [flamingo example](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-csv-transform-sound.md#loading-csvs-using-loadtable) data file was generated using the app:
+
+![flamingo scan using standard cyborg's capture](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/FlamingoScan.png)  
+<sup> ^ (jellycat cordy roy) flamingo scan using [standard cyborg's iOS *capture* app](https://www.standardcyborg.com/products/)</sup>
+
+
 ply -> csv
 shaders
+
 
