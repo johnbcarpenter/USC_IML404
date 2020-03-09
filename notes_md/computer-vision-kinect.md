@@ -28,6 +28,10 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
 <sup>_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_</sup>
 
 ## kinect V1 (2010)
+<p float="left">
+  <img src="https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg" height="200" />
+  <img src="https://o.aolcdn.com/images/dims?thumbnail=640%2C&quality=80&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F11%2F101108-nightvision-01.jpg&client=amp-blogside-v2&signature=e6995e13185fd2580918f405113002bfb8d8ca8a" hieght="200" /> 
+</p>
 ![kinect v1 (xbox 360)](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg)  
 <sup>^ Microsoft Kinect V1 (2010)</sup>  
 
