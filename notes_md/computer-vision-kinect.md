@@ -28,6 +28,9 @@ I really like working with the kinect for a couple of reasons: 1) you can depth 
 <sup>_^ dandelion clock by johnbcarpenter @ACME. los andeles (2011)_</sup>
 
 ## kinect V1 (2010)
+![kinect v1 (xbox 360)](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2011/01/01-06Kinect_sm45C98477_Page.jpg)  
+<sup>^ Microsoft Kinect V1 (2010)</sup>  
+
 The Kinect V1 was developed for gaming on the Xbox360 and released in 2010. In ~Novemeber 2010 coders created and released an SDK + drivers for the kinect that allowed software developers to read the depth + RGB camera data.  One of the first videos I saw using the tech was Robert Hodgin's (_flight404_) [_body dismorphia + fat cat_ (2010)](http://roberthodgin.com/portfolio/work/body-dysmorphia/): 
 
 ![robert hodgin fat cat](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/hodgin_fatcat.gif)  
@@ -62,6 +65,9 @@ The Kinect V1 sensor inspired a number of other 3D sensors.  In 2013, Leap Motio
 Note: you must also be running the [Leap Motion Software](https://developer.leapmotion.com/setup/desktop) on your computer.
 
 ## kinect V2 (2014)
+![kinect v2 (xbox one)](https://lh3.googleusercontent.com/proxy/Bqk19JO_BAjkRPT6iBZovdH5u-iBYuAiRoiLJwyvGhzdmJ-TrnpYNi4LinUMC86a9UM06oka0o2uT4VONuqnp31c_OmEF8bXJc04LbOSjnmDqkufyiAk0qhNutYV7_C3_ZTeGfhgheJq7watd6jtaUQve1TkEkOwa6CdVRcou-8AHXuJug)  
+<sup>^ kinect v2 (xbox one)</sup>
+
 In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. It also has a much higher sensing resolution of 1920x1080px (vs the original 640x480px).
 
 My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanchez's _OpenKinect for Processing_ library also works with the Kinect V2, so all that _should_ need to change in the code examples is: 
@@ -73,6 +79,8 @@ My Kinect V1 examples still need to be ported to the V2.  Shiffman + Thomas Sanc
 `kinect = new Kinect(this);` --> `kinect2 = new Kinect2(this);`  
   
 ## kinect azure (2019)
+![kinect azure (v3)](https://azurecomcdn.azureedge.net/cvt-33e25af8f7bf9bbdddccd99f7064830e91d5c0fbb67840a325b850e6bf267127/images/page/services/azure-kinect-dk/whats-inside.jpg)  
+<sup>^ kinect azure (v3)</sup>
 The latest iteration of the Microsoft Kinect is the Azure.  I haven't gotten my hands on one yet, but it looks pretty incredible... [Azure Kinect DK (released 2019)](https://azure.microsoft.com/en-us/services/kinect-dk/)
   
 ## intel realsense (2019)
