@@ -57,7 +57,9 @@ Shiffman's _Getting Started with Kinect and Processing_ also mentions another ki
 ![leap motion](https://www.ultraleap.com/LMC/new/lmc_03.jpg)  
 <sup>^ [Leap Motion controller](https://www.ultraleap.com/product/leap-motion-controller/)</sup>
 
-The Kinect V1 sensor inspired a number of other 3D sensors.  In 2013, Leap Motion (now Ultraleap) released a 3D sensor that could be placed on your desktop to read 3D hand gestures.  It's a pretty cool little device that (unlike the other 3D sensors we're looking at) uses stereo cameras to identify hand poses. Florian Bruggisser (aka [cansik](https://github.com/cansik)) has ported the [RealSense SDK to Processing](https://github.com/cansik/realsense-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"RealSense"` and install `Intel RealSense for Processing`).
+The Kinect V1 sensor inspired a number of other 3D sensors.  In 2013, Leap Motion (now Ultraleap) released a 3D sensor that could be placed on your desktop to read 3D hand gestures.  It's a pretty cool little device that (unlike the other 3D sensors we're looking at) uses stereo cameras to identify hand poses. Darius Morawiec (aka [nok](https://github.com/nok)) has ported the [Leap Motion for Processing](https://github.com/nok/leap-motion-processing), which can be installed via the supported libraries: (`Sketch > Import Library... > Add Library...` search for `"Leap"` and install `Leap Motion for Processing`).
+
+Note: you must also be running the [Leap Motion Software](https://developer.leapmotion.com/setup/desktop) on your computer.
 
 ## kinect V2 (2014)
 In 2014, Microsoft released a new version of the Kinect that utilizes time-of-flight (_ToF_ = how long it takes for emitted light from the camera to travel to an object in the environment and back to a sensor in the camera) to calculate depth. It also has a much higher sensing resolution of 1920x1080px (vs the original 640x480px).
