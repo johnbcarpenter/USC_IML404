@@ -9,6 +9,8 @@ We will explore human computer interaction -- including how gesture, haptics, so
 
 We'll primarily be working with [Processing](http://www.processing.org/) and [Arduino](http://www.arduino.cc/) in this course, though we'll also look at some other platforms... e.g. connecting [p5js](http://p5js.org) to [Google's Teachable Machine 2](http://teachablemachine.withgoogle.com/). This repository will be used to store and share the code that we discuss in class. The starting point for many of these examples is based on fantastic work by the creative coding community -- please see the course notes + comments in the code for credits.
 
+update: [this is the arduino kit we'll use (the ELEGOO ~$36)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
+
 <pre>
 <b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room <i>by appointment</i>
