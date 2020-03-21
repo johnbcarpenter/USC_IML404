@@ -3,9 +3,11 @@
 ![CNN apple watch](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_HelloWorld.png)  
 <sup>^ _scribble mode_ on the apple watch (via convolutional neural networks) </sup>
 
+## artifical neural networks (ANNs) 
 Apple's _Scribble Mode_ is an ANN (more specifically a convolutional neural networks or CNN, which is a subclass of ANN) that some of you are probably familiar with. There's a pretty thorough article in **Apple's Machine Learning Journal** that discusses their approach to handwriting recognition: [_Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters_](https://machinelearning.apple.com/2017/09/12/handwriting.html).
+ 
+---
 
-## artifical neural networks (ANNs)  
 ![ANN bio](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_bio.png)   
 <sup>^ neurobiology parallels to ANNs </sup>
 
