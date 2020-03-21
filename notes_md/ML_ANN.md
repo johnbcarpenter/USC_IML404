@@ -58,7 +58,5 @@ Here's a couple artists that are using GANs as a medium to produce their art (pl
 
 ## Deep Fakes
 ![verge image](https://cdn.vox-cdn.com/thumbor/i06afh0TU9LaYDiLvjxRDwV1am4=/0x0:3049x2048/1820x1213/filters:focal(1333x1562:1819x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63058104/fake_ai_faces.0.png)  
-<sup>^ [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
-
-Philip Wang's [ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) is an interesting example of a system trained on faces that is able to generate new faces that look human even though they're not photos of a real people.
+<sup>^ A GAN system trained on faces that is able to generate new faces that look human even though they're not photos of a real people (by Philip Wang). Taken from a [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
   
