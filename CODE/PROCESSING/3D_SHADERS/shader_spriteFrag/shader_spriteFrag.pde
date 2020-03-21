@@ -53,7 +53,7 @@ void draw() {
   stroke(1, 0, 1, 1);
   for (int i = 0; i < point_locs.length; i++) {
     stroke(point_hues[i], 1, 1, 1);
-    point(point_locs[i].x, point_locs[i].y, point_locs[i].z);
+    vertex(point_locs[i].x, point_locs[i].y, point_locs[i].z);
   }
   endShape();
   popMatrix();
