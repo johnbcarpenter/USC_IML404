@@ -11,20 +11,24 @@ Apple's _Scribble Mode_ is an ANN (more specifically a convolutional neural netw
 ![ANN bio](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_bio.png)   
 <sup>^ neurobiology parallels to ANNs </sup>
 
-I am not an expert in artificial neural networks (ANN), but I find them and their parallels to neurobiology really fascinating.  In short, ANNs are computing systems (that mimic neurobilogy), trained on datasets (they learn), that are able to process and recognize information (related to their training dataset). 
+I am not an expert in artificial neural networks (ANN), but I find them and their parallels to neurobiology really fascinating.  
 
 ![Fried ANN diagram](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_FriedANN.png)  
 <sup>^ ANN diagram by Charles Fried on Medium: [_Let’s code a Neural Network from scratch_](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) </sup>
 
-We're discussing them in this class because 1) it's a really interesting technology that I think you should be aware of, and 2) artists are starting to work with ANNs...
-
-![google deep dream](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)  
-<sup>^ google's deep dream transforms an image via convolutional neural networks (image from google)</sup>
+In short, ANNs are computing systems (that mimic neurobilogy), trained on datasets (they learn), that are able to process and recognize information (related to their training dataset).  We're discussing them in this class because 1) it's a really interesting technology that I think you should be aware of, and 2) artists are starting to work with ANNs...
 
 Google's Deep Dream (created in 2015 via one of their engineers Alexander Mordvintsev) popularized the use of neural networks by artists. You can do some pretty interesting things like stylize a photo based on the technique of an artist, or visualize the CNN algroithms as they anylize an image.  If you'd like to try it out, you can create an account on [Google's Deep Dream Generator](https://deepdreamgenerator.com).
 
-More recently, artists have been exploring generative adversarial networks (GANs) -- two neural networks that compete with each other to create a result that is statistically similar to a training set. An more straightforward implementation of this technique is
-Philip Wang's [ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan).
+![google deep dream](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)  
+<sup>^ google's deep dream transforms an image via convolutional neural network algorithms (image from google)</sup>
+
+More recently, artists have been exploring generative adversarial networks (GANs) -- two neural networks that compete with each other to create a result that is statistically similar to a training set. 
+
+![verge image](https://cdn.vox-cdn.com/thumbor/i06afh0TU9LaYDiLvjxRDwV1am4=/0x0:3049x2048/1820x1213/filters:focal(1333x1562:1819x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63058104/fake_ai_faces.0.png)  
+<sup>^ [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
+
+A more straightforward implementation of this technique is Philip Wang's [ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) where the engineer trained the system on a bunch of faces, and is able to generate new faces that generally look human (even though they're not based on a real person).
 
 ![casey reas GAN](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_reas_GAN.png)  
 <sup>^ _Making Pictures With Generative Adversarial Networks_ by Casey Reas </sup>
