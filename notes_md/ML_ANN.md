@@ -28,7 +28,9 @@ More recently, artists have been exploring generative adversarial networks (GANs
 ![verge image](https://cdn.vox-cdn.com/thumbor/i06afh0TU9LaYDiLvjxRDwV1am4=/0x0:3049x2048/1820x1213/filters:focal(1333x1562:1819x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63058104/fake_ai_faces.0.png)  
 <sup>^ [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
 
-A more straightforward implementation of this technique is Philip Wang's [ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) where the engineer trained the system on a bunch of faces, and is able to generate new faces that generally look human (even though they're not based on a real person).
+A more straightforward implementation of this technique is Philip Wang's [ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) where the engineer trained the system on a bunch of faces, and is able to generate new faces that generally look human (even though they're not photos of a real person).
+
+---
 
 ![casey reas GAN](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_reas_GAN.png)  
 <sup>^ _Making Pictures With Generative Adversarial Networks_ by Casey Reas </sup>
