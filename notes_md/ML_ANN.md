@@ -41,7 +41,7 @@ Google's Deep Dream (created in 2015 via one of their engineers: Alexander Mordv
 
 You can do some pretty interesting things with the current version of [Google's Deep Dream Generator](https://deepdreamgenerator.com). 
 
-Note: Deep Dream is built on a _convolutional neural network_ (CNN), which is a deep learning subclass of ANNs -- differentiated by the use of convolutional layers, and a primary focus on computer vision/pixels.
+<sup>Note: Deep Dream is built on a _convolutional neural network_ (CNN), which is a deep learning subclass of ANNs -- differentiated by the use of convolutional layers, and a primary focus on computer vision/pixels.</sup>
 
 ## generative adversarial networks (GANs) 
 Ian Goodfellow from the University of Montreal first described GANs in a [white paper from 2014](https://arxiv.org/abs/1406.2661) as
