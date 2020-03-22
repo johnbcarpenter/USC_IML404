@@ -1,14 +1,12 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 
-![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2_hantenna.gif)  
+![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2.png)  
 <sup>^ Google's Teachable Machine 2 </sup>
 
 ## google creative lab's teachable machine 2 
 I learned about Google Creative Lab's _Teachable Machine 2_ from an awesome Daniel Shiffman tutorial where he demo's _image classification_ and _sound classification_, so that's probably the best place to go for a background and walkthrough of some of the ideas we'll cover today: [Coding Train: Teachable Machine](https://thecodingtrain.com/TeachableMachine/index.html)
 
 For this class, we're going to train an image classification model with teachable machine 2, and then use the model with a Processing or P5JS sketch.
-
-![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2.png) 
 
 The first thing to do is visit [Google's Teachable Machine 2 site](https://teachablemachine.withgoogle.com), where we'll _gather_, _train_, and _export_ an image classification model for our use with Processing.
 - using Chrome, open [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
