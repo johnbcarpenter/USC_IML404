@@ -34,9 +34,9 @@ I've very minorly updated his example for our class:
 ![google deep dream](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)  
 <sup>^ google's deep dream transforms an image via convolutional neural network algorithms (image from google)</sup>
 
-Google's Deep Dream (created in 2015 via one of their engineers Alexander Mordvintsev) helped to popularize the use of neural networks by artists. The software was designed to create dream-like images via "algorithmic pareidolia":
+Google's Deep Dream (created in 2015 via one of their engineers: Alexander Mordvintsev) helped to popularize the use of neural networks by artists. The software was designed to create dream-like images via _algorithmic pareidolia_:
 
-> The software is designed to detect faces and other patterns in images, with the aim of automatically classifying images. However, once trained, the network can also be run in reverse, being asked to adjust the original image slightly so that a given output neuron (e.g. the one for faces or certain animals) yields a higher confidence score. This can be used for visualizations to understand the emergent structure of the neural network better, and is the basis for the DeepDream concept
+> The software is designed to detect faces and other patterns in images, with the aim of automatically classifying images. However, once trained, the network can also be run in reverse, being asked to adjust the original image slightly so that a given output neuron (e.g. the one for faces or certain animals) yields a higher confidence score. This can be used for visualizations to understand the emergent structure of the neural network better, and is the basis for the DeepDream concept.  
 <sup>^ [Wikipedia: DeepDream](https://en.wikipedia.org/wiki/DeepDream) </sup>
 
 You can do some pretty interesting things with the current version of [Google's Deep Dream Generator](https://deepdreamgenerator.com). 
@@ -51,12 +51,14 @@ In short, there are two neural networks (a _generator_ and a _discriminator_) th
 ![casey reas GAN](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_reas_GAN.png)  
 <sup>^ _Making Pictures With Generative Adversarial Networks_ by Casey Reas </sup>
 
-Here's a couple artists that are using GANs as a medium to produce their art (please let me know any others I should add to this list): 
+Here's a very brief list of artists that are using GANs as a medium to produce new works of art (please let me know any others I should add to this list): 
 - [studio international: _Casey Reas – interview_](https://www.studiointernational.com/index.php/casey-reas-interview-computer-art-coding)
 - [art news: _Refik Anadol Trains AI to Dream of New York City_](https://www.artnews.com/art-in-america/features/refik-anadol-machine-hallucination-artechouse-shows-how-ai-dreams-60204/)
 - [artnet: _Has Artificial Intelligence Brought Us the Next Great Art Movement?_](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207).
 
 ## Deep Fakes
+This is more of an aside, but I'll mention Deep Fakes because they've been [in the news lately](https://www.creativebloq.com/features/deepfake-examples), and I think people should be aware of them...
+
 ![verge image](https://cdn.vox-cdn.com/thumbor/i06afh0TU9LaYDiLvjxRDwV1am4=/0x0:3049x2048/1820x1213/filters:focal(1333x1562:1819x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63058104/fake_ai_faces.0.png)  
 <sup>^ A GAN system by Philip Wang that is able to generate new faces that look human (even though they're not photos of a real people) // Taken from a [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
   
