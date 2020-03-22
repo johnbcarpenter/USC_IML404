@@ -4,11 +4,11 @@
 <sup>^ _scribble mode_ on the apple watch (via convolutional neural networks) </sup>
 
 ## artifical neural networks (ANNs) 
-Apple's _Scribble Mode_ is a convolutional neural networks (CNN -- a subclass of ANNs) that some of you are probably familiar with. There's a pretty thorough article in **Apple's Machine Learning Journal** that discusses their approach to handwriting recognition: [_Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters_](https://machinelearning.apple.com/2017/09/12/handwriting.html).
+Apple's _Scribble Mode_ is a convolutional neural networks (a subclass of ANNs) that some of you are probably familiar with. There's a pretty thorough article in **Apple's Machine Learning Journal** that discusses their approach to handwriting recognition: [_Real-Time Recognition of Handwritten Chinese Characters Spanning a Large Inventory of 30,000 Characters_](https://machinelearning.apple.com/2017/09/12/handwriting.html).
  
 ---
 
-I am not an expert in artificial neural networks (ANN), but I find them and their parallels to neurobiology really fascinating...  
+I am not an expert on machine learning or artificial neural networks (ANN), but I find them and their parallels to neurobiology really fascinating...  
 
 ![ANN bio](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ANN_bio.png)   
 <sup>^ neurobiology parallels to ANNs </sup>
@@ -30,7 +30,7 @@ There's a fantastic Medium article by Charles Fried on how to build an ANN in Pr
 I've very minorly updated his example for our class:
 - [Charles Fried ANN tutorial in Processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial)
 
-## convolutional neural networks (CNNs)
+## ANNs and the art world
 ![google deep dream](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)  
 <sup>^ google's deep dream transforms an image via convolutional neural network algorithms (image from google)</sup>
 
@@ -40,6 +40,8 @@ Google's Deep Dream (created in 2015 via one of their engineers: Alexander Mordv
 <sup>^ [Wikipedia: DeepDream](https://en.wikipedia.org/wiki/DeepDream) </sup>
 
 You can do some pretty interesting things with the current version of [Google's Deep Dream Generator](https://deepdreamgenerator.com). 
+
+Note: Deep Dream is built on a convolutional neural network (CNN), which is a deep learning subclass of ANNs -- differentiated by the use of convolutional layers, and a primary focus on computer vision/pixels.
 
 ## generative adversarial networks (GANs) 
 Ian Goodfellow from the University of Montreal first described GANs in a [white paper from 2014](https://arxiv.org/abs/1406.2661) as
