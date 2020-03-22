@@ -13,7 +13,7 @@ The first thing to do is visit [Google's Teachable Machine 2 site](https://teach
 - click "Get Started"
 - select "Image Project"
 
-Name Classes and Create a set of Image Samples 
+### Name Classes and Create a set of Image Samples 
 - gather a couple interesting distinct visuals to train your system with (eg a stuffed animal, guitar)
 - rename _Class 1_ to something more descriptive for 1 of your items (eg _guitar_)
 ![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2_step02.png)  
@@ -23,15 +23,15 @@ Name Classes and Create a set of Image Samples
 - click on _+ Add a class_ and add a _default_ class
 ![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2_step04.png)  
 
-Training
+### Training
 - click on _Train model_ (make sure to leave the window open, don't switch tabs while training!)
 ![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2_step05.png)  
 
-Preview
+### Preview
 - test the image classifier model
 ![teachable machine](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/ML_TM2_step06.png)  
 
-Export the model
+### Export the model
 - click on _Export Model_ for use with our Processing sketch
 - select _Tensorflow.js_, _Upload (shareable link)_ and click _Upload model_ Note: the original images don't get uploaded, just the model (aka the algorithm)
 - copy your _sharable link_ (don't close the export window yet...)
