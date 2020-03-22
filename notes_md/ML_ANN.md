@@ -56,9 +56,3 @@ Here's a very brief list of artists that are using GANs as a medium to produce n
 - [art news: _Refik Anadol Trains AI to Dream of New York City_](https://www.artnews.com/art-in-america/features/refik-anadol-machine-hallucination-artechouse-shows-how-ai-dreams-60204/)
 - [artnet: _Has Artificial Intelligence Brought Us the Next Great Art Movement?_](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207).
 
-## Deep Fakes
-This is more of an aside, but I'll mention Deep Fakes because they've been [in the news lately](https://www.creativebloq.com/features/deepfake-examples), and I think people should be aware of them...
-
-![verge image](https://cdn.vox-cdn.com/thumbor/i06afh0TU9LaYDiLvjxRDwV1am4=/0x0:3049x2048/1820x1213/filters:focal(1333x1562:1819x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63058104/fake_ai_faces.0.png)  
-<sup>^ A GAN system by Philip Wang that is able to generate new faces that look human (even though they're not photos of a real people) // Taken from a [Verge article on ThisPersonDoesNotExist.com](https://www.theverge.com/tldr/2019/2/15/18226005/ai-generated-fake-people-portraits-thispersondoesnotexist-stylegan) </sup>
-  
