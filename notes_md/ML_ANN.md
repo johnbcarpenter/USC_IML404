@@ -28,7 +28,7 @@ There's a fantastic Medium article by Charles Fried on how to build an ANN in Pr
 <sup>^ Charles Fried ANN tutorial in Processing </sup>
  
 I've very minorly updated his example for our class:
-- [Charles Fried ANN tutorial in Processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial)
+- [Charles Fried ANN tutorial in Processing](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial) // [zip](https://github.com/johnbcarpenter/USC_IML404/blob/master/CODE/PROCESSING/ARTIFICIAL_NEURAL_NETWORKS/Fried_ANN_tutorial.zip)  
 
 ## ANNs and the art world
 ![google deep dream](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)  
