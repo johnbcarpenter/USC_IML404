@@ -159,8 +159,10 @@ class Network {
     // draw connection strengths from input neurons
     for (int i = 0; i < hidden_layer.length; i++) {
       float [] res = hidden_layer[i].getStrength();
-      stroke(200);
-      strokeWeight(pow(10, res[1])/35);
+      //strokeWeight(pow(10, res[1])/35);
+      strokeWeight(1);
+      float a = pow(10, res[1]);
+      stroke(0, a);
       line(
         HIDDEN_LYR_CNTR.x - hid_lyr_grid_ct*GRID_SIZE*0.5 + (i%hid_lyr_grid_ct) * GRID_SIZE, // hidden x
         HIDDEN_LYR_CNTR.y - hid_lyr_grid_ct*GRID_SIZE*0.5 + (i/hid_lyr_grid_ct) * GRID_SIZE, // hidden y
@@ -170,8 +172,11 @@ class Network {
 
     for (int i = 0; i < output_layer.length; i++) {
       float [] res = output_layer[i].getStrength();
-      stroke(res[1]*200);
-      strokeWeight(pow(10, res[1])/35);
+      //stroke(res[1]*200);
+      //strokeWeight(pow(10, res[1])/35);
+      strokeWeight(1);
+      float a = 2.0*pow(10, res[1]);
+      stroke(0, a);
       line(
         OUTPUT_LYR_CNTR.x, // output x
         //(i%10) * height / 15.0 + height * 0.2, // output y
