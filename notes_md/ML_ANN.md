@@ -54,7 +54,7 @@ In short, there are two neural networks (a _generator_ and a _discriminator_) th
 <sup>^ _Making Pictures With Generative Adversarial Networks_ by Casey Reas </sup>
 
 Here's a very brief list of artists that are using GANs as a medium to produce new works of art (please let me know any others I should add to this list): 
-- [studio international: _Casey Reas – interview_](https://www.studiointernational.com/index.php/casey-reas-interview-computer-art-coding)
-- [art news: _Refik Anadol Trains AI to Dream of New York City_](https://www.artnews.com/art-in-america/features/refik-anadol-machine-hallucination-artechouse-shows-how-ai-dreams-60204/)
+- [studio international: _Casey Reas – interview_](https://www.studiointernational.com/index.php/casey-reas-interview-computer-art-coding). // [_Making Pictures with GANs_ book](https://renaud-bray.com/Afficher.aspx?id=2878876&def=Casey+Reas%3a+Making+Pictures+with+Generative+Adversarial+Networks%2cREAS%2c+CASEY%2c9781926968476&page=184&langue=en)
+- [art news: _Refik Anadol Trains AI to Dream of New York City_](https://www.artnews.com/art-in-america/features/refik-anadol-machine-hallucination-artechouse-shows-how-ai-dreams-60204/) // [ARTECHOUSE NYC: Machine Hallucination](https://www.youtube.com/watch?v=8et1aGdI0HU)
 - [artnet: _Has Artificial Intelligence Brought Us the Next Great Art Movement?_](https://news.artnet.com/market/9-artists-artificial-intelligence-1384207).
 
