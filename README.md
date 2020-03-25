@@ -15,9 +15,9 @@ We'll primarily be working with [Processing](http://www.processing.org/) and [Ar
 <b>Instructor: <a href="http://johnbcarpenter.com">John Carpenter</a></b>
 office hours: monday 3-4pm, 7pm+ in the SCIL lobby / conference room <i>by appointment</i>
 <b>TA: <a href="http://www.brianacantrell.com">Brian Cantrell</a></b>
-office hours: TBD
+office hours: <i>by appointment</i>
 <b>SA: <a href="https://www.remiwedin.com">Remi Wedin</a></b>
-office hours: TBD
+office hours: <i>by appointment</i>
 </pre>
 
 <pre>
