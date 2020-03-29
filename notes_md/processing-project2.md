@@ -4,7 +4,8 @@
 work with one of the topics or technologies we discussed in class, including: 
 - [data visualization (spreadsheets, pixels, or sound)](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/datavis-intro-pixels-sound.md)
 - [3D sensors (kinect, leap motion, realsense, iphoneX + capture)](https://github.com/johnbcarpenter/USC_IML404/tree/master/notes_md/computer-vision-kinect.md)
-- [machine learning ([ANN](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_ANN.md) / [Teachable Machine 2](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_TeachableMachine2.md))
+- machine learning ([ANN](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_ANN.md) / [Teachable Machine 2](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_TeachableMachine2.md))
+
 to generate your own art or design work in processing (or P5JS), and be sure the think about your model for HCI (Human Computer Interaction -- how the user will interact with your work). note: if you've chosen to work on a data visualization, you should still think about how to interact with the system.
 
 this is a fairly open brief, so feel free to present tangential ideas for projects; however, i would like you to work with at least one of the topics listed above.
