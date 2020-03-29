@@ -65,9 +65,9 @@ office hours: <i>by appointment</i>
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_ANN.md">Artificial Neural Networks (ANN) in Processing</a> 
     - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/ML_TeachableMachine2.md">Google's Teachable Machine 2 in Processing</a>
 
-  - Week 12. 03/30/2019 PROCESSING PROJECT02 working session
+  - Week 12. 03/30/2019 <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md">PROCESSING PROJECT02</a> working session
 
-  - Week 13. 04/06/2019 <b>PROCESSING PROJECT02 REVIEW</b>
+  - Week 13. 04/06/2019 <b><a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md">PROCESSING PROJECT02</a> REVIEW</b>
     - in-class critique (with guest reviewer*) *TBD
     - arduino guest talk: electronics for art and design (PETE HAWKES)
 <b>}</b>
