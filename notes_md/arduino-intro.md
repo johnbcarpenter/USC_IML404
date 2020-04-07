@@ -6,7 +6,7 @@
 ## guest lecture by PETE HAWKES (April 06, 2020)
 Pete Hawkes is Faculty at USC's Media Arts + Practice (School of Cinematic Arts) and the [Director of Interaction Design at Oblong Industries](https://www.oblong.com/company/people). Pete gave an introduction to [Arduino](https://www.arduino.cc), and walked the class through some interesting projects, starting with works that use one sensor (input), and one actuator (output), and building to more complicated physical computing systems.  Pete also gave a preview of [TinkerCad](https://www.tinkercad.com/), an online resource we'll be using to design arduino circuits.
 
-Arduino/physical computing rojects mentioned:
+Arduino/physical computing projects mentioned:
 - [Pete Hawkes - _Pet & Purr_](https://vimeo.com/8619142)  
 - [Lauren McCarthy - _Happiness Hat_](https://www.youtube.com/watch?v=y_umsd5FP5Y)   
 - [_Useless Machine_](https://vimeo.com/27098663)   
