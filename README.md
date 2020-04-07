@@ -69,7 +69,7 @@ office hours: <i>by appointment</i>
 
   - Week 13. 04/06/2019 <b><a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md">PROCESSING PROJECT02</a> REVIEW</b>
     - in-class critique
-    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-intro.md"> PETE HAWKES arduino guest talk: electronics for art and design</a>
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-intro.md">PETE HAWKES arduino guest talk: electronics for art and design</a>
 <b>}</b>
 </pre>
 
