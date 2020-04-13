@@ -6,10 +6,6 @@
 this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
 
 ## Basic Circuits / Hardware Intro
-
-![LED schematic](https://www.makerspaces.com/wp-content/uploads/2017/05/led-schematic-diagram2.jpg)  
-<sup>^ LED schematic diagram via [makerspaces.com](https://www.makerspaces.com/basic-electronics/)</sup>
-
 - [_Introduction To Basic Electronics_ on makerspaces.com (good general terms/concepts to know)](https://www.makerspaces.com/basic-electronics/)
 
 ## Arduino
