@@ -21,4 +21,4 @@ to get a jump start on some of the circuits we'll be covering, you can visit [br
 ## Additional Resources
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
-- Book: [Handmade Electronic Music] (https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X)
+- Book: Handmade Electronic Music - https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X
