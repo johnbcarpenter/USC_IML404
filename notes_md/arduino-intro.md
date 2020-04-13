@@ -11,6 +11,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 
 ## Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
+- [install arduino](https://www.arduino.cc/en/main/software)
 - [AutoDesk Tinkercad](https://www.tinkercad.com)
 
 ![brn.cntrll on tinkercad](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png)  
