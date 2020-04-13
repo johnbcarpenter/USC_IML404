@@ -6,10 +6,12 @@
 this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
 
 ## Basic Circuits / Hardware Intro
-- [_Introduction To Basic Electronics_ on makerspaces.com (good general terms/concepts to know)](https://www.makerspaces.com/basic-electronics/)
+- [_Introduction To Basic Electronics_ on makerspaces.com (good general terms/concepts to know)](https://www.makerspaces.com/basic-electronics/): _Breadboard, Test Leads (Alligator Clips), Jumper Wire, Switch, Resistor, Variable Resistor (Potentiometer), Light-Dependent Resistor (LDR), Capacitor, Light-Emitting Diode (LED), Transistor, Circuit, Schematic Diagram_...
+- [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)
 
 ## Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
+- [AutoDesk Tinkercad](https://www.tinkercad.com)
 
 ![brn.cntrll on tinkercad](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png)  
 <sup>^ brn.cntrll on tinkercad</sup>
