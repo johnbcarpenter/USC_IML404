@@ -14,13 +14,14 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 
 ## Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
-- Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
 
 ![brn.cntrll on tinkercad](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png)  
 <sup>^ brn.cntrll on tinkercad</sup>
 
 to get a jump start on some of the circuits we'll be covering, you can visit [brncntrll's tinkercard page](https://www.tinkercad.com/users/8wg8XK0ojGD-brncntrll?category=circuits&sort=likes&view_mode=default)
 
+## Additional Resources
 
+- Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
 
 
