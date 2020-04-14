@@ -1,6 +1,6 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 <p float="left">
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png" height="300" />  <img src="https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_5.jpg" height="300" />
+  <img src="https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_5.jpg" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png" height="300" />  
 </p>
 <sup>^ arduino starter kit projects book arduino board info / arduino board</sup>
 
@@ -41,4 +41,4 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 </p>  
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
-- Book: Handmade Electronic Music - https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X
+- Book: [_Handmade Electronic Music_](https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X)
