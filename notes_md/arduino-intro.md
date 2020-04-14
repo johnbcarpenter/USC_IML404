@@ -25,7 +25,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 - [arduino: blink tutorial](https://www.arduino.cc/en/tutorial/blink)
 - [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
 
-![arduino blink](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg)  
+<img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />  
 
 ## Tinkercad / brn.cntrll
 - we'll be using [AutoDesk Tinkercad](https://www.tinkercad.com) for mocking up our code + schematics 
@@ -40,9 +40,6 @@ to get a jump start on some of the circuits we'll be covering, you can visit [br
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" />
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
 </p>  
-
-![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png)  
-<sup>^ arduino starter kit projects book: _arduino board_</sup>
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
 - Book: Handmade Electronic Music - https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X
