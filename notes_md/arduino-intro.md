@@ -20,7 +20,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_port.png" height="300" /> 
 </p>  
 
-## Blinking an Light EMitting Diode (LED)
+## First Arduino Project: Blinking an Light Emitting Diode (LED)
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />
 </p>
