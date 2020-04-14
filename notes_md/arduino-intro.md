@@ -10,7 +10,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_components1.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_components2.png" height="300" />  
 </p>
-<sup>^ arduino starter kit projects book: [pages 6-11](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_6-11.pdf)</sup>
+<sup>^ arduino starter kit projects book: <a href="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_6-11.pdf">pages 6-11</a></sup>
 
 - [_Introduction To Basic Electronics_ on makerspaces.com (good general terms/concepts to know)](https://www.makerspaces.com/basic-electronics/): _Breadboard, Test Leads (Alligator Clips), Jumper Wire, Switch, Resistor, Variable Resistor (Potentiometer), Light-Dependent Resistor (LDR), Capacitor, Light-Emitting Diode (LED), Transistor, Circuit, Schematic Diagram_...
 - [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)
