@@ -1,6 +1,6 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 
-![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png)  
+<img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png" height="300" />  
 <sup>^ arduino starter kit projects book: _arduino board_</sup>
 
 this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
@@ -22,8 +22,8 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 ## Blinking an Light EMitting Diode (LED)
 ![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png)  
 
-- [arduino: blink](https://www.arduino.cc/en/tutorial/blink)
-- [arduino blink code](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
+- [arduino: blink tutorial](https://www.arduino.cc/en/tutorial/blink)
+- [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
 
 ![arduino blink](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg)  
 
