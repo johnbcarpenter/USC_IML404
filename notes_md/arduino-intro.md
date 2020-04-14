@@ -18,19 +18,21 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 ## Installing + Getting Started with Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
   - [--> arduino software download page](https://www.arduino.cc/en/main/software)
+- plug your arduino into your computer via the USB cable (the PWR LED should light up)
 - select the correct arduino board (_Tools > Board_) + port (_Tools > Port_)
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_board.png" height="300" />
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_port.png" height="300" /> 
 </p>  
 
-## First Arduino Project: Blinking a Light Emitting Diode (LED)
+## The "Hello World" of Arduino Projects: Blinking a Light Emitting Diode (LED)
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />
 </p>
 
 - [arduino: blink tutorial](https://www.arduino.cc/en/tutorial/blink)
 - [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
+- note: verify your arduino code, then upload to the board.  when you upload your arduino program, the LEDs on the board should blink.  if you're LED doesn't blink, check all the connections (make sure wires and components are fully blugged into the breadboard), double check that you're plugged into the correct pins, check the direction of the LED (they're polarized, the "+" wire is the longer one... power should enter the diode via the longer leg), double check that your power and grounds are connected to the breadboard...
 
 ## Using a Buttonto Turn a LED On/Off
 <p float="left">
