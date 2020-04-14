@@ -1,18 +1,34 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S19   
 
-![arduino UNO](https://cdn.arduino.cc/homepage/static/media/arduino-UNO.bcc69bde.png)  
-<sup>^ arduino UNO via [https://www.arduino.cc](https://www.arduino.cc)</sup>
+![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png)  
+<sup>^ arduino starter kit projects book: _arduino board_</sup>
 
 this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4)
 
 ## Basic Circuits / Hardware Intro
+- [arduino starter kit projects book: _pages 6-11_](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_6-11.pdf)
 - [_Introduction To Basic Electronics_ on makerspaces.com (good general terms/concepts to know)](https://www.makerspaces.com/basic-electronics/): _Breadboard, Test Leads (Alligator Clips), Jumper Wire, Switch, Resistor, Variable Resistor (Potentiometer), Light-Dependent Resistor (LDR), Capacitor, Light-Emitting Diode (LED), Transistor, Circuit, Schematic Diagram_...
 - [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)
 
-## Arduino
+## Installing + Getting Started with Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
-- [install arduino](https://www.arduino.cc/en/main/software)
-- [AutoDesk Tinkercad](https://www.tinkercad.com)
+  - [--> install arduino](https://www.arduino.cc/en/main/software)
+- select the correct arduino board (_Tools > Board_) + port (_Tools > Port_)
+<p float="left">
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_board.png" height="300" />
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_port.png" height="300" /> 
+</p>  
+
+## Blinking an Light EMitting Diode (LED)
+![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png)  
+
+- [arduino: blink](https://www.arduino.cc/en/tutorial/blink)
+- [arduino blink code](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
+
+![arduino blink](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg)  
+
+## Tinkercad / brn.cntrll
+- we'll be using [AutoDesk Tinkercad](https://www.tinkercad.com) for mocking up our code + schematics 
 
 ![brn.cntrll on tinkercad](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png)  
 <sup>^ brn.cntrll on tinkercad</sup>
@@ -20,6 +36,13 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 to get a jump start on some of the circuits we'll be covering, you can visit [brncntrll's tinkercard page](https://www.tinkercad.com/users/8wg8XK0ojGD-brncntrll?category=circuits&sort=likes&view_mode=default)
 
 ## Additional Resources
+<p float="left">
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" />
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
+</p>  
+
+![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book_board.png)  
+<sup>^ arduino starter kit projects book: _arduino board_</sup>
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
 - Book: Handmade Electronic Music - https://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/036721010X
