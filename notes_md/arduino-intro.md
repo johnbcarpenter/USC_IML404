@@ -30,16 +30,16 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 
 ## Using a Buttonto Turn a LED On/Off
 <p float="left">
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blinkbutton.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut2.jpeg" height="300" />
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blinkbutton.png" height="200" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut2.jpeg" height="200" />
 </p>
 
 - [arduino: button tutorial](https://www.arduino.cc/en/Tutorial/Button)
 - [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut2_LED_Button)
 
-## Arduino Built-In Examples
+## Next Steps: Arduino Built-In Examples
 [Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
-## Tinkercad / brn.cntrll
+## Next Steps: Tinkercad / brn.cntrll
 <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png" height="300" />  
 <sup>^ brn.cntrll on tinkercad</sup>
 
