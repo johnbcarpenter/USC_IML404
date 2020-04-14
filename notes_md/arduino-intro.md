@@ -37,7 +37,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 
 ## Additional Resources
 <p float="left">
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" /> <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
 </p>  
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
