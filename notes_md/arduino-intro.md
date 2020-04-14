@@ -20,12 +20,13 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 </p>  
 
 ## Blinking an Light EMitting Diode (LED)
-![arduino starter kit projects book](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png)  
+<p float="left">
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png" height="300" />  
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />
+</p>
 
 - [arduino: blink tutorial](https://www.arduino.cc/en/tutorial/blink)
 - [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
-
-<img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />  
 
 ## Tinkercad / brn.cntrll
 - we'll be using [AutoDesk Tinkercad](https://www.tinkercad.com) for mocking up our code + schematics 
@@ -37,8 +38,7 @@ to get a jump start on some of the circuits we'll be covering, you can visit [br
 
 ## Additional Resources
 <p float="left">
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" />
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_make_getting_started_book.png" height="300" /> <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_projects_book.png" height="300" /> 
 </p>  
 
 - Book: [_Make: Getting Started with Arduino_](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334)
