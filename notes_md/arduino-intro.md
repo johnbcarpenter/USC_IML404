@@ -20,13 +20,24 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_port.png" height="300" /> 
 </p>  
 
-## First Arduino Project: Blinking an Light Emitting Diode (LED)
+## First Arduino Project: Blinking a Light Emitting Diode (LED)
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blink.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut1.jpeg" height="300" />
 </p>
 
 - [arduino: blink tutorial](https://www.arduino.cc/en/tutorial/blink)
 - [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut1_LED_blink)
+
+## Using a Buttonto Turn a LED On/Off
+<p float="left">
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tinkercad_blinkbutton.png" height="300" />  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_tut2.jpeg" height="300" />
+</p>
+
+- [arduino: button tutorial](https://www.arduino.cc/en/Tutorial/Button)
+- [arduino blink code from class](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/ARDUINO/Tut2_LED_Button)
+
+## Arduino Built-In Examples
+[Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
 ## Tinkercad / brn.cntrll
 <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/brncntrll_tinkercad.png" height="300" />  
