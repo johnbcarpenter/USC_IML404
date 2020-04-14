@@ -13,7 +13,7 @@ this is the compatible Arduino UNO kit we'll use: [the ELEGOO (~$36)](https://ww
 
 ## Installing + Getting Started with Arduino
 - [arduino.cc: Getting Started with Arduino products](https://www.arduino.cc/en/Guide/HomePage)
-  - [--> install arduino](https://www.arduino.cc/en/main/software)
+  - [--> arduino software download page](https://www.arduino.cc/en/main/software)
 - select the correct arduino board (_Tools > Board_) + port (_Tools > Port_)
 <p float="left">
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino_board.png" height="300" />
