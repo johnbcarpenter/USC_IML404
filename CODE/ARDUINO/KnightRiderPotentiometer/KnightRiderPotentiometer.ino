@@ -1,15 +1,6 @@
-// https://www.arduino.cc/en/Tutorial/KnightRider
-
-/* Knight Rider 1
- * --------------
- *
- * Basically an extension of Blink_LED.
- *
- *
- * (cleft) 2005 K3, Malmo University
- * @author: David Cuartielles
- * @hardware: David Cuartielles, Aaron Hallborg
- */
+// Knight Rider 1 with a Potentiometer...
+// https://www.arduino.cc/en/Tutorial/KnightRider (notes below)
+// https://www.arduino.cc/en/tutorial/potentiometer
 
 // knight rider
 int pin2 = 2;
@@ -85,3 +76,14 @@ void loop() {
    digitalWrite(pin3, LOW);
    delay(timer);
 }
+
+/* Knight Rider 1
+ * --------------
+ *
+ * Basically an extension of Blink_LED.
+ *
+ *
+ * (cleft) 2005 K3, Malmo University
+ * @author: David Cuartielles
+ * @hardware: David Cuartielles, Aaron Hallborg
+ */
