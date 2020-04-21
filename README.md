@@ -78,9 +78,8 @@ office hours: <i>by appointment</i>
   - Week 14. 04/13/2019 <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-intro.md">arduino: intro + LED blinks</a>
 
   - Week 15. 04/20/2019 arduino: sensors + actuators
-    - microcontrollers / leds / knobs / pots
-    - photocells / servos
-    - buttons / piezo / debounce
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-knightrider.md">knightrider example + a potentiometer</a>
+    - guest lecture by <a href="https://cacheflowe.com">@cacheflowe</a>  
 
   - Week 16. 04/27/2019 arduino, processing serial
     - fabrication : ARDUINO PROJECT working session
