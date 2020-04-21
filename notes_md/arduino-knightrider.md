@@ -2,7 +2,7 @@
 
 ## Knight Rider Demo
 <p float="left">
-  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino-knightrider.gif.png" height="300" />  
+  <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino-knightrider.gif" height="300" />  
   <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino-knightrider-circuit.png" height="300" />  
 </p>
 <sup>^ arduino <a href="https://www.arduino.cc/en/Tutorial/KnightRider">knight rider demo</a></sup>
