@@ -3,7 +3,7 @@
 ![arduino-knightrider](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino-knightrider.gif)  
 
 ## Knight Rider Demo
-This demo is based on the 1980s action Drama TV show starring _Knight Industries Three Thousand (KITT)_ and David Hasseholff.  KITT's front grill had a series of lights that panned back and forth... it's worth checking out the [Knight Rider opening sequence](https://www.youtube.com/watch?v=oNyXYPhnUIs).
+This demo is based on the 1980s action Drama TV show starring _Knight Industries Three Thousand (KITT)_ and David Hasseholff.  KITT's front grill had a series of lights that panned back and forth... it's worth checking out the [Knight Rider TV series opening sequence](https://www.youtube.com/watch?v=oNyXYPhnUIs).
 
 <img src="https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/arduino-knightrider-circuit.png" height="300" />  
 <sup>^ arduino <a href="https://www.arduino.cc/en/Tutorial/KnightRider">knight rider demo</a></sup>
