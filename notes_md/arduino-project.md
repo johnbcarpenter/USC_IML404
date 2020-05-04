@@ -1,15 +1,15 @@
 # IML404 // Tangible + Spatial Computing // USC MA+P S20   
 
 ## ARDUINO PROJECT // DUE 05/11/2020 @430PM
-in short, you can use any combo of your arduino, breadboard and
-- 1 input (aka a sensor: ultrasonic, temperature, photo resistor, joystick, button, switch, potentiometer), and 
-- 1 output (aka an actuator: a motor, LED, LCD display panel, buzzer, speaker) 
+in short, you can use any combo of your **arduino, breadboard and**
+- **1 input** (aka a sensor: ultrasonic, temperature, photo resistor, joystick, button, switch, potentiometer), and 
+- **1 output** (aka an actuator: a motor, LED, LCD display panel, buzzer, speaker) 
 
 from your kits to build an artwork, device, and/or prototype. please think about how you'll interact with -- or drive (data, time, kinect data from processing?) -- your system. _if you would like to use more than 1 sensor or actuator, please let me know about your idea during class or in an email._  
 
 your work can be as fun or serious as you like. please feel free to not solve a problem at all (eg create an interactive kinetic sculpture!) or try to tackle a design problem  with a series of constraints (can you create a touch-less interface to your computer?). 
 
-there's three components to the project: 
+**there's three components to the project:**
 - design the circuit (using a program like tinkercad + document)
 - build the circuit (physically wire things up to your arduino + breadboard + document) 
 - fabricate your prototype (think about the physical form your project takes -- is it in an enclosure? are the components exposed? + document)
