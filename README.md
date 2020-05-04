@@ -82,12 +82,12 @@ office hours: <i>by appointment</i>
     - guest lecture by <a href="https://cacheflowe.com">@cacheflowe</a>  
 
   - Week 16. 04/27/2019 arduino, processing serial
-    - fabrication : ARDUINO PROJECT working session
-    - processing <--> serial
+    - fabrication : <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-project.md">ARDUINO PROJECT</a> working session
+    - <a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-processing.md">processing <--> arduino via serial</a>
 
   - <i>// Week 17. Study Days: 05/02 - 05/05/2019 (no class)</i>
 
-  - FINAL. 05/11/2019 4:30-6:30 p.m. <b>ARDUINO PROJECT REVIEW</b>
+  - FINAL. 05/11/2019 4:30-6:30 p.m. <b><a href="https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/arduino-project.md">ARDUINO PROJECT</a> REVIEW</b>
 <b>}</b>
 </pre>
 
