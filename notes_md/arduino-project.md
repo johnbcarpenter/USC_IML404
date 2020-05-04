@@ -8,14 +8,14 @@ in short, you can use any combo of your arduino, breadboard and
 from your kits to build an artwork, device, and/or prototype. _if you would like to use more than 1 sensor or actuator, please let me know about your idea during class or in an email._  
 
 your work can be as fun or serious as you like. please feel free to create a work that doesn't solve a problem at all 
-(eg create a kinetic sculpture!) or try to tackle a design problem and with a series of constraints (can you create a touch-less interface to your computer?). 
+(eg create a kinetic sculpture!) or try to tackle a design problem  with a series of constraints (can you create a touch-less interface to your computer?). 
 
 there's three components to the project: 
 - design the circuit (using a program like tinkercad + document)
 - build the circuit (physically wire things up to your arduino + breadboard + document) 
 - fabricate your prototype (think about the physical form your project takes -- is it in an enclosure? are the components exposed? + document)
 
-this is a fairly open brief, so feel free to present tangential ideas; *however, you must work with at least one arduino board and one sensor and actuator.*
+this is a fairly open brief, so feel free to present tangential ideas; *however, you must work with at least one arduino board and one sensor and actuator (and probably the breadboard, but ¯\_(ツ)_/¯).*
      
 ...unless you weren't able to secure your kit for a variety of reasons.  if so (and with approval from me) you can build on your processing work.  please structure your materials similar to [PROCESSING PROJECT 01](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md) or [PROCESSING PROJECT 02](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md).
 
