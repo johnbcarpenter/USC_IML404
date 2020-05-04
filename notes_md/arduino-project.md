@@ -7,8 +7,7 @@ in short, you can use any combo of your arduino, breadboard and
 
 from your kits to build an artwork, device, and/or prototype. _if you would like to use more than 1 sensor or actuator, please let me know about your idea during class or in an email._  
 
-your work can be as fun or serious as you like. please feel free to create a work that doesn't solve a problem at all 
-(eg create a kinetic sculpture!) or try to tackle a design problem  with a series of constraints (can you create a touch-less interface to your computer?). 
+your work can be as fun or serious as you like. please feel free to not solve a problem at all (eg create a kinetic sculpture!) or try to tackle a design problem  with a series of constraints (can you create a touch-less interface to your computer?). 
 
 there's three components to the project: 
 - design the circuit (using a program like tinkercad + document)
