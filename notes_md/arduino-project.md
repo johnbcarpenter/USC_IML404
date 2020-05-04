@@ -15,9 +15,9 @@ there's three components to the project:
 - build the circuit (physically wire things up to your arduino + breadboard + document) 
 - fabricate your prototype (think about the physical form your project takes -- is it in an enclosure? are the components exposed? + document)
 
-this is a fairly open brief, so feel free to present tangential ideas; *however, you must work with at least one arduino board and one sensor and actuator (and probably the breadboard, but ¯\_(ツ)_/¯).*
+this is a fairly open brief, so feel free to present tangential ideas; *however, you must work with at least one arduino board and one sensor and actuator (and probably the breadboard, but `¯\_(ツ)_/¯`).*
      
-...unless you weren't able to secure your kit for a variety of reasons.  if so (and with approval from me) you can build on your processing work.  please structure your materials similar to [PROCESSING PROJECT 01](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md) or [PROCESSING PROJECT 02](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md).
+*...unless you weren't able to secure your kit for a variety of reasons.  if so (and with approval from me) you can build on your processing work.  please structure your materials similar to [PROCESSING PROJECT 01](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project.md) or [PROCESSING PROJECT 02](https://github.com/johnbcarpenter/USC_IML404/blob/master/notes_md/processing-project2.md).*
 
 ### IN-CLASS DEMO + THINGS TO TURN IN TO THE GOOGLE DRIVE:
 - in-class video or web cam demo (feel free to just play your documentation video since we'll all be remote)
