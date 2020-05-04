@@ -4,8 +4,8 @@
 in short, you can use any combo of 
 - 1 input (aka a sensor: ultrasonic, temperature, photo resistor, joystick, button, switch, potentiometer), and 
 - 1 output (aka an actuator: a motor, LED, LCD display panel, buzzer, speaker) 
-from your kits to build an artwork, device, and/or prototype + your arduino and breadboard.  
-_if you would like to use more than 1 sensor or actuator, please let me know about your idea during class or in an email._  
+
+from your kits to build an artwork, device, and/or prototype + your arduino and breadboard. _if you would like to use more than 1 sensor or actuator, please let me know about your idea during class or in an email._  
 
 your work can be as fun or serious as you like. please feel free to create a work that doesn't solve a problem at all 
 (eg create a kinetic sculpture!) or try to tackle a design problem and with a series of constraints (can you create a touch-less interface to your computer?). 
