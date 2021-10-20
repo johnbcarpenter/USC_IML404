@@ -28,3 +28,6 @@ Generate a random color for every hue, and replace that color in the captured pi
 
 ![simple pixel sorting](https://github.com/johnbcarpenter/USC_IML404_IMAGES/blob/master/images/pixel-sort.png)  
 <sup>^ [simple pixel sorting / distortion](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/DATA/WebcamReordering_01)</sup>
+
+## sound
+Discussion needs to be written up, but some starting examples are [here](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/SOUND)
