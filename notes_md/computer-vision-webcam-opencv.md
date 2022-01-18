@@ -22,8 +22,6 @@ in order to run these examples, you'll need to download the processing video lib
 Unfortunately this doesn't run with the latest version of processing, and the last time the repo was updated was 9+ years ago... (so it's probably not coming back).  This is still a nice example using frame differencing (previously available with openCV)...
 [_the day i die_ by the national (youtube link), video by Casey Reas](https://www.youtube.com/watch?v=GwZvip416NU)  
 
-- [face differences w keypress (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDiff)
-
 ## shiffman on computer vision
 - [shiffman intro to CV (youtube)](https://www.youtube.com/watch?v=h8tk0hmWB44)
 - [shiffman on blob detection / color tracking (youtube)](https://www.youtube.com/watch?v=ce-2l2wRqO8) // [code (github)](https://github.com/CodingTrain/website/tree/3640cedf9f696402fafe51dae4de998a1ab3ef17/Tutorials/Processing/11_video)
