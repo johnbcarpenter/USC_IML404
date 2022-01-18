@@ -19,9 +19,8 @@ in order to run these examples, you'll need to download the processing video lib
 ### [OpenCV for Processing by Greg Borenstein](https://github.com/atduskgreg/opencv-processing)
 ~~in order to run these examples, you'll need to download the OpenCV library (`Sketch > Import Library... > Add Library...`  search for OpenCV and install `OpenCV for Processing`).~~
 
-Unfortunately this doesn't run with the latest version of processing, and the last time the repo was updated was 9+ years ago... (so it's probably not coming back).  This is still a nice example...
-<sup>^[_the day i die_ by the national (youtube link)](https://www.youtube.com/watch?v=GwZvip416NU) //
-the video by casey reas uses a similar effect to the FaceDiff sketch</sup>
+Unfortunately this doesn't run with the latest version of processing, and the last time the repo was updated was 9+ years ago... (so it's probably not coming back).  This is still a nice example using frame differencing (previously available with openCV)...
+[_the day i die_ by the national (youtube link), video by Casey Reas](https://www.youtube.com/watch?v=GwZvip416NU)  
 
 - [face differences w keypress (using OpenCV for processing)](https://github.com/johnbcarpenter/USC_IML404/tree/master/CODE/PROCESSING/RGB_CAMERA/FaceDiff)
 
