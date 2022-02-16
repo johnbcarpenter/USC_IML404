@@ -4,6 +4,7 @@
 
 import org.openkinect.freenect.*;
 import org.openkinect.processing.*;
+import processing.video.*;
 
 // Kinect Library object
 Kinect kinect;

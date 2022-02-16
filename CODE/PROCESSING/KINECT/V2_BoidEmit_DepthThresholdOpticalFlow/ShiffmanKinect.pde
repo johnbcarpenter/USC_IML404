@@ -1,4 +1,5 @@
 import org.openkinect.processing.*;
+import processing.video.*;
 
 class ShiffmanKinect {
 

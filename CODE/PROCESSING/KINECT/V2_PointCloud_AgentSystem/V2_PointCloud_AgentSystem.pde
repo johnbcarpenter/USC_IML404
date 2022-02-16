@@ -8,6 +8,8 @@
 
 import org.openkinect.processing.*;
 //import java.nio.FloatBuffer;
+import processing.video.*;
+
 
 // Kinect Library object
 Kinect2 kinect2;
