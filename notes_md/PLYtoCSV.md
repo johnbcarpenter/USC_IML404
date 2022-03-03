@@ -1,11 +1,11 @@
-###PLY to CSV conversion
+# PLY to CSV conversion
 
-# Part I. Export to PLY
+### Part I. Export to PLY
 - Create a free Standard Cyborg account: https://platform.standardcyborg.com/
 - Log into your account on your phone and save your pointcount (it should automatically show up in your Standard Cyborg "Scans" gallery now).
 - Select the scan your interested in.  In the top right corner download the PLY version of the file to your computer.
 
-# Part II. Convert your PLY to a CSV
+### Part II. Convert your PLY to a CSV
 - Download and install Sublime text editor: https://www.sublimetext.com/3
 - Open your PLY in Sublime.
 - Create the header for your CSV:
