@@ -60,3 +60,10 @@ void draw() {
     bs[i].DrawSelf();
   }
 }
+
+void keyPressed() {
+  //if (key=='w') SOF.flagseg=!SOF.flagseg; // segmentation on/off
+  if (key=='m') SOF.flagmirror=!SOF.flagmirror; // mirror on/off
+  else if (key=='i') SOF.flagimage=!SOF.flagimage; // show video on/off
+  else if (key=='f') SOF.flagflow=!SOF.flagflow; // show opticalflow on/off
+}
